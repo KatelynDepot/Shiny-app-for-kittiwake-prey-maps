@@ -23,24 +23,19 @@ Shiny-app-for-kittiwake-prey-maps/
 ├── Map_functions.R     # Functions for mapping, called by Make_plots.R.
 ├── preymaps/           # Project directory for Shiny app.
     ├── app.R           # Script for Shiny app.
-    ├── www/plots/      # Folder where plots are saved. File names are formatted SampleType_DeploymentID.png.
+    ├── www/plots/      # Folder where plots are saved. File names formatted SampleType_DeploymentID.png.
     ├── data/
-        ├── marmap_coord_-149;57.5;-143.5;61_res_0.25.csv   
-              # Bathymetry data for mapping (may be downloaded by running Make_plots.R).
-        ├── Shiny_plot_table.csv        # Table of plots, used to make table shown in app.
-        ├── Shiny_gurge_ids_df.csv      # GPS deployments associated with regurgitates.
-        ├── Shiny_fDNA_ids_df.csv       # GPS deployments associated with fecal DNA.
-        ├── Shiny_gurge_table_long.csv  # Relative biomasses of prey in regurgitates. 
-        ├── Shiny_fDNA_metazoa_long.csv
-              # Relative read abundances of metazoan prey in fecal DNA, from 18S sequences.
-        ├── Shiny_fDNA_fish_long.csv
-              # Relative read abundances of fish prey in fecal DNA, from 12S sequences.
+        ├── marmap_coord_-149;57.5;-143.5;61_res_0.25.csv # Bathymetry data (downloaded with marmap package in Map_functions.R).
+        ├── Shiny_plot_table.csv            # Table of plots, used to make table in app.
+        ├── Shiny_gurge_ids_df.csv          # GPS deployments associated with regurgitates.
+        ├── Shiny_fDNA_ids_df.csv           # GPS deployments associated with fecal DNA.
+        ├── Shiny_gurge_table_long.csv      # Relative biomasses of prey in regurgitates. 
+        ├── Shiny_fDNA_metazoa_long.csv     # Relative read abundances of metazoan prey in fecal DNA, from 18S sequences.
+        ├── Shiny_fDNA_fish_long.csv        # Relative read abundances of fish prey in fecal DNA, from 12S sequences.
         ├── Shiny_gurge_prey_points.csv     # Foraging points associated with regurgitates.
         ├── Shiny_fDNA_prey_points.csv      # Foraging points associated with fecal DNA.
-        ├── Shiny_gurge_dead_batteries.csv
-              # Locations and times of GPS battery death (regurgitates where <9 h before capture)
-        └── Shiny_fDNA_dead_batteries.csv
-              # Locations and times of GPS battery death (fecal DNA where 1-12 h before capture)
+        ├── Shiny_gurge_dead_batteries.csv  # Locations and times of GPS battery death (regurgitates where <9 h before capture).
+        └── Shiny_fDNA_dead_batteries.csv   # Locations and times of GPS battery death (fecal DNA where 1-12 h before capture).
 ```
 
 --- DATA ATTRIBUTES ---
