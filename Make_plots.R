@@ -224,7 +224,7 @@ for(i in seq(1:dplyr::n_distinct(ids))){
   message(paste(i,"/",dplyr::n_distinct(ids),"completed"))
 }
 
-# export plot list ------------------------------------------------------------
+# export plot table -----------------------------------------------------------
 
 gurge_ids_df <- read.csv('preymaps/data/Shiny_gurge_ids_df.csv') |>
   dplyr::mutate(type = "Regurgitate",
