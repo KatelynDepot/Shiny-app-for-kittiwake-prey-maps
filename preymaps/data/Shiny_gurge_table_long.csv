@@ -1,0 +1,4096 @@
+"dep_id","Prey","rel_mass"
+"YOEWS_20130704","Herring (1+)",0
+"YOEWS_20130704","Capelin (1+)",1
+"YOEWS_20130704","Sand lance (1+)",0
+"YOEWS_20130704","Sablefish",0
+"YOEWS_20130704","Sand lance (0)",0
+"YOEWS_20130704","Eulachon",0
+"YOEWS_20130704","Myctophid",0
+"YOEWS_20130704","Salmon",0
+"YOEWS_20130704","Lingcod",0
+"YOEWS_20130704","Greenling",0
+"YOEWS_20130704","Gadid",0
+"YOEWS_20130704","Pollock",0
+"YOEWS_20130704","Herring (0)",0
+"YOEWS_20130704","Capelin (0)",0
+"YOEWS_20130704","Squid",0
+"YOEWS_20130704","Amphipod",0
+"YOEWS_20130704","Euphausiid",0
+"YOEWS_20130704","Polychaete",0
+"YOEWS_20130704","Shrimp",0
+"YOEWS_20130704","Fish",0
+"YOEWS_20130704","Stichaeid",0
+"BSBOE_20130708","Herring (1+)",0
+"BSBOE_20130708","Capelin (1+)",1
+"BSBOE_20130708","Sand lance (1+)",0
+"BSBOE_20130708","Sablefish",0
+"BSBOE_20130708","Sand lance (0)",0
+"BSBOE_20130708","Eulachon",0
+"BSBOE_20130708","Myctophid",0
+"BSBOE_20130708","Salmon",0
+"BSBOE_20130708","Lingcod",0
+"BSBOE_20130708","Greenling",0
+"BSBOE_20130708","Gadid",0
+"BSBOE_20130708","Pollock",0
+"BSBOE_20130708","Herring (0)",0
+"BSBOE_20130708","Capelin (0)",0
+"BSBOE_20130708","Squid",0
+"BSBOE_20130708","Amphipod",0
+"BSBOE_20130708","Euphausiid",0
+"BSBOE_20130708","Polychaete",0
+"BSBOE_20130708","Shrimp",0
+"BSBOE_20130708","Fish",0
+"BSBOE_20130708","Stichaeid",0
+"EEBOS_20130708","Herring (1+)",0
+"EEBOS_20130708","Capelin (1+)",1
+"EEBOS_20130708","Sand lance (1+)",0
+"EEBOS_20130708","Sablefish",0
+"EEBOS_20130708","Sand lance (0)",0
+"EEBOS_20130708","Eulachon",0
+"EEBOS_20130708","Myctophid",0
+"EEBOS_20130708","Salmon",0
+"EEBOS_20130708","Lingcod",0
+"EEBOS_20130708","Greenling",0
+"EEBOS_20130708","Gadid",0
+"EEBOS_20130708","Pollock",0
+"EEBOS_20130708","Herring (0)",0
+"EEBOS_20130708","Capelin (0)",0
+"EEBOS_20130708","Squid",0
+"EEBOS_20130708","Amphipod",0
+"EEBOS_20130708","Euphausiid",0
+"EEBOS_20130708","Polychaete",0
+"EEBOS_20130708","Shrimp",0
+"EEBOS_20130708","Fish",0
+"EEBOS_20130708","Stichaeid",0
+"WSGYE_20130708","Herring (1+)",0
+"WSGYE_20130708","Capelin (1+)",1
+"WSGYE_20130708","Sand lance (1+)",0
+"WSGYE_20130708","Sablefish",0
+"WSGYE_20130708","Sand lance (0)",0
+"WSGYE_20130708","Eulachon",0
+"WSGYE_20130708","Myctophid",0
+"WSGYE_20130708","Salmon",0
+"WSGYE_20130708","Lingcod",0
+"WSGYE_20130708","Greenling",0
+"WSGYE_20130708","Gadid",0
+"WSGYE_20130708","Pollock",0
+"WSGYE_20130708","Herring (0)",0
+"WSGYE_20130708","Capelin (0)",0
+"WSGYE_20130708","Squid",0
+"WSGYE_20130708","Amphipod",0
+"WSGYE_20130708","Euphausiid",0
+"WSGYE_20130708","Polychaete",0
+"WSGYE_20130708","Shrimp",0
+"WSGYE_20130708","Fish",0
+"WSGYE_20130708","Stichaeid",0
+"YSBRG_20130708","Herring (1+)",0
+"YSBRG_20130708","Capelin (1+)",0.70045045045045
+"YSBRG_20130708","Sand lance (1+)",0
+"YSBRG_20130708","Sablefish",0
+"YSBRG_20130708","Sand lance (0)",0
+"YSBRG_20130708","Eulachon",0
+"YSBRG_20130708","Myctophid",0
+"YSBRG_20130708","Salmon",0
+"YSBRG_20130708","Lingcod",0
+"YSBRG_20130708","Greenling",0.29954954954955
+"YSBRG_20130708","Gadid",0
+"YSBRG_20130708","Pollock",0
+"YSBRG_20130708","Herring (0)",0
+"YSBRG_20130708","Capelin (0)",0
+"YSBRG_20130708","Squid",0
+"YSBRG_20130708","Amphipod",0
+"YSBRG_20130708","Euphausiid",0
+"YSBRG_20130708","Polychaete",0
+"YSBRG_20130708","Shrimp",0
+"YSBRG_20130708","Fish",0
+"YSBRG_20130708","Stichaeid",0
+"YSEGG_20130708","Herring (1+)",0
+"YSEGG_20130708","Capelin (1+)",1
+"YSEGG_20130708","Sand lance (1+)",0
+"YSEGG_20130708","Sablefish",0
+"YSEGG_20130708","Sand lance (0)",0
+"YSEGG_20130708","Eulachon",0
+"YSEGG_20130708","Myctophid",0
+"YSEGG_20130708","Salmon",0
+"YSEGG_20130708","Lingcod",0
+"YSEGG_20130708","Greenling",0
+"YSEGG_20130708","Gadid",0
+"YSEGG_20130708","Pollock",0
+"YSEGG_20130708","Herring (0)",0
+"YSEGG_20130708","Capelin (0)",0
+"YSEGG_20130708","Squid",0
+"YSEGG_20130708","Amphipod",0
+"YSEGG_20130708","Euphausiid",0
+"YSEGG_20130708","Polychaete",0
+"YSEGG_20130708","Shrimp",0
+"YSEGG_20130708","Fish",0
+"YSEGG_20130708","Stichaeid",0
+"WSWBB_20130711","Herring (1+)",0
+"WSWBB_20130711","Capelin (1+)",1
+"WSWBB_20130711","Sand lance (1+)",0
+"WSWBB_20130711","Sablefish",0
+"WSWBB_20130711","Sand lance (0)",0
+"WSWBB_20130711","Eulachon",0
+"WSWBB_20130711","Myctophid",0
+"WSWBB_20130711","Salmon",0
+"WSWBB_20130711","Lingcod",0
+"WSWBB_20130711","Greenling",0
+"WSWBB_20130711","Gadid",0
+"WSWBB_20130711","Pollock",0
+"WSWBB_20130711","Herring (0)",0
+"WSWBB_20130711","Capelin (0)",0
+"WSWBB_20130711","Squid",0
+"WSWBB_20130711","Amphipod",0
+"WSWBB_20130711","Euphausiid",0
+"WSWBB_20130711","Polychaete",0
+"WSWBB_20130711","Shrimp",0
+"WSWBB_20130711","Fish",0
+"WSWBB_20130711","Stichaeid",0
+"YSGWY_20130716","Herring (1+)",0
+"YSGWY_20130716","Capelin (1+)",1
+"YSGWY_20130716","Sand lance (1+)",0
+"YSGWY_20130716","Sablefish",0
+"YSGWY_20130716","Sand lance (0)",0
+"YSGWY_20130716","Eulachon",0
+"YSGWY_20130716","Myctophid",0
+"YSGWY_20130716","Salmon",0
+"YSGWY_20130716","Lingcod",0
+"YSGWY_20130716","Greenling",0
+"YSGWY_20130716","Gadid",0
+"YSGWY_20130716","Pollock",0
+"YSGWY_20130716","Herring (0)",0
+"YSGWY_20130716","Capelin (0)",0
+"YSGWY_20130716","Squid",0
+"YSGWY_20130716","Amphipod",0
+"YSGWY_20130716","Euphausiid",0
+"YSGWY_20130716","Polychaete",0
+"YSGWY_20130716","Shrimp",0
+"YSGWY_20130716","Fish",0
+"YSGWY_20130716","Stichaeid",0
+"BEOGS_20130531","Herring (1+)",0
+"BEOGS_20130531","Capelin (1+)",1
+"BEOGS_20130531","Sand lance (1+)",0
+"BEOGS_20130531","Sablefish",0
+"BEOGS_20130531","Sand lance (0)",0
+"BEOGS_20130531","Eulachon",0
+"BEOGS_20130531","Myctophid",0
+"BEOGS_20130531","Salmon",0
+"BEOGS_20130531","Lingcod",0
+"BEOGS_20130531","Greenling",0
+"BEOGS_20130531","Gadid",0
+"BEOGS_20130531","Pollock",0
+"BEOGS_20130531","Herring (0)",0
+"BEOGS_20130531","Capelin (0)",0
+"BEOGS_20130531","Squid",0
+"BEOGS_20130531","Amphipod",0
+"BEOGS_20130531","Euphausiid",0
+"BEOGS_20130531","Polychaete",0
+"BEOGS_20130531","Shrimp",0
+"BEOGS_20130531","Fish",0
+"BEOGS_20130531","Stichaeid",0
+"WSWRE_20130531","Herring (1+)",0
+"WSWRE_20130531","Capelin (1+)",1
+"WSWRE_20130531","Sand lance (1+)",0
+"WSWRE_20130531","Sablefish",0
+"WSWRE_20130531","Sand lance (0)",0
+"WSWRE_20130531","Eulachon",0
+"WSWRE_20130531","Myctophid",0
+"WSWRE_20130531","Salmon",0
+"WSWRE_20130531","Lingcod",0
+"WSWRE_20130531","Greenling",0
+"WSWRE_20130531","Gadid",0
+"WSWRE_20130531","Pollock",0
+"WSWRE_20130531","Herring (0)",0
+"WSWRE_20130531","Capelin (0)",0
+"WSWRE_20130531","Squid",0
+"WSWRE_20130531","Amphipod",0
+"WSWRE_20130531","Euphausiid",0
+"WSWRE_20130531","Polychaete",0
+"WSWRE_20130531","Shrimp",0
+"WSWRE_20130531","Fish",0
+"WSWRE_20130531","Stichaeid",0
+"BGBBS_20130603","Herring (1+)",0
+"BGBBS_20130603","Capelin (1+)",1
+"BGBBS_20130603","Sand lance (1+)",0
+"BGBBS_20130603","Sablefish",0
+"BGBBS_20130603","Sand lance (0)",0
+"BGBBS_20130603","Eulachon",0
+"BGBBS_20130603","Myctophid",0
+"BGBBS_20130603","Salmon",0
+"BGBBS_20130603","Lingcod",0
+"BGBBS_20130603","Greenling",0
+"BGBBS_20130603","Gadid",0
+"BGBBS_20130603","Pollock",0
+"BGBBS_20130603","Herring (0)",0
+"BGBBS_20130603","Capelin (0)",0
+"BGBBS_20130603","Squid",0
+"BGBBS_20130603","Amphipod",0
+"BGBBS_20130603","Euphausiid",0
+"BGBBS_20130603","Polychaete",0
+"BGBBS_20130603","Shrimp",0
+"BGBBS_20130603","Fish",0
+"BGBBS_20130603","Stichaeid",0
+"BSRRB_20130603","Herring (1+)",0
+"BSRRB_20130603","Capelin (1+)",1
+"BSRRB_20130603","Sand lance (1+)",0
+"BSRRB_20130603","Sablefish",0
+"BSRRB_20130603","Sand lance (0)",0
+"BSRRB_20130603","Eulachon",0
+"BSRRB_20130603","Myctophid",0
+"BSRRB_20130603","Salmon",0
+"BSRRB_20130603","Lingcod",0
+"BSRRB_20130603","Greenling",0
+"BSRRB_20130603","Gadid",0
+"BSRRB_20130603","Pollock",0
+"BSRRB_20130603","Herring (0)",0
+"BSRRB_20130603","Capelin (0)",0
+"BSRRB_20130603","Squid",0
+"BSRRB_20130603","Amphipod",0
+"BSRRB_20130603","Euphausiid",0
+"BSRRB_20130603","Polychaete",0
+"BSRRB_20130603","Shrimp",0
+"BSRRB_20130603","Fish",0
+"BSRRB_20130603","Stichaeid",0
+"OSWWR_20130603","Herring (1+)",0
+"OSWWR_20130603","Capelin (1+)",1
+"OSWWR_20130603","Sand lance (1+)",0
+"OSWWR_20130603","Sablefish",0
+"OSWWR_20130603","Sand lance (0)",0
+"OSWWR_20130603","Eulachon",0
+"OSWWR_20130603","Myctophid",0
+"OSWWR_20130603","Salmon",0
+"OSWWR_20130603","Lingcod",0
+"OSWWR_20130603","Greenling",0
+"OSWWR_20130603","Gadid",0
+"OSWWR_20130603","Pollock",0
+"OSWWR_20130603","Herring (0)",0
+"OSWWR_20130603","Capelin (0)",0
+"OSWWR_20130603","Squid",0
+"OSWWR_20130603","Amphipod",0
+"OSWWR_20130603","Euphausiid",0
+"OSWWR_20130603","Polychaete",0
+"OSWWR_20130603","Shrimp",0
+"OSWWR_20130603","Fish",0
+"OSWWR_20130603","Stichaeid",0
+"EGEWS_20130605","Herring (1+)",0
+"EGEWS_20130605","Capelin (1+)",1
+"EGEWS_20130605","Sand lance (1+)",0
+"EGEWS_20130605","Sablefish",0
+"EGEWS_20130605","Sand lance (0)",0
+"EGEWS_20130605","Eulachon",0
+"EGEWS_20130605","Myctophid",0
+"EGEWS_20130605","Salmon",0
+"EGEWS_20130605","Lingcod",0
+"EGEWS_20130605","Greenling",0
+"EGEWS_20130605","Gadid",0
+"EGEWS_20130605","Pollock",0
+"EGEWS_20130605","Herring (0)",0
+"EGEWS_20130605","Capelin (0)",0
+"EGEWS_20130605","Squid",0
+"EGEWS_20130605","Amphipod",0
+"EGEWS_20130605","Euphausiid",0
+"EGEWS_20130605","Polychaete",0
+"EGEWS_20130605","Shrimp",0
+"EGEWS_20130605","Fish",0
+"EGEWS_20130605","Stichaeid",0
+"GBRGS_20130605","Herring (1+)",0
+"GBRGS_20130605","Capelin (1+)",1
+"GBRGS_20130605","Sand lance (1+)",0
+"GBRGS_20130605","Sablefish",0
+"GBRGS_20130605","Sand lance (0)",0
+"GBRGS_20130605","Eulachon",0
+"GBRGS_20130605","Myctophid",0
+"GBRGS_20130605","Salmon",0
+"GBRGS_20130605","Lingcod",0
+"GBRGS_20130605","Greenling",0
+"GBRGS_20130605","Gadid",0
+"GBRGS_20130605","Pollock",0
+"GBRGS_20130605","Herring (0)",0
+"GBRGS_20130605","Capelin (0)",0
+"GBRGS_20130605","Squid",0
+"GBRGS_20130605","Amphipod",0
+"GBRGS_20130605","Euphausiid",0
+"GBRGS_20130605","Polychaete",0
+"GBRGS_20130605","Shrimp",0
+"GBRGS_20130605","Fish",0
+"GBRGS_20130605","Stichaeid",0
+"BOBGS_20130611","Herring (1+)",0
+"BOBGS_20130611","Capelin (1+)",1
+"BOBGS_20130611","Sand lance (1+)",0
+"BOBGS_20130611","Sablefish",0
+"BOBGS_20130611","Sand lance (0)",0
+"BOBGS_20130611","Eulachon",0
+"BOBGS_20130611","Myctophid",0
+"BOBGS_20130611","Salmon",0
+"BOBGS_20130611","Lingcod",0
+"BOBGS_20130611","Greenling",0
+"BOBGS_20130611","Gadid",0
+"BOBGS_20130611","Pollock",0
+"BOBGS_20130611","Herring (0)",0
+"BOBGS_20130611","Capelin (0)",0
+"BOBGS_20130611","Squid",0
+"BOBGS_20130611","Amphipod",0
+"BOBGS_20130611","Euphausiid",0
+"BOBGS_20130611","Polychaete",0
+"BOBGS_20130611","Shrimp",0
+"BOBGS_20130611","Fish",0
+"BOBGS_20130611","Stichaeid",0
+"GGBOS_20130611","Herring (1+)",0
+"GGBOS_20130611","Capelin (1+)",1
+"GGBOS_20130611","Sand lance (1+)",0
+"GGBOS_20130611","Sablefish",0
+"GGBOS_20130611","Sand lance (0)",0
+"GGBOS_20130611","Eulachon",0
+"GGBOS_20130611","Myctophid",0
+"GGBOS_20130611","Salmon",0
+"GGBOS_20130611","Lingcod",0
+"GGBOS_20130611","Greenling",0
+"GGBOS_20130611","Gadid",0
+"GGBOS_20130611","Pollock",0
+"GGBOS_20130611","Herring (0)",0
+"GGBOS_20130611","Capelin (0)",0
+"GGBOS_20130611","Squid",0
+"GGBOS_20130611","Amphipod",0
+"GGBOS_20130611","Euphausiid",0
+"GGBOS_20130611","Polychaete",0
+"GGBOS_20130611","Shrimp",0
+"GGBOS_20130611","Fish",0
+"GGBOS_20130611","Stichaeid",0
+"YSBBY_20130613","Herring (1+)",0
+"YSBBY_20130613","Capelin (1+)",1
+"YSBBY_20130613","Sand lance (1+)",0
+"YSBBY_20130613","Sablefish",0
+"YSBBY_20130613","Sand lance (0)",0
+"YSBBY_20130613","Eulachon",0
+"YSBBY_20130613","Myctophid",0
+"YSBBY_20130613","Salmon",0
+"YSBBY_20130613","Lingcod",0
+"YSBBY_20130613","Greenling",0
+"YSBBY_20130613","Gadid",0
+"YSBBY_20130613","Pollock",0
+"YSBBY_20130613","Herring (0)",0
+"YSBBY_20130613","Capelin (0)",0
+"YSBBY_20130613","Squid",0
+"YSBBY_20130613","Amphipod",0
+"YSBBY_20130613","Euphausiid",0
+"YSBBY_20130613","Polychaete",0
+"YSBBY_20130613","Shrimp",0
+"YSBBY_20130613","Fish",0
+"YSBBY_20130613","Stichaeid",0
+"GYBOS_20130616","Herring (1+)",0
+"GYBOS_20130616","Capelin (1+)",1
+"GYBOS_20130616","Sand lance (1+)",0
+"GYBOS_20130616","Sablefish",0
+"GYBOS_20130616","Sand lance (0)",0
+"GYBOS_20130616","Eulachon",0
+"GYBOS_20130616","Myctophid",0
+"GYBOS_20130616","Salmon",0
+"GYBOS_20130616","Lingcod",0
+"GYBOS_20130616","Greenling",0
+"GYBOS_20130616","Gadid",0
+"GYBOS_20130616","Pollock",0
+"GYBOS_20130616","Herring (0)",0
+"GYBOS_20130616","Capelin (0)",0
+"GYBOS_20130616","Squid",0
+"GYBOS_20130616","Amphipod",0
+"GYBOS_20130616","Euphausiid",0
+"GYBOS_20130616","Polychaete",0
+"GYBOS_20130616","Shrimp",0
+"GYBOS_20130616","Fish",0
+"GYBOS_20130616","Stichaeid",0
+"RREYS_20130616","Herring (1+)",0
+"RREYS_20130616","Capelin (1+)",1
+"RREYS_20130616","Sand lance (1+)",0
+"RREYS_20130616","Sablefish",0
+"RREYS_20130616","Sand lance (0)",0
+"RREYS_20130616","Eulachon",0
+"RREYS_20130616","Myctophid",0
+"RREYS_20130616","Salmon",0
+"RREYS_20130616","Lingcod",0
+"RREYS_20130616","Greenling",0
+"RREYS_20130616","Gadid",0
+"RREYS_20130616","Pollock",0
+"RREYS_20130616","Herring (0)",0
+"RREYS_20130616","Capelin (0)",0
+"RREYS_20130616","Squid",0
+"RREYS_20130616","Amphipod",0
+"RREYS_20130616","Euphausiid",0
+"RREYS_20130616","Polychaete",0
+"RREYS_20130616","Shrimp",0
+"RREYS_20130616","Fish",0
+"RREYS_20130616","Stichaeid",0
+"WSGOE_20130628","Herring (1+)",0
+"WSGOE_20130628","Capelin (1+)",1
+"WSGOE_20130628","Sand lance (1+)",0
+"WSGOE_20130628","Sablefish",0
+"WSGOE_20130628","Sand lance (0)",0
+"WSGOE_20130628","Eulachon",0
+"WSGOE_20130628","Myctophid",0
+"WSGOE_20130628","Salmon",0
+"WSGOE_20130628","Lingcod",0
+"WSGOE_20130628","Greenling",0
+"WSGOE_20130628","Gadid",0
+"WSGOE_20130628","Pollock",0
+"WSGOE_20130628","Herring (0)",0
+"WSGOE_20130628","Capelin (0)",0
+"WSGOE_20130628","Squid",0
+"WSGOE_20130628","Amphipod",0
+"WSGOE_20130628","Euphausiid",0
+"WSGOE_20130628","Polychaete",0
+"WSGOE_20130628","Shrimp",0
+"WSGOE_20130628","Fish",0
+"WSGOE_20130628","Stichaeid",0
+"A08_RSRGB_01Aug2017","Herring (1+)",0
+"A08_RSRGB_01Aug2017","Capelin (1+)",0
+"A08_RSRGB_01Aug2017","Sand lance (1+)",0
+"A08_RSRGB_01Aug2017","Sablefish",0
+"A08_RSRGB_01Aug2017","Sand lance (0)",0
+"A08_RSRGB_01Aug2017","Eulachon",0
+"A08_RSRGB_01Aug2017","Myctophid",0.754716981132076
+"A08_RSRGB_01Aug2017","Salmon",0
+"A08_RSRGB_01Aug2017","Lingcod",0.0471698113207547
+"A08_RSRGB_01Aug2017","Greenling",0
+"A08_RSRGB_01Aug2017","Gadid",0
+"A08_RSRGB_01Aug2017","Pollock",0
+"A08_RSRGB_01Aug2017","Herring (0)",0
+"A08_RSRGB_01Aug2017","Capelin (0)",0
+"A08_RSRGB_01Aug2017","Squid",0
+"A08_RSRGB_01Aug2017","Amphipod",0.169811320754717
+"A08_RSRGB_01Aug2017","Euphausiid",0
+"A08_RSRGB_01Aug2017","Polychaete",0
+"A08_RSRGB_01Aug2017","Shrimp",0.0283018867924528
+"A08_RSRGB_01Aug2017","Fish",0
+"A08_RSRGB_01Aug2017","Stichaeid",0
+"A16_ESBWO_02Aug2017","Herring (1+)",0.897959183673469
+"A16_ESBWO_02Aug2017","Capelin (1+)",0
+"A16_ESBWO_02Aug2017","Sand lance (1+)",0
+"A16_ESBWO_02Aug2017","Sablefish",0
+"A16_ESBWO_02Aug2017","Sand lance (0)",0.102040816326531
+"A16_ESBWO_02Aug2017","Eulachon",0
+"A16_ESBWO_02Aug2017","Myctophid",0
+"A16_ESBWO_02Aug2017","Salmon",0
+"A16_ESBWO_02Aug2017","Lingcod",0
+"A16_ESBWO_02Aug2017","Greenling",0
+"A16_ESBWO_02Aug2017","Gadid",0
+"A16_ESBWO_02Aug2017","Pollock",0
+"A16_ESBWO_02Aug2017","Herring (0)",0
+"A16_ESBWO_02Aug2017","Capelin (0)",0
+"A16_ESBWO_02Aug2017","Squid",0
+"A16_ESBWO_02Aug2017","Amphipod",0
+"A16_ESBWO_02Aug2017","Euphausiid",0
+"A16_ESBWO_02Aug2017","Polychaete",0
+"A16_ESBWO_02Aug2017","Shrimp",0
+"A16_ESBWO_02Aug2017","Fish",0
+"A16_ESBWO_02Aug2017","Stichaeid",0
+"A04_BSBWW_02Aug2017","Herring (1+)",1
+"A04_BSBWW_02Aug2017","Capelin (1+)",0
+"A04_BSBWW_02Aug2017","Sand lance (1+)",0
+"A04_BSBWW_02Aug2017","Sablefish",0
+"A04_BSBWW_02Aug2017","Sand lance (0)",0
+"A04_BSBWW_02Aug2017","Eulachon",0
+"A04_BSBWW_02Aug2017","Myctophid",0
+"A04_BSBWW_02Aug2017","Salmon",0
+"A04_BSBWW_02Aug2017","Lingcod",0
+"A04_BSBWW_02Aug2017","Greenling",0
+"A04_BSBWW_02Aug2017","Gadid",0
+"A04_BSBWW_02Aug2017","Pollock",0
+"A04_BSBWW_02Aug2017","Herring (0)",0
+"A04_BSBWW_02Aug2017","Capelin (0)",0
+"A04_BSBWW_02Aug2017","Squid",0
+"A04_BSBWW_02Aug2017","Amphipod",0
+"A04_BSBWW_02Aug2017","Euphausiid",0
+"A04_BSBWW_02Aug2017","Polychaete",0
+"A04_BSBWW_02Aug2017","Shrimp",0
+"A04_BSBWW_02Aug2017","Fish",0
+"A04_BSBWW_02Aug2017","Stichaeid",0
+"A09_BEEWS_01Jul2017","Herring (1+)",0
+"A09_BEEWS_01Jul2017","Capelin (1+)",0
+"A09_BEEWS_01Jul2017","Sand lance (1+)",0
+"A09_BEEWS_01Jul2017","Sablefish",0
+"A09_BEEWS_01Jul2017","Sand lance (0)",0
+"A09_BEEWS_01Jul2017","Eulachon",0
+"A09_BEEWS_01Jul2017","Myctophid",0
+"A09_BEEWS_01Jul2017","Salmon",0
+"A09_BEEWS_01Jul2017","Lingcod",0
+"A09_BEEWS_01Jul2017","Greenling",0
+"A09_BEEWS_01Jul2017","Gadid",0
+"A09_BEEWS_01Jul2017","Pollock",0
+"A09_BEEWS_01Jul2017","Herring (0)",0
+"A09_BEEWS_01Jul2017","Capelin (0)",0
+"A09_BEEWS_01Jul2017","Squid",0
+"A09_BEEWS_01Jul2017","Amphipod",0
+"A09_BEEWS_01Jul2017","Euphausiid",1
+"A09_BEEWS_01Jul2017","Polychaete",0
+"A09_BEEWS_01Jul2017","Shrimp",0
+"A09_BEEWS_01Jul2017","Fish",0
+"A09_BEEWS_01Jul2017","Stichaeid",0
+"A20_GSOEY_05Jul2017","Herring (1+)",1
+"A20_GSOEY_05Jul2017","Capelin (1+)",0
+"A20_GSOEY_05Jul2017","Sand lance (1+)",0
+"A20_GSOEY_05Jul2017","Sablefish",0
+"A20_GSOEY_05Jul2017","Sand lance (0)",0
+"A20_GSOEY_05Jul2017","Eulachon",0
+"A20_GSOEY_05Jul2017","Myctophid",0
+"A20_GSOEY_05Jul2017","Salmon",0
+"A20_GSOEY_05Jul2017","Lingcod",0
+"A20_GSOEY_05Jul2017","Greenling",0
+"A20_GSOEY_05Jul2017","Gadid",0
+"A20_GSOEY_05Jul2017","Pollock",0
+"A20_GSOEY_05Jul2017","Herring (0)",0
+"A20_GSOEY_05Jul2017","Capelin (0)",0
+"A20_GSOEY_05Jul2017","Squid",0
+"A20_GSOEY_05Jul2017","Amphipod",0
+"A20_GSOEY_05Jul2017","Euphausiid",0
+"A20_GSOEY_05Jul2017","Polychaete",0
+"A20_GSOEY_05Jul2017","Shrimp",0
+"A20_GSOEY_05Jul2017","Fish",0
+"A20_GSOEY_05Jul2017","Stichaeid",0
+"A05_BBOGS_08Jul2017","Herring (1+)",0.930232558139535
+"A05_BBOGS_08Jul2017","Capelin (1+)",0
+"A05_BBOGS_08Jul2017","Sand lance (1+)",0.0697674418604651
+"A05_BBOGS_08Jul2017","Sablefish",0
+"A05_BBOGS_08Jul2017","Sand lance (0)",0
+"A05_BBOGS_08Jul2017","Eulachon",0
+"A05_BBOGS_08Jul2017","Myctophid",0
+"A05_BBOGS_08Jul2017","Salmon",0
+"A05_BBOGS_08Jul2017","Lingcod",0
+"A05_BBOGS_08Jul2017","Greenling",0
+"A05_BBOGS_08Jul2017","Gadid",0
+"A05_BBOGS_08Jul2017","Pollock",0
+"A05_BBOGS_08Jul2017","Herring (0)",0
+"A05_BBOGS_08Jul2017","Capelin (0)",0
+"A05_BBOGS_08Jul2017","Squid",0
+"A05_BBOGS_08Jul2017","Amphipod",0
+"A05_BBOGS_08Jul2017","Euphausiid",0
+"A05_BBOGS_08Jul2017","Polychaete",0
+"A05_BBOGS_08Jul2017","Shrimp",0
+"A05_BBOGS_08Jul2017","Fish",0
+"A05_BBOGS_08Jul2017","Stichaeid",0
+"A21_WBGGS_08Jul2017","Herring (1+)",1
+"A21_WBGGS_08Jul2017","Capelin (1+)",0
+"A21_WBGGS_08Jul2017","Sand lance (1+)",0
+"A21_WBGGS_08Jul2017","Sablefish",0
+"A21_WBGGS_08Jul2017","Sand lance (0)",0
+"A21_WBGGS_08Jul2017","Eulachon",0
+"A21_WBGGS_08Jul2017","Myctophid",0
+"A21_WBGGS_08Jul2017","Salmon",0
+"A21_WBGGS_08Jul2017","Lingcod",0
+"A21_WBGGS_08Jul2017","Greenling",0
+"A21_WBGGS_08Jul2017","Gadid",0
+"A21_WBGGS_08Jul2017","Pollock",0
+"A21_WBGGS_08Jul2017","Herring (0)",0
+"A21_WBGGS_08Jul2017","Capelin (0)",0
+"A21_WBGGS_08Jul2017","Squid",0
+"A21_WBGGS_08Jul2017","Amphipod",0
+"A21_WBGGS_08Jul2017","Euphausiid",0
+"A21_WBGGS_08Jul2017","Polychaete",0
+"A21_WBGGS_08Jul2017","Shrimp",0
+"A21_WBGGS_08Jul2017","Fish",0
+"A21_WBGGS_08Jul2017","Stichaeid",0
+"A07_GYORS_09Jul2017","Herring (1+)",0
+"A07_GYORS_09Jul2017","Capelin (1+)",0
+"A07_GYORS_09Jul2017","Sand lance (1+)",0
+"A07_GYORS_09Jul2017","Sablefish",0
+"A07_GYORS_09Jul2017","Sand lance (0)",1
+"A07_GYORS_09Jul2017","Eulachon",0
+"A07_GYORS_09Jul2017","Myctophid",0
+"A07_GYORS_09Jul2017","Salmon",0
+"A07_GYORS_09Jul2017","Lingcod",0
+"A07_GYORS_09Jul2017","Greenling",0
+"A07_GYORS_09Jul2017","Gadid",0
+"A07_GYORS_09Jul2017","Pollock",0
+"A07_GYORS_09Jul2017","Herring (0)",0
+"A07_GYORS_09Jul2017","Capelin (0)",0
+"A07_GYORS_09Jul2017","Squid",0
+"A07_GYORS_09Jul2017","Amphipod",0
+"A07_GYORS_09Jul2017","Euphausiid",0
+"A07_GYORS_09Jul2017","Polychaete",0
+"A07_GYORS_09Jul2017","Shrimp",0
+"A07_GYORS_09Jul2017","Fish",0
+"A07_GYORS_09Jul2017","Stichaeid",0
+"A08_BSBBW_09Jul2017","Herring (1+)",1
+"A08_BSBBW_09Jul2017","Capelin (1+)",0
+"A08_BSBBW_09Jul2017","Sand lance (1+)",0
+"A08_BSBBW_09Jul2017","Sablefish",0
+"A08_BSBBW_09Jul2017","Sand lance (0)",0
+"A08_BSBBW_09Jul2017","Eulachon",0
+"A08_BSBBW_09Jul2017","Myctophid",0
+"A08_BSBBW_09Jul2017","Salmon",0
+"A08_BSBBW_09Jul2017","Lingcod",0
+"A08_BSBBW_09Jul2017","Greenling",0
+"A08_BSBBW_09Jul2017","Gadid",0
+"A08_BSBBW_09Jul2017","Pollock",0
+"A08_BSBBW_09Jul2017","Herring (0)",0
+"A08_BSBBW_09Jul2017","Capelin (0)",0
+"A08_BSBBW_09Jul2017","Squid",0
+"A08_BSBBW_09Jul2017","Amphipod",0
+"A08_BSBBW_09Jul2017","Euphausiid",0
+"A08_BSBBW_09Jul2017","Polychaete",0
+"A08_BSBBW_09Jul2017","Shrimp",0
+"A08_BSBBW_09Jul2017","Fish",0
+"A08_BSBBW_09Jul2017","Stichaeid",0
+"A17_OGWYS_09Jul2017","Herring (1+)",0.552572706935123
+"A17_OGWYS_09Jul2017","Capelin (1+)",0
+"A17_OGWYS_09Jul2017","Sand lance (1+)",0
+"A17_OGWYS_09Jul2017","Sablefish",0
+"A17_OGWYS_09Jul2017","Sand lance (0)",0
+"A17_OGWYS_09Jul2017","Eulachon",0
+"A17_OGWYS_09Jul2017","Myctophid",0
+"A17_OGWYS_09Jul2017","Salmon",0
+"A17_OGWYS_09Jul2017","Lingcod",0.447427293064877
+"A17_OGWYS_09Jul2017","Greenling",0
+"A17_OGWYS_09Jul2017","Gadid",0
+"A17_OGWYS_09Jul2017","Pollock",0
+"A17_OGWYS_09Jul2017","Herring (0)",0
+"A17_OGWYS_09Jul2017","Capelin (0)",0
+"A17_OGWYS_09Jul2017","Squid",0
+"A17_OGWYS_09Jul2017","Amphipod",0
+"A17_OGWYS_09Jul2017","Euphausiid",0
+"A17_OGWYS_09Jul2017","Polychaete",0
+"A17_OGWYS_09Jul2017","Shrimp",0
+"A17_OGWYS_09Jul2017","Fish",0
+"A17_OGWYS_09Jul2017","Stichaeid",0
+"A18_BSRWW_09Jul2017","Herring (1+)",1
+"A18_BSRWW_09Jul2017","Capelin (1+)",0
+"A18_BSRWW_09Jul2017","Sand lance (1+)",0
+"A18_BSRWW_09Jul2017","Sablefish",0
+"A18_BSRWW_09Jul2017","Sand lance (0)",0
+"A18_BSRWW_09Jul2017","Eulachon",0
+"A18_BSRWW_09Jul2017","Myctophid",0
+"A18_BSRWW_09Jul2017","Salmon",0
+"A18_BSRWW_09Jul2017","Lingcod",0
+"A18_BSRWW_09Jul2017","Greenling",0
+"A18_BSRWW_09Jul2017","Gadid",0
+"A18_BSRWW_09Jul2017","Pollock",0
+"A18_BSRWW_09Jul2017","Herring (0)",0
+"A18_BSRWW_09Jul2017","Capelin (0)",0
+"A18_BSRWW_09Jul2017","Squid",0
+"A18_BSRWW_09Jul2017","Amphipod",0
+"A18_BSRWW_09Jul2017","Euphausiid",0
+"A18_BSRWW_09Jul2017","Polychaete",0
+"A18_BSRWW_09Jul2017","Shrimp",0
+"A18_BSRWW_09Jul2017","Fish",0
+"A18_BSRWW_09Jul2017","Stichaeid",0
+"A16_BEEGS_09Jul2017","Herring (1+)",1
+"A16_BEEGS_09Jul2017","Capelin (1+)",0
+"A16_BEEGS_09Jul2017","Sand lance (1+)",0
+"A16_BEEGS_09Jul2017","Sablefish",0
+"A16_BEEGS_09Jul2017","Sand lance (0)",0
+"A16_BEEGS_09Jul2017","Eulachon",0
+"A16_BEEGS_09Jul2017","Myctophid",0
+"A16_BEEGS_09Jul2017","Salmon",0
+"A16_BEEGS_09Jul2017","Lingcod",0
+"A16_BEEGS_09Jul2017","Greenling",0
+"A16_BEEGS_09Jul2017","Gadid",0
+"A16_BEEGS_09Jul2017","Pollock",0
+"A16_BEEGS_09Jul2017","Herring (0)",0
+"A16_BEEGS_09Jul2017","Capelin (0)",0
+"A16_BEEGS_09Jul2017","Squid",0
+"A16_BEEGS_09Jul2017","Amphipod",0
+"A16_BEEGS_09Jul2017","Euphausiid",0
+"A16_BEEGS_09Jul2017","Polychaete",0
+"A16_BEEGS_09Jul2017","Shrimp",0
+"A16_BEEGS_09Jul2017","Fish",0
+"A16_BEEGS_09Jul2017","Stichaeid",0
+"A19_BOWGS_09Jul2017","Herring (1+)",0.982142857142857
+"A19_BOWGS_09Jul2017","Capelin (1+)",0
+"A19_BOWGS_09Jul2017","Sand lance (1+)",0
+"A19_BOWGS_09Jul2017","Sablefish",0
+"A19_BOWGS_09Jul2017","Sand lance (0)",0
+"A19_BOWGS_09Jul2017","Eulachon",0
+"A19_BOWGS_09Jul2017","Myctophid",0
+"A19_BOWGS_09Jul2017","Salmon",0
+"A19_BOWGS_09Jul2017","Lingcod",0
+"A19_BOWGS_09Jul2017","Greenling",0
+"A19_BOWGS_09Jul2017","Gadid",0
+"A19_BOWGS_09Jul2017","Pollock",0
+"A19_BOWGS_09Jul2017","Herring (0)",0
+"A19_BOWGS_09Jul2017","Capelin (0)",0
+"A19_BOWGS_09Jul2017","Squid",0
+"A19_BOWGS_09Jul2017","Amphipod",0
+"A19_BOWGS_09Jul2017","Euphausiid",0.0178571428571429
+"A19_BOWGS_09Jul2017","Polychaete",0
+"A19_BOWGS_09Jul2017","Shrimp",0
+"A19_BOWGS_09Jul2017","Fish",0
+"A19_BOWGS_09Jul2017","Stichaeid",0
+"A16_YOBBS_17Jul2017","Herring (1+)",1
+"A16_YOBBS_17Jul2017","Capelin (1+)",0
+"A16_YOBBS_17Jul2017","Sand lance (1+)",0
+"A16_YOBBS_17Jul2017","Sablefish",0
+"A16_YOBBS_17Jul2017","Sand lance (0)",0
+"A16_YOBBS_17Jul2017","Eulachon",0
+"A16_YOBBS_17Jul2017","Myctophid",0
+"A16_YOBBS_17Jul2017","Salmon",0
+"A16_YOBBS_17Jul2017","Lingcod",0
+"A16_YOBBS_17Jul2017","Greenling",0
+"A16_YOBBS_17Jul2017","Gadid",0
+"A16_YOBBS_17Jul2017","Pollock",0
+"A16_YOBBS_17Jul2017","Herring (0)",0
+"A16_YOBBS_17Jul2017","Capelin (0)",0
+"A16_YOBBS_17Jul2017","Squid",0
+"A16_YOBBS_17Jul2017","Amphipod",0
+"A16_YOBBS_17Jul2017","Euphausiid",0
+"A16_YOBBS_17Jul2017","Polychaete",0
+"A16_YOBBS_17Jul2017","Shrimp",0
+"A16_YOBBS_17Jul2017","Fish",0
+"A16_YOBBS_17Jul2017","Stichaeid",0
+"A17_WSRER_17Jul2017","Herring (1+)",1
+"A17_WSRER_17Jul2017","Capelin (1+)",0
+"A17_WSRER_17Jul2017","Sand lance (1+)",0
+"A17_WSRER_17Jul2017","Sablefish",0
+"A17_WSRER_17Jul2017","Sand lance (0)",0
+"A17_WSRER_17Jul2017","Eulachon",0
+"A17_WSRER_17Jul2017","Myctophid",0
+"A17_WSRER_17Jul2017","Salmon",0
+"A17_WSRER_17Jul2017","Lingcod",0
+"A17_WSRER_17Jul2017","Greenling",0
+"A17_WSRER_17Jul2017","Gadid",0
+"A17_WSRER_17Jul2017","Pollock",0
+"A17_WSRER_17Jul2017","Herring (0)",0
+"A17_WSRER_17Jul2017","Capelin (0)",0
+"A17_WSRER_17Jul2017","Squid",0
+"A17_WSRER_17Jul2017","Amphipod",0
+"A17_WSRER_17Jul2017","Euphausiid",0
+"A17_WSRER_17Jul2017","Polychaete",0
+"A17_WSRER_17Jul2017","Shrimp",0
+"A17_WSRER_17Jul2017","Fish",0
+"A17_WSRER_17Jul2017","Stichaeid",0
+"A01_WSGYR_18Jul2017","Herring (1+)",1
+"A01_WSGYR_18Jul2017","Capelin (1+)",0
+"A01_WSGYR_18Jul2017","Sand lance (1+)",0
+"A01_WSGYR_18Jul2017","Sablefish",0
+"A01_WSGYR_18Jul2017","Sand lance (0)",0
+"A01_WSGYR_18Jul2017","Eulachon",0
+"A01_WSGYR_18Jul2017","Myctophid",0
+"A01_WSGYR_18Jul2017","Salmon",0
+"A01_WSGYR_18Jul2017","Lingcod",0
+"A01_WSGYR_18Jul2017","Greenling",0
+"A01_WSGYR_18Jul2017","Gadid",0
+"A01_WSGYR_18Jul2017","Pollock",0
+"A01_WSGYR_18Jul2017","Herring (0)",0
+"A01_WSGYR_18Jul2017","Capelin (0)",0
+"A01_WSGYR_18Jul2017","Squid",0
+"A01_WSGYR_18Jul2017","Amphipod",0
+"A01_WSGYR_18Jul2017","Euphausiid",0
+"A01_WSGYR_18Jul2017","Polychaete",0
+"A01_WSGYR_18Jul2017","Shrimp",0
+"A01_WSGYR_18Jul2017","Fish",0
+"A01_WSGYR_18Jul2017","Stichaeid",0
+"A13_ESOOY_17Jul2017","Herring (1+)",0
+"A13_ESOOY_17Jul2017","Capelin (1+)",0
+"A13_ESOOY_17Jul2017","Sand lance (1+)",0
+"A13_ESOOY_17Jul2017","Sablefish",0
+"A13_ESOOY_17Jul2017","Sand lance (0)",1
+"A13_ESOOY_17Jul2017","Eulachon",0
+"A13_ESOOY_17Jul2017","Myctophid",0
+"A13_ESOOY_17Jul2017","Salmon",0
+"A13_ESOOY_17Jul2017","Lingcod",0
+"A13_ESOOY_17Jul2017","Greenling",0
+"A13_ESOOY_17Jul2017","Gadid",0
+"A13_ESOOY_17Jul2017","Pollock",0
+"A13_ESOOY_17Jul2017","Herring (0)",0
+"A13_ESOOY_17Jul2017","Capelin (0)",0
+"A13_ESOOY_17Jul2017","Squid",0
+"A13_ESOOY_17Jul2017","Amphipod",0
+"A13_ESOOY_17Jul2017","Euphausiid",0
+"A13_ESOOY_17Jul2017","Polychaete",0
+"A13_ESOOY_17Jul2017","Shrimp",0
+"A13_ESOOY_17Jul2017","Fish",0
+"A13_ESOOY_17Jul2017","Stichaeid",0
+"A23_GWBWS_21Jul2017","Herring (1+)",0.625498007968127
+"A23_GWBWS_21Jul2017","Capelin (1+)",0
+"A23_GWBWS_21Jul2017","Sand lance (1+)",0
+"A23_GWBWS_21Jul2017","Sablefish",0
+"A23_GWBWS_21Jul2017","Sand lance (0)",0
+"A23_GWBWS_21Jul2017","Eulachon",0
+"A23_GWBWS_21Jul2017","Myctophid",0
+"A23_GWBWS_21Jul2017","Salmon",0.374501992031873
+"A23_GWBWS_21Jul2017","Lingcod",0
+"A23_GWBWS_21Jul2017","Greenling",0
+"A23_GWBWS_21Jul2017","Gadid",0
+"A23_GWBWS_21Jul2017","Pollock",0
+"A23_GWBWS_21Jul2017","Herring (0)",0
+"A23_GWBWS_21Jul2017","Capelin (0)",0
+"A23_GWBWS_21Jul2017","Squid",0
+"A23_GWBWS_21Jul2017","Amphipod",0
+"A23_GWBWS_21Jul2017","Euphausiid",0
+"A23_GWBWS_21Jul2017","Polychaete",0
+"A23_GWBWS_21Jul2017","Shrimp",0
+"A23_GWBWS_21Jul2017","Fish",0
+"A23_GWBWS_21Jul2017","Stichaeid",0
+"A04_GROWS_24Jul2017","Herring (1+)",1
+"A04_GROWS_24Jul2017","Capelin (1+)",0
+"A04_GROWS_24Jul2017","Sand lance (1+)",0
+"A04_GROWS_24Jul2017","Sablefish",0
+"A04_GROWS_24Jul2017","Sand lance (0)",0
+"A04_GROWS_24Jul2017","Eulachon",0
+"A04_GROWS_24Jul2017","Myctophid",0
+"A04_GROWS_24Jul2017","Salmon",0
+"A04_GROWS_24Jul2017","Lingcod",0
+"A04_GROWS_24Jul2017","Greenling",0
+"A04_GROWS_24Jul2017","Gadid",0
+"A04_GROWS_24Jul2017","Pollock",0
+"A04_GROWS_24Jul2017","Herring (0)",0
+"A04_GROWS_24Jul2017","Capelin (0)",0
+"A04_GROWS_24Jul2017","Squid",0
+"A04_GROWS_24Jul2017","Amphipod",0
+"A04_GROWS_24Jul2017","Euphausiid",0
+"A04_GROWS_24Jul2017","Polychaete",0
+"A04_GROWS_24Jul2017","Shrimp",0
+"A04_GROWS_24Jul2017","Fish",0
+"A04_GROWS_24Jul2017","Stichaeid",0
+"A16_ESEOY_24Jul2017","Herring (1+)",0.109979633401222
+"A16_ESEOY_24Jul2017","Capelin (1+)",0
+"A16_ESEOY_24Jul2017","Sand lance (1+)",0
+"A16_ESEOY_24Jul2017","Sablefish",0
+"A16_ESEOY_24Jul2017","Sand lance (0)",0
+"A16_ESEOY_24Jul2017","Eulachon",0
+"A16_ESEOY_24Jul2017","Myctophid",0
+"A16_ESEOY_24Jul2017","Salmon",0.890020366598778
+"A16_ESEOY_24Jul2017","Lingcod",0
+"A16_ESEOY_24Jul2017","Greenling",0
+"A16_ESEOY_24Jul2017","Gadid",0
+"A16_ESEOY_24Jul2017","Pollock",0
+"A16_ESEOY_24Jul2017","Herring (0)",0
+"A16_ESEOY_24Jul2017","Capelin (0)",0
+"A16_ESEOY_24Jul2017","Squid",0
+"A16_ESEOY_24Jul2017","Amphipod",0
+"A16_ESEOY_24Jul2017","Euphausiid",0
+"A16_ESEOY_24Jul2017","Polychaete",0
+"A16_ESEOY_24Jul2017","Shrimp",0
+"A16_ESEOY_24Jul2017","Fish",0
+"A16_ESEOY_24Jul2017","Stichaeid",0
+"GROWS_1Jul2018","Herring (1+)",0
+"GROWS_1Jul2018","Capelin (1+)",0
+"GROWS_1Jul2018","Sand lance (1+)",0
+"GROWS_1Jul2018","Sablefish",0
+"GROWS_1Jul2018","Sand lance (0)",1
+"GROWS_1Jul2018","Eulachon",0
+"GROWS_1Jul2018","Myctophid",0
+"GROWS_1Jul2018","Salmon",0
+"GROWS_1Jul2018","Lingcod",0
+"GROWS_1Jul2018","Greenling",0
+"GROWS_1Jul2018","Gadid",0
+"GROWS_1Jul2018","Pollock",0
+"GROWS_1Jul2018","Herring (0)",0
+"GROWS_1Jul2018","Capelin (0)",0
+"GROWS_1Jul2018","Squid",0
+"GROWS_1Jul2018","Amphipod",0
+"GROWS_1Jul2018","Euphausiid",0
+"GROWS_1Jul2018","Polychaete",0
+"GROWS_1Jul2018","Shrimp",0
+"GROWS_1Jul2018","Fish",0
+"GROWS_1Jul2018","Stichaeid",0
+"GGWGS_8Jul2018","Herring (1+)",0
+"GGWGS_8Jul2018","Capelin (1+)",1
+"GGWGS_8Jul2018","Sand lance (1+)",0
+"GGWGS_8Jul2018","Sablefish",0
+"GGWGS_8Jul2018","Sand lance (0)",0
+"GGWGS_8Jul2018","Eulachon",0
+"GGWGS_8Jul2018","Myctophid",0
+"GGWGS_8Jul2018","Salmon",0
+"GGWGS_8Jul2018","Lingcod",0
+"GGWGS_8Jul2018","Greenling",0
+"GGWGS_8Jul2018","Gadid",0
+"GGWGS_8Jul2018","Pollock",0
+"GGWGS_8Jul2018","Herring (0)",0
+"GGWGS_8Jul2018","Capelin (0)",0
+"GGWGS_8Jul2018","Squid",0
+"GGWGS_8Jul2018","Amphipod",0
+"GGWGS_8Jul2018","Euphausiid",0
+"GGWGS_8Jul2018","Polychaete",0
+"GGWGS_8Jul2018","Shrimp",0
+"GGWGS_8Jul2018","Fish",0
+"GGWGS_8Jul2018","Stichaeid",0
+"REGBS_8Jul2018","Herring (1+)",1
+"REGBS_8Jul2018","Capelin (1+)",0
+"REGBS_8Jul2018","Sand lance (1+)",0
+"REGBS_8Jul2018","Sablefish",0
+"REGBS_8Jul2018","Sand lance (0)",0
+"REGBS_8Jul2018","Eulachon",0
+"REGBS_8Jul2018","Myctophid",0
+"REGBS_8Jul2018","Salmon",0
+"REGBS_8Jul2018","Lingcod",0
+"REGBS_8Jul2018","Greenling",0
+"REGBS_8Jul2018","Gadid",0
+"REGBS_8Jul2018","Pollock",0
+"REGBS_8Jul2018","Herring (0)",0
+"REGBS_8Jul2018","Capelin (0)",0
+"REGBS_8Jul2018","Squid",0
+"REGBS_8Jul2018","Amphipod",0
+"REGBS_8Jul2018","Euphausiid",0
+"REGBS_8Jul2018","Polychaete",0
+"REGBS_8Jul2018","Shrimp",0
+"REGBS_8Jul2018","Fish",0
+"REGBS_8Jul2018","Stichaeid",0
+"BSRER_8Jul2018","Herring (1+)",1
+"BSRER_8Jul2018","Capelin (1+)",0
+"BSRER_8Jul2018","Sand lance (1+)",0
+"BSRER_8Jul2018","Sablefish",0
+"BSRER_8Jul2018","Sand lance (0)",0
+"BSRER_8Jul2018","Eulachon",0
+"BSRER_8Jul2018","Myctophid",0
+"BSRER_8Jul2018","Salmon",0
+"BSRER_8Jul2018","Lingcod",0
+"BSRER_8Jul2018","Greenling",0
+"BSRER_8Jul2018","Gadid",0
+"BSRER_8Jul2018","Pollock",0
+"BSRER_8Jul2018","Herring (0)",0
+"BSRER_8Jul2018","Capelin (0)",0
+"BSRER_8Jul2018","Squid",0
+"BSRER_8Jul2018","Amphipod",0
+"BSRER_8Jul2018","Euphausiid",0
+"BSRER_8Jul2018","Polychaete",0
+"BSRER_8Jul2018","Shrimp",0
+"BSRER_8Jul2018","Fish",0
+"BSRER_8Jul2018","Stichaeid",0
+"OWRGS_19Jul2018","Herring (1+)",1
+"OWRGS_19Jul2018","Capelin (1+)",0
+"OWRGS_19Jul2018","Sand lance (1+)",0
+"OWRGS_19Jul2018","Sablefish",0
+"OWRGS_19Jul2018","Sand lance (0)",0
+"OWRGS_19Jul2018","Eulachon",0
+"OWRGS_19Jul2018","Myctophid",0
+"OWRGS_19Jul2018","Salmon",0
+"OWRGS_19Jul2018","Lingcod",0
+"OWRGS_19Jul2018","Greenling",0
+"OWRGS_19Jul2018","Gadid",0
+"OWRGS_19Jul2018","Pollock",0
+"OWRGS_19Jul2018","Herring (0)",0
+"OWRGS_19Jul2018","Capelin (0)",0
+"OWRGS_19Jul2018","Squid",0
+"OWRGS_19Jul2018","Amphipod",0
+"OWRGS_19Jul2018","Euphausiid",0
+"OWRGS_19Jul2018","Polychaete",0
+"OWRGS_19Jul2018","Shrimp",0
+"OWRGS_19Jul2018","Fish",0
+"OWRGS_19Jul2018","Stichaeid",0
+"OOBRS_19Jul2018","Herring (1+)",0
+"OOBRS_19Jul2018","Capelin (1+)",1
+"OOBRS_19Jul2018","Sand lance (1+)",0
+"OOBRS_19Jul2018","Sablefish",0
+"OOBRS_19Jul2018","Sand lance (0)",0
+"OOBRS_19Jul2018","Eulachon",0
+"OOBRS_19Jul2018","Myctophid",0
+"OOBRS_19Jul2018","Salmon",0
+"OOBRS_19Jul2018","Lingcod",0
+"OOBRS_19Jul2018","Greenling",0
+"OOBRS_19Jul2018","Gadid",0
+"OOBRS_19Jul2018","Pollock",0
+"OOBRS_19Jul2018","Herring (0)",0
+"OOBRS_19Jul2018","Capelin (0)",0
+"OOBRS_19Jul2018","Squid",0
+"OOBRS_19Jul2018","Amphipod",0
+"OOBRS_19Jul2018","Euphausiid",0
+"OOBRS_19Jul2018","Polychaete",0
+"OOBRS_19Jul2018","Shrimp",0
+"OOBRS_19Jul2018","Fish",0
+"OOBRS_19Jul2018","Stichaeid",0
+"BORRS_5Jun2018","Herring (1+)",0
+"BORRS_5Jun2018","Capelin (1+)",0
+"BORRS_5Jun2018","Sand lance (1+)",0
+"BORRS_5Jun2018","Sablefish",0
+"BORRS_5Jun2018","Sand lance (0)",0
+"BORRS_5Jun2018","Eulachon",0
+"BORRS_5Jun2018","Myctophid",0
+"BORRS_5Jun2018","Salmon",0
+"BORRS_5Jun2018","Lingcod",0
+"BORRS_5Jun2018","Greenling",0
+"BORRS_5Jun2018","Gadid",0
+"BORRS_5Jun2018","Pollock",0
+"BORRS_5Jun2018","Herring (0)",0
+"BORRS_5Jun2018","Capelin (0)",1
+"BORRS_5Jun2018","Squid",0
+"BORRS_5Jun2018","Amphipod",0
+"BORRS_5Jun2018","Euphausiid",0
+"BORRS_5Jun2018","Polychaete",0
+"BORRS_5Jun2018","Shrimp",0
+"BORRS_5Jun2018","Fish",0
+"BORRS_5Jun2018","Stichaeid",0
+"WSGYG_20Jun2018","Herring (1+)",0
+"WSGYG_20Jun2018","Capelin (1+)",0
+"WSGYG_20Jun2018","Sand lance (1+)",0
+"WSGYG_20Jun2018","Sablefish",0
+"WSGYG_20Jun2018","Sand lance (0)",1
+"WSGYG_20Jun2018","Eulachon",0
+"WSGYG_20Jun2018","Myctophid",0
+"WSGYG_20Jun2018","Salmon",0
+"WSGYG_20Jun2018","Lingcod",0
+"WSGYG_20Jun2018","Greenling",0
+"WSGYG_20Jun2018","Gadid",0
+"WSGYG_20Jun2018","Pollock",0
+"WSGYG_20Jun2018","Herring (0)",0
+"WSGYG_20Jun2018","Capelin (0)",0
+"WSGYG_20Jun2018","Squid",0
+"WSGYG_20Jun2018","Amphipod",0
+"WSGYG_20Jun2018","Euphausiid",0
+"WSGYG_20Jun2018","Polychaete",0
+"WSGYG_20Jun2018","Shrimp",0
+"WSGYG_20Jun2018","Fish",0
+"WSGYG_20Jun2018","Stichaeid",0
+"RSRBG_20Jun2018","Herring (1+)",0
+"RSRBG_20Jun2018","Capelin (1+)",0
+"RSRBG_20Jun2018","Sand lance (1+)",0
+"RSRBG_20Jun2018","Sablefish",0
+"RSRBG_20Jun2018","Sand lance (0)",1
+"RSRBG_20Jun2018","Eulachon",0
+"RSRBG_20Jun2018","Myctophid",0
+"RSRBG_20Jun2018","Salmon",0
+"RSRBG_20Jun2018","Lingcod",0
+"RSRBG_20Jun2018","Greenling",0
+"RSRBG_20Jun2018","Gadid",0
+"RSRBG_20Jun2018","Pollock",0
+"RSRBG_20Jun2018","Herring (0)",0
+"RSRBG_20Jun2018","Capelin (0)",0
+"RSRBG_20Jun2018","Squid",0
+"RSRBG_20Jun2018","Amphipod",0
+"RSRBG_20Jun2018","Euphausiid",0
+"RSRBG_20Jun2018","Polychaete",0
+"RSRBG_20Jun2018","Shrimp",0
+"RSRBG_20Jun2018","Fish",0
+"RSRBG_20Jun2018","Stichaeid",0
+"RSOEY_25Jun2018","Herring (1+)",0
+"RSOEY_25Jun2018","Capelin (1+)",1
+"RSOEY_25Jun2018","Sand lance (1+)",0
+"RSOEY_25Jun2018","Sablefish",0
+"RSOEY_25Jun2018","Sand lance (0)",0
+"RSOEY_25Jun2018","Eulachon",0
+"RSOEY_25Jun2018","Myctophid",0
+"RSOEY_25Jun2018","Salmon",0
+"RSOEY_25Jun2018","Lingcod",0
+"RSOEY_25Jun2018","Greenling",0
+"RSOEY_25Jun2018","Gadid",0
+"RSOEY_25Jun2018","Pollock",0
+"RSOEY_25Jun2018","Herring (0)",0
+"RSOEY_25Jun2018","Capelin (0)",0
+"RSOEY_25Jun2018","Squid",0
+"RSOEY_25Jun2018","Amphipod",0
+"RSOEY_25Jun2018","Euphausiid",0
+"RSOEY_25Jun2018","Polychaete",0
+"RSOEY_25Jun2018","Shrimp",0
+"RSOEY_25Jun2018","Fish",0
+"RSOEY_25Jun2018","Stichaeid",0
+"ESREO_25Jun2018","Herring (1+)",1
+"ESREO_25Jun2018","Capelin (1+)",0
+"ESREO_25Jun2018","Sand lance (1+)",0
+"ESREO_25Jun2018","Sablefish",0
+"ESREO_25Jun2018","Sand lance (0)",0
+"ESREO_25Jun2018","Eulachon",0
+"ESREO_25Jun2018","Myctophid",0
+"ESREO_25Jun2018","Salmon",0
+"ESREO_25Jun2018","Lingcod",0
+"ESREO_25Jun2018","Greenling",0
+"ESREO_25Jun2018","Gadid",0
+"ESREO_25Jun2018","Pollock",0
+"ESREO_25Jun2018","Herring (0)",0
+"ESREO_25Jun2018","Capelin (0)",0
+"ESREO_25Jun2018","Squid",0
+"ESREO_25Jun2018","Amphipod",0
+"ESREO_25Jun2018","Euphausiid",0
+"ESREO_25Jun2018","Polychaete",0
+"ESREO_25Jun2018","Shrimp",0
+"ESREO_25Jun2018","Fish",0
+"ESREO_25Jun2018","Stichaeid",0
+"BSYYB_25Jun2018","Herring (1+)",0
+"BSYYB_25Jun2018","Capelin (1+)",0
+"BSYYB_25Jun2018","Sand lance (1+)",0
+"BSYYB_25Jun2018","Sablefish",0
+"BSYYB_25Jun2018","Sand lance (0)",1
+"BSYYB_25Jun2018","Eulachon",0
+"BSYYB_25Jun2018","Myctophid",0
+"BSYYB_25Jun2018","Salmon",0
+"BSYYB_25Jun2018","Lingcod",0
+"BSYYB_25Jun2018","Greenling",0
+"BSYYB_25Jun2018","Gadid",0
+"BSYYB_25Jun2018","Pollock",0
+"BSYYB_25Jun2018","Herring (0)",0
+"BSYYB_25Jun2018","Capelin (0)",0
+"BSYYB_25Jun2018","Squid",0
+"BSYYB_25Jun2018","Amphipod",0
+"BSYYB_25Jun2018","Euphausiid",0
+"BSYYB_25Jun2018","Polychaete",0
+"BSYYB_25Jun2018","Shrimp",0
+"BSYYB_25Jun2018","Fish",0
+"BSYYB_25Jun2018","Stichaeid",0
+"WOWYS_12May2018","Herring (1+)",0
+"WOWYS_12May2018","Capelin (1+)",0
+"WOWYS_12May2018","Sand lance (1+)",0
+"WOWYS_12May2018","Sablefish",0
+"WOWYS_12May2018","Sand lance (0)",0
+"WOWYS_12May2018","Eulachon",0
+"WOWYS_12May2018","Myctophid",0
+"WOWYS_12May2018","Salmon",0
+"WOWYS_12May2018","Lingcod",0
+"WOWYS_12May2018","Greenling",0
+"WOWYS_12May2018","Gadid",0
+"WOWYS_12May2018","Pollock",0
+"WOWYS_12May2018","Herring (0)",0
+"WOWYS_12May2018","Capelin (0)",0
+"WOWYS_12May2018","Squid",0
+"WOWYS_12May2018","Amphipod",0
+"WOWYS_12May2018","Euphausiid",0
+"WOWYS_12May2018","Polychaete",1
+"WOWYS_12May2018","Shrimp",0
+"WOWYS_12May2018","Fish",0
+"WOWYS_12May2018","Stichaeid",0
+"ROBRS_18May2018","Herring (1+)",0
+"ROBRS_18May2018","Capelin (1+)",0
+"ROBRS_18May2018","Sand lance (1+)",0
+"ROBRS_18May2018","Sablefish",0
+"ROBRS_18May2018","Sand lance (0)",0
+"ROBRS_18May2018","Eulachon",1
+"ROBRS_18May2018","Myctophid",0
+"ROBRS_18May2018","Salmon",0
+"ROBRS_18May2018","Lingcod",0
+"ROBRS_18May2018","Greenling",0
+"ROBRS_18May2018","Gadid",0
+"ROBRS_18May2018","Pollock",0
+"ROBRS_18May2018","Herring (0)",0
+"ROBRS_18May2018","Capelin (0)",0
+"ROBRS_18May2018","Squid",0
+"ROBRS_18May2018","Amphipod",0
+"ROBRS_18May2018","Euphausiid",0
+"ROBRS_18May2018","Polychaete",0
+"ROBRS_18May2018","Shrimp",0
+"ROBRS_18May2018","Fish",0
+"ROBRS_18May2018","Stichaeid",0
+"wogbs_18Apr2019","Herring (1+)",0
+"wogbs_18Apr2019","Capelin (1+)",0
+"wogbs_18Apr2019","Sand lance (1+)",1
+"wogbs_18Apr2019","Sablefish",0
+"wogbs_18Apr2019","Sand lance (0)",0
+"wogbs_18Apr2019","Eulachon",0
+"wogbs_18Apr2019","Myctophid",0
+"wogbs_18Apr2019","Salmon",0
+"wogbs_18Apr2019","Lingcod",0
+"wogbs_18Apr2019","Greenling",0
+"wogbs_18Apr2019","Gadid",0
+"wogbs_18Apr2019","Pollock",0
+"wogbs_18Apr2019","Herring (0)",0
+"wogbs_18Apr2019","Capelin (0)",0
+"wogbs_18Apr2019","Squid",0
+"wogbs_18Apr2019","Amphipod",0
+"wogbs_18Apr2019","Euphausiid",0
+"wogbs_18Apr2019","Polychaete",0
+"wogbs_18Apr2019","Shrimp",0
+"wogbs_18Apr2019","Fish",0
+"wogbs_18Apr2019","Stichaeid",0
+"rswwe_18Apr2019","Herring (1+)",0
+"rswwe_18Apr2019","Capelin (1+)",1
+"rswwe_18Apr2019","Sand lance (1+)",0
+"rswwe_18Apr2019","Sablefish",0
+"rswwe_18Apr2019","Sand lance (0)",0
+"rswwe_18Apr2019","Eulachon",0
+"rswwe_18Apr2019","Myctophid",0
+"rswwe_18Apr2019","Salmon",0
+"rswwe_18Apr2019","Lingcod",0
+"rswwe_18Apr2019","Greenling",0
+"rswwe_18Apr2019","Gadid",0
+"rswwe_18Apr2019","Pollock",0
+"rswwe_18Apr2019","Herring (0)",0
+"rswwe_18Apr2019","Capelin (0)",0
+"rswwe_18Apr2019","Squid",0
+"rswwe_18Apr2019","Amphipod",0
+"rswwe_18Apr2019","Euphausiid",0
+"rswwe_18Apr2019","Polychaete",0
+"rswwe_18Apr2019","Shrimp",0
+"rswwe_18Apr2019","Fish",0
+"rswwe_18Apr2019","Stichaeid",0
+"esbbo_24Apr2019","Herring (1+)",1
+"esbbo_24Apr2019","Capelin (1+)",0
+"esbbo_24Apr2019","Sand lance (1+)",0
+"esbbo_24Apr2019","Sablefish",0
+"esbbo_24Apr2019","Sand lance (0)",0
+"esbbo_24Apr2019","Eulachon",0
+"esbbo_24Apr2019","Myctophid",0
+"esbbo_24Apr2019","Salmon",0
+"esbbo_24Apr2019","Lingcod",0
+"esbbo_24Apr2019","Greenling",0
+"esbbo_24Apr2019","Gadid",0
+"esbbo_24Apr2019","Pollock",0
+"esbbo_24Apr2019","Herring (0)",0
+"esbbo_24Apr2019","Capelin (0)",0
+"esbbo_24Apr2019","Squid",0
+"esbbo_24Apr2019","Amphipod",0
+"esbbo_24Apr2019","Euphausiid",0
+"esbbo_24Apr2019","Polychaete",0
+"esbbo_24Apr2019","Shrimp",0
+"esbbo_24Apr2019","Fish",0
+"esbbo_24Apr2019","Stichaeid",0
+"yrews_24Apr2019","Herring (1+)",0.714285714285714
+"yrews_24Apr2019","Capelin (1+)",0
+"yrews_24Apr2019","Sand lance (1+)",0
+"yrews_24Apr2019","Sablefish",0
+"yrews_24Apr2019","Sand lance (0)",0
+"yrews_24Apr2019","Eulachon",0
+"yrews_24Apr2019","Myctophid",0
+"yrews_24Apr2019","Salmon",0
+"yrews_24Apr2019","Lingcod",0
+"yrews_24Apr2019","Greenling",0
+"yrews_24Apr2019","Gadid",0
+"yrews_24Apr2019","Pollock",0
+"yrews_24Apr2019","Herring (0)",0
+"yrews_24Apr2019","Capelin (0)",0
+"yrews_24Apr2019","Squid",0
+"yrews_24Apr2019","Amphipod",0
+"yrews_24Apr2019","Euphausiid",0
+"yrews_24Apr2019","Polychaete",0.285714285714286
+"yrews_24Apr2019","Shrimp",0
+"yrews_24Apr2019","Fish",0
+"yrews_24Apr2019","Stichaeid",0
+"weoos_3Jul2019","Herring (1+)",0.808153477218225
+"weoos_3Jul2019","Capelin (1+)",0.119904076738609
+"weoos_3Jul2019","Sand lance (1+)",0
+"weoos_3Jul2019","Sablefish",0
+"weoos_3Jul2019","Sand lance (0)",0
+"weoos_3Jul2019","Eulachon",0
+"weoos_3Jul2019","Myctophid",0
+"weoos_3Jul2019","Salmon",0
+"weoos_3Jul2019","Lingcod",0
+"weoos_3Jul2019","Greenling",0.0719424460431655
+"weoos_3Jul2019","Gadid",0
+"weoos_3Jul2019","Pollock",0
+"weoos_3Jul2019","Herring (0)",0
+"weoos_3Jul2019","Capelin (0)",0
+"weoos_3Jul2019","Squid",0
+"weoos_3Jul2019","Amphipod",0
+"weoos_3Jul2019","Euphausiid",0
+"weoos_3Jul2019","Polychaete",0
+"weoos_3Jul2019","Shrimp",0
+"weoos_3Jul2019","Fish",0
+"weoos_3Jul2019","Stichaeid",0
+"ggrgs_14Jul2019","Herring (1+)",0.154559505409583
+"ggrgs_14Jul2019","Capelin (1+)",0.536321483771252
+"ggrgs_14Jul2019","Sand lance (1+)",0
+"ggrgs_14Jul2019","Sablefish",0
+"ggrgs_14Jul2019","Sand lance (0)",0
+"ggrgs_14Jul2019","Eulachon",0.309119010819165
+"ggrgs_14Jul2019","Myctophid",0
+"ggrgs_14Jul2019","Salmon",0
+"ggrgs_14Jul2019","Lingcod",0
+"ggrgs_14Jul2019","Greenling",0
+"ggrgs_14Jul2019","Gadid",0
+"ggrgs_14Jul2019","Pollock",0
+"ggrgs_14Jul2019","Herring (0)",0
+"ggrgs_14Jul2019","Capelin (0)",0
+"ggrgs_14Jul2019","Squid",0
+"ggrgs_14Jul2019","Amphipod",0
+"ggrgs_14Jul2019","Euphausiid",0
+"ggrgs_14Jul2019","Polychaete",0
+"ggrgs_14Jul2019","Shrimp",0
+"ggrgs_14Jul2019","Fish",0
+"ggrgs_14Jul2019","Stichaeid",0
+"ysero_14Jul2019","Herring (1+)",0.938775510204082
+"ysero_14Jul2019","Capelin (1+)",0.0612244897959184
+"ysero_14Jul2019","Sand lance (1+)",0
+"ysero_14Jul2019","Sablefish",0
+"ysero_14Jul2019","Sand lance (0)",0
+"ysero_14Jul2019","Eulachon",0
+"ysero_14Jul2019","Myctophid",0
+"ysero_14Jul2019","Salmon",0
+"ysero_14Jul2019","Lingcod",0
+"ysero_14Jul2019","Greenling",0
+"ysero_14Jul2019","Gadid",0
+"ysero_14Jul2019","Pollock",0
+"ysero_14Jul2019","Herring (0)",0
+"ysero_14Jul2019","Capelin (0)",0
+"ysero_14Jul2019","Squid",0
+"ysero_14Jul2019","Amphipod",0
+"ysero_14Jul2019","Euphausiid",0
+"ysero_14Jul2019","Polychaete",0
+"ysero_14Jul2019","Shrimp",0
+"ysero_14Jul2019","Fish",0
+"ysero_14Jul2019","Stichaeid",0
+"wswew_29May2019","Herring (1+)",0
+"wswew_29May2019","Capelin (1+)",0
+"wswew_29May2019","Sand lance (1+)",0
+"wswew_29May2019","Sablefish",0
+"wswew_29May2019","Sand lance (0)",0
+"wswew_29May2019","Eulachon",1
+"wswew_29May2019","Myctophid",0
+"wswew_29May2019","Salmon",0
+"wswew_29May2019","Lingcod",0
+"wswew_29May2019","Greenling",0
+"wswew_29May2019","Gadid",0
+"wswew_29May2019","Pollock",0
+"wswew_29May2019","Herring (0)",0
+"wswew_29May2019","Capelin (0)",0
+"wswew_29May2019","Squid",0
+"wswew_29May2019","Amphipod",0
+"wswew_29May2019","Euphausiid",0
+"wswew_29May2019","Polychaete",0
+"wswew_29May2019","Shrimp",0
+"wswew_29May2019","Fish",0
+"wswew_29May2019","Stichaeid",0
+"wsweb_29May2019","Herring (1+)",0
+"wsweb_29May2019","Capelin (1+)",0
+"wsweb_29May2019","Sand lance (1+)",0
+"wsweb_29May2019","Sablefish",0
+"wsweb_29May2019","Sand lance (0)",0
+"wsweb_29May2019","Eulachon",1
+"wsweb_29May2019","Myctophid",0
+"wsweb_29May2019","Salmon",0
+"wsweb_29May2019","Lingcod",0
+"wsweb_29May2019","Greenling",0
+"wsweb_29May2019","Gadid",0
+"wsweb_29May2019","Pollock",0
+"wsweb_29May2019","Herring (0)",0
+"wsweb_29May2019","Capelin (0)",0
+"wsweb_29May2019","Squid",0
+"wsweb_29May2019","Amphipod",0
+"wsweb_29May2019","Euphausiid",0
+"wsweb_29May2019","Polychaete",0
+"wsweb_29May2019","Shrimp",0
+"wsweb_29May2019","Fish",0
+"wsweb_29May2019","Stichaeid",0
+"bsbgw_30Apr2019","Herring (1+)",1
+"bsbgw_30Apr2019","Capelin (1+)",0
+"bsbgw_30Apr2019","Sand lance (1+)",0
+"bsbgw_30Apr2019","Sablefish",0
+"bsbgw_30Apr2019","Sand lance (0)",0
+"bsbgw_30Apr2019","Eulachon",0
+"bsbgw_30Apr2019","Myctophid",0
+"bsbgw_30Apr2019","Salmon",0
+"bsbgw_30Apr2019","Lingcod",0
+"bsbgw_30Apr2019","Greenling",0
+"bsbgw_30Apr2019","Gadid",0
+"bsbgw_30Apr2019","Pollock",0
+"bsbgw_30Apr2019","Herring (0)",0
+"bsbgw_30Apr2019","Capelin (0)",0
+"bsbgw_30Apr2019","Squid",0
+"bsbgw_30Apr2019","Amphipod",0
+"bsbgw_30Apr2019","Euphausiid",0
+"bsbgw_30Apr2019","Polychaete",0
+"bsbgw_30Apr2019","Shrimp",0
+"bsbgw_30Apr2019","Fish",0
+"bsbgw_30Apr2019","Stichaeid",0
+"esyrb_30Apr2019","Herring (1+)",1
+"esyrb_30Apr2019","Capelin (1+)",0
+"esyrb_30Apr2019","Sand lance (1+)",0
+"esyrb_30Apr2019","Sablefish",0
+"esyrb_30Apr2019","Sand lance (0)",0
+"esyrb_30Apr2019","Eulachon",0
+"esyrb_30Apr2019","Myctophid",0
+"esyrb_30Apr2019","Salmon",0
+"esyrb_30Apr2019","Lingcod",0
+"esyrb_30Apr2019","Greenling",0
+"esyrb_30Apr2019","Gadid",0
+"esyrb_30Apr2019","Pollock",0
+"esyrb_30Apr2019","Herring (0)",0
+"esyrb_30Apr2019","Capelin (0)",0
+"esyrb_30Apr2019","Squid",0
+"esyrb_30Apr2019","Amphipod",0
+"esyrb_30Apr2019","Euphausiid",0
+"esyrb_30Apr2019","Polychaete",0
+"esyrb_30Apr2019","Shrimp",0
+"esyrb_30Apr2019","Fish",0
+"esyrb_30Apr2019","Stichaeid",0
+"wsgyr_30Apr2019","Herring (1+)",1
+"wsgyr_30Apr2019","Capelin (1+)",0
+"wsgyr_30Apr2019","Sand lance (1+)",0
+"wsgyr_30Apr2019","Sablefish",0
+"wsgyr_30Apr2019","Sand lance (0)",0
+"wsgyr_30Apr2019","Eulachon",0
+"wsgyr_30Apr2019","Myctophid",0
+"wsgyr_30Apr2019","Salmon",0
+"wsgyr_30Apr2019","Lingcod",0
+"wsgyr_30Apr2019","Greenling",0
+"wsgyr_30Apr2019","Gadid",0
+"wsgyr_30Apr2019","Pollock",0
+"wsgyr_30Apr2019","Herring (0)",0
+"wsgyr_30Apr2019","Capelin (0)",0
+"wsgyr_30Apr2019","Squid",0
+"wsgyr_30Apr2019","Amphipod",0
+"wsgyr_30Apr2019","Euphausiid",0
+"wsgyr_30Apr2019","Polychaete",0
+"wsgyr_30Apr2019","Shrimp",0
+"wsgyr_30Apr2019","Fish",0
+"wsgyr_30Apr2019","Stichaeid",0
+"yowgs_30Apr2019","Herring (1+)",1
+"yowgs_30Apr2019","Capelin (1+)",0
+"yowgs_30Apr2019","Sand lance (1+)",0
+"yowgs_30Apr2019","Sablefish",0
+"yowgs_30Apr2019","Sand lance (0)",0
+"yowgs_30Apr2019","Eulachon",0
+"yowgs_30Apr2019","Myctophid",0
+"yowgs_30Apr2019","Salmon",0
+"yowgs_30Apr2019","Lingcod",0
+"yowgs_30Apr2019","Greenling",0
+"yowgs_30Apr2019","Gadid",0
+"yowgs_30Apr2019","Pollock",0
+"yowgs_30Apr2019","Herring (0)",0
+"yowgs_30Apr2019","Capelin (0)",0
+"yowgs_30Apr2019","Squid",0
+"yowgs_30Apr2019","Amphipod",0
+"yowgs_30Apr2019","Euphausiid",0
+"yowgs_30Apr2019","Polychaete",0
+"yowgs_30Apr2019","Shrimp",0
+"yowgs_30Apr2019","Fish",0
+"yowgs_30Apr2019","Stichaeid",0
+"wsyyo_30Apr2019","Herring (1+)",1
+"wsyyo_30Apr2019","Capelin (1+)",0
+"wsyyo_30Apr2019","Sand lance (1+)",0
+"wsyyo_30Apr2019","Sablefish",0
+"wsyyo_30Apr2019","Sand lance (0)",0
+"wsyyo_30Apr2019","Eulachon",0
+"wsyyo_30Apr2019","Myctophid",0
+"wsyyo_30Apr2019","Salmon",0
+"wsyyo_30Apr2019","Lingcod",0
+"wsyyo_30Apr2019","Greenling",0
+"wsyyo_30Apr2019","Gadid",0
+"wsyyo_30Apr2019","Pollock",0
+"wsyyo_30Apr2019","Herring (0)",0
+"wsyyo_30Apr2019","Capelin (0)",0
+"wsyyo_30Apr2019","Squid",0
+"wsyyo_30Apr2019","Amphipod",0
+"wsyyo_30Apr2019","Euphausiid",0
+"wsyyo_30Apr2019","Polychaete",0
+"wsyyo_30Apr2019","Shrimp",0
+"wsyyo_30Apr2019","Fish",0
+"wsyyo_30Apr2019","Stichaeid",0
+"bsrow_30Apr2019","Herring (1+)",0
+"bsrow_30Apr2019","Capelin (1+)",0
+"bsrow_30Apr2019","Sand lance (1+)",0
+"bsrow_30Apr2019","Sablefish",0
+"bsrow_30Apr2019","Sand lance (0)",0
+"bsrow_30Apr2019","Eulachon",0
+"bsrow_30Apr2019","Myctophid",0
+"bsrow_30Apr2019","Salmon",0
+"bsrow_30Apr2019","Lingcod",0
+"bsrow_30Apr2019","Greenling",0
+"bsrow_30Apr2019","Gadid",0
+"bsrow_30Apr2019","Pollock",0
+"bsrow_30Apr2019","Herring (0)",0
+"bsrow_30Apr2019","Capelin (0)",0
+"bsrow_30Apr2019","Squid",1
+"bsrow_30Apr2019","Amphipod",0
+"bsrow_30Apr2019","Euphausiid",0
+"bsrow_30Apr2019","Polychaete",0
+"bsrow_30Apr2019","Shrimp",0
+"bsrow_30Apr2019","Fish",0
+"bsrow_30Apr2019","Stichaeid",0
+"gwggs_30Apr2019","Herring (1+)",1
+"gwggs_30Apr2019","Capelin (1+)",0
+"gwggs_30Apr2019","Sand lance (1+)",0
+"gwggs_30Apr2019","Sablefish",0
+"gwggs_30Apr2019","Sand lance (0)",0
+"gwggs_30Apr2019","Eulachon",0
+"gwggs_30Apr2019","Myctophid",0
+"gwggs_30Apr2019","Salmon",0
+"gwggs_30Apr2019","Lingcod",0
+"gwggs_30Apr2019","Greenling",0
+"gwggs_30Apr2019","Gadid",0
+"gwggs_30Apr2019","Pollock",0
+"gwggs_30Apr2019","Herring (0)",0
+"gwggs_30Apr2019","Capelin (0)",0
+"gwggs_30Apr2019","Squid",0
+"gwggs_30Apr2019","Amphipod",0
+"gwggs_30Apr2019","Euphausiid",0
+"gwggs_30Apr2019","Polychaete",0
+"gwggs_30Apr2019","Shrimp",0
+"gwggs_30Apr2019","Fish",0
+"gwggs_30Apr2019","Stichaeid",0
+"esgee_30Apr2019","Herring (1+)",0
+"esgee_30Apr2019","Capelin (1+)",0
+"esgee_30Apr2019","Sand lance (1+)",0
+"esgee_30Apr2019","Sablefish",0
+"esgee_30Apr2019","Sand lance (0)",0
+"esgee_30Apr2019","Eulachon",0
+"esgee_30Apr2019","Myctophid",1
+"esgee_30Apr2019","Salmon",0
+"esgee_30Apr2019","Lingcod",0
+"esgee_30Apr2019","Greenling",0
+"esgee_30Apr2019","Gadid",0
+"esgee_30Apr2019","Pollock",0
+"esgee_30Apr2019","Herring (0)",0
+"esgee_30Apr2019","Capelin (0)",0
+"esgee_30Apr2019","Squid",0
+"esgee_30Apr2019","Amphipod",0
+"esgee_30Apr2019","Euphausiid",0
+"esgee_30Apr2019","Polychaete",0
+"esgee_30Apr2019","Shrimp",0
+"esgee_30Apr2019","Fish",0
+"esgee_30Apr2019","Stichaeid",0
+"bowgs_7May2019","Herring (1+)",0
+"bowgs_7May2019","Capelin (1+)",0
+"bowgs_7May2019","Sand lance (1+)",1
+"bowgs_7May2019","Sablefish",0
+"bowgs_7May2019","Sand lance (0)",0
+"bowgs_7May2019","Eulachon",0
+"bowgs_7May2019","Myctophid",0
+"bowgs_7May2019","Salmon",0
+"bowgs_7May2019","Lingcod",0
+"bowgs_7May2019","Greenling",0
+"bowgs_7May2019","Gadid",0
+"bowgs_7May2019","Pollock",0
+"bowgs_7May2019","Herring (0)",0
+"bowgs_7May2019","Capelin (0)",0
+"bowgs_7May2019","Squid",0
+"bowgs_7May2019","Amphipod",0
+"bowgs_7May2019","Euphausiid",0
+"bowgs_7May2019","Polychaete",0
+"bowgs_7May2019","Shrimp",0
+"bowgs_7May2019","Fish",0
+"bowgs_7May2019","Stichaeid",0
+"ryews_13May2019","Herring (1+)",0
+"ryews_13May2019","Capelin (1+)",0
+"ryews_13May2019","Sand lance (1+)",0.4
+"ryews_13May2019","Sablefish",0
+"ryews_13May2019","Sand lance (0)",0
+"ryews_13May2019","Eulachon",0.6
+"ryews_13May2019","Myctophid",0
+"ryews_13May2019","Salmon",0
+"ryews_13May2019","Lingcod",0
+"ryews_13May2019","Greenling",0
+"ryews_13May2019","Gadid",0
+"ryews_13May2019","Pollock",0
+"ryews_13May2019","Herring (0)",0
+"ryews_13May2019","Capelin (0)",0
+"ryews_13May2019","Squid",0
+"ryews_13May2019","Amphipod",0
+"ryews_13May2019","Euphausiid",0
+"ryews_13May2019","Polychaete",0
+"ryews_13May2019","Shrimp",0
+"ryews_13May2019","Fish",0
+"ryews_13May2019","Stichaeid",0
+"ysbry_24May2019","Herring (1+)",0
+"ysbry_24May2019","Capelin (1+)",0
+"ysbry_24May2019","Sand lance (1+)",0
+"ysbry_24May2019","Sablefish",0
+"ysbry_24May2019","Sand lance (0)",0
+"ysbry_24May2019","Eulachon",0
+"ysbry_24May2019","Myctophid",0
+"ysbry_24May2019","Salmon",0
+"ysbry_24May2019","Lingcod",0
+"ysbry_24May2019","Greenling",0
+"ysbry_24May2019","Gadid",1
+"ysbry_24May2019","Pollock",0
+"ysbry_24May2019","Herring (0)",0
+"ysbry_24May2019","Capelin (0)",0
+"ysbry_24May2019","Squid",0
+"ysbry_24May2019","Amphipod",0
+"ysbry_24May2019","Euphausiid",0
+"ysbry_24May2019","Polychaete",0
+"ysbry_24May2019","Shrimp",0
+"ysbry_24May2019","Fish",0
+"ysbry_24May2019","Stichaeid",0
+"A70_bsrow_20Apr2021","Herring (1+)",1
+"A70_bsrow_20Apr2021","Capelin (1+)",0
+"A70_bsrow_20Apr2021","Sand lance (1+)",0
+"A70_bsrow_20Apr2021","Sablefish",0
+"A70_bsrow_20Apr2021","Sand lance (0)",0
+"A70_bsrow_20Apr2021","Eulachon",0
+"A70_bsrow_20Apr2021","Myctophid",0
+"A70_bsrow_20Apr2021","Salmon",0
+"A70_bsrow_20Apr2021","Lingcod",0
+"A70_bsrow_20Apr2021","Greenling",0
+"A70_bsrow_20Apr2021","Gadid",0
+"A70_bsrow_20Apr2021","Pollock",0
+"A70_bsrow_20Apr2021","Herring (0)",0
+"A70_bsrow_20Apr2021","Capelin (0)",0
+"A70_bsrow_20Apr2021","Squid",0
+"A70_bsrow_20Apr2021","Amphipod",0
+"A70_bsrow_20Apr2021","Euphausiid",0
+"A70_bsrow_20Apr2021","Polychaete",0
+"A70_bsrow_20Apr2021","Shrimp",0
+"A70_bsrow_20Apr2021","Fish",0
+"A70_bsrow_20Apr2021","Stichaeid",0
+"A78_wryys_20Apr2021","Herring (1+)",1
+"A78_wryys_20Apr2021","Capelin (1+)",0
+"A78_wryys_20Apr2021","Sand lance (1+)",0
+"A78_wryys_20Apr2021","Sablefish",0
+"A78_wryys_20Apr2021","Sand lance (0)",0
+"A78_wryys_20Apr2021","Eulachon",0
+"A78_wryys_20Apr2021","Myctophid",0
+"A78_wryys_20Apr2021","Salmon",0
+"A78_wryys_20Apr2021","Lingcod",0
+"A78_wryys_20Apr2021","Greenling",0
+"A78_wryys_20Apr2021","Gadid",0
+"A78_wryys_20Apr2021","Pollock",0
+"A78_wryys_20Apr2021","Herring (0)",0
+"A78_wryys_20Apr2021","Capelin (0)",0
+"A78_wryys_20Apr2021","Squid",0
+"A78_wryys_20Apr2021","Amphipod",0
+"A78_wryys_20Apr2021","Euphausiid",0
+"A78_wryys_20Apr2021","Polychaete",0
+"A78_wryys_20Apr2021","Shrimp",0
+"A78_wryys_20Apr2021","Fish",0
+"A78_wryys_20Apr2021","Stichaeid",0
+"A61_byegs_20Apr2021","Herring (1+)",1
+"A61_byegs_20Apr2021","Capelin (1+)",0
+"A61_byegs_20Apr2021","Sand lance (1+)",0
+"A61_byegs_20Apr2021","Sablefish",0
+"A61_byegs_20Apr2021","Sand lance (0)",0
+"A61_byegs_20Apr2021","Eulachon",0
+"A61_byegs_20Apr2021","Myctophid",0
+"A61_byegs_20Apr2021","Salmon",0
+"A61_byegs_20Apr2021","Lingcod",0
+"A61_byegs_20Apr2021","Greenling",0
+"A61_byegs_20Apr2021","Gadid",0
+"A61_byegs_20Apr2021","Pollock",0
+"A61_byegs_20Apr2021","Herring (0)",0
+"A61_byegs_20Apr2021","Capelin (0)",0
+"A61_byegs_20Apr2021","Squid",0
+"A61_byegs_20Apr2021","Amphipod",0
+"A61_byegs_20Apr2021","Euphausiid",0
+"A61_byegs_20Apr2021","Polychaete",0
+"A61_byegs_20Apr2021","Shrimp",0
+"A61_byegs_20Apr2021","Fish",0
+"A61_byegs_20Apr2021","Stichaeid",0
+"A71_wswrb_20Apr2021","Herring (1+)",0
+"A71_wswrb_20Apr2021","Capelin (1+)",0
+"A71_wswrb_20Apr2021","Sand lance (1+)",0
+"A71_wswrb_20Apr2021","Sablefish",0
+"A71_wswrb_20Apr2021","Sand lance (0)",0
+"A71_wswrb_20Apr2021","Eulachon",0
+"A71_wswrb_20Apr2021","Myctophid",0.843023255813954
+"A71_wswrb_20Apr2021","Salmon",0
+"A71_wswrb_20Apr2021","Lingcod",0
+"A71_wswrb_20Apr2021","Greenling",0
+"A71_wswrb_20Apr2021","Gadid",0
+"A71_wswrb_20Apr2021","Pollock",0
+"A71_wswrb_20Apr2021","Herring (0)",0
+"A71_wswrb_20Apr2021","Capelin (0)",0
+"A71_wswrb_20Apr2021","Squid",0
+"A71_wswrb_20Apr2021","Amphipod",0.0116279069767442
+"A71_wswrb_20Apr2021","Euphausiid",0
+"A71_wswrb_20Apr2021","Polychaete",0.116279069767442
+"A71_wswrb_20Apr2021","Shrimp",0.0290697674418605
+"A71_wswrb_20Apr2021","Fish",0
+"A71_wswrb_20Apr2021","Stichaeid",0
+"A78_bwoes_28Jun21","Herring (1+)",1
+"A78_bwoes_28Jun21","Capelin (1+)",0
+"A78_bwoes_28Jun21","Sand lance (1+)",0
+"A78_bwoes_28Jun21","Sablefish",0
+"A78_bwoes_28Jun21","Sand lance (0)",0
+"A78_bwoes_28Jun21","Eulachon",0
+"A78_bwoes_28Jun21","Myctophid",0
+"A78_bwoes_28Jun21","Salmon",0
+"A78_bwoes_28Jun21","Lingcod",0
+"A78_bwoes_28Jun21","Greenling",0
+"A78_bwoes_28Jun21","Gadid",0
+"A78_bwoes_28Jun21","Pollock",0
+"A78_bwoes_28Jun21","Herring (0)",0
+"A78_bwoes_28Jun21","Capelin (0)",0
+"A78_bwoes_28Jun21","Squid",0
+"A78_bwoes_28Jun21","Amphipod",0
+"A78_bwoes_28Jun21","Euphausiid",0
+"A78_bwoes_28Jun21","Polychaete",0
+"A78_bwoes_28Jun21","Shrimp",0
+"A78_bwoes_28Jun21","Fish",0
+"A78_bwoes_28Jun21","Stichaeid",0
+"A53_wgybs_6Jul21","Herring (1+)",1
+"A53_wgybs_6Jul21","Capelin (1+)",0
+"A53_wgybs_6Jul21","Sand lance (1+)",0
+"A53_wgybs_6Jul21","Sablefish",0
+"A53_wgybs_6Jul21","Sand lance (0)",0
+"A53_wgybs_6Jul21","Eulachon",0
+"A53_wgybs_6Jul21","Myctophid",0
+"A53_wgybs_6Jul21","Salmon",0
+"A53_wgybs_6Jul21","Lingcod",0
+"A53_wgybs_6Jul21","Greenling",0
+"A53_wgybs_6Jul21","Gadid",0
+"A53_wgybs_6Jul21","Pollock",0
+"A53_wgybs_6Jul21","Herring (0)",0
+"A53_wgybs_6Jul21","Capelin (0)",0
+"A53_wgybs_6Jul21","Squid",0
+"A53_wgybs_6Jul21","Amphipod",0
+"A53_wgybs_6Jul21","Euphausiid",0
+"A53_wgybs_6Jul21","Polychaete",0
+"A53_wgybs_6Jul21","Shrimp",0
+"A53_wgybs_6Jul21","Fish",0
+"A53_wgybs_6Jul21","Stichaeid",0
+"A26_okwgys_6Jul21","Herring (1+)",1
+"A26_okwgys_6Jul21","Capelin (1+)",0
+"A26_okwgys_6Jul21","Sand lance (1+)",0
+"A26_okwgys_6Jul21","Sablefish",0
+"A26_okwgys_6Jul21","Sand lance (0)",0
+"A26_okwgys_6Jul21","Eulachon",0
+"A26_okwgys_6Jul21","Myctophid",0
+"A26_okwgys_6Jul21","Salmon",0
+"A26_okwgys_6Jul21","Lingcod",0
+"A26_okwgys_6Jul21","Greenling",0
+"A26_okwgys_6Jul21","Gadid",0
+"A26_okwgys_6Jul21","Pollock",0
+"A26_okwgys_6Jul21","Herring (0)",0
+"A26_okwgys_6Jul21","Capelin (0)",0
+"A26_okwgys_6Jul21","Squid",0
+"A26_okwgys_6Jul21","Amphipod",0
+"A26_okwgys_6Jul21","Euphausiid",0
+"A26_okwgys_6Jul21","Polychaete",0
+"A26_okwgys_6Jul21","Shrimp",0
+"A26_okwgys_6Jul21","Fish",0
+"A26_okwgys_6Jul21","Stichaeid",0
+"A60_esbyr_6Jul21","Herring (1+)",1
+"A60_esbyr_6Jul21","Capelin (1+)",0
+"A60_esbyr_6Jul21","Sand lance (1+)",0
+"A60_esbyr_6Jul21","Sablefish",0
+"A60_esbyr_6Jul21","Sand lance (0)",0
+"A60_esbyr_6Jul21","Eulachon",0
+"A60_esbyr_6Jul21","Myctophid",0
+"A60_esbyr_6Jul21","Salmon",0
+"A60_esbyr_6Jul21","Lingcod",0
+"A60_esbyr_6Jul21","Greenling",0
+"A60_esbyr_6Jul21","Gadid",0
+"A60_esbyr_6Jul21","Pollock",0
+"A60_esbyr_6Jul21","Herring (0)",0
+"A60_esbyr_6Jul21","Capelin (0)",0
+"A60_esbyr_6Jul21","Squid",0
+"A60_esbyr_6Jul21","Amphipod",0
+"A60_esbyr_6Jul21","Euphausiid",0
+"A60_esbyr_6Jul21","Polychaete",0
+"A60_esbyr_6Jul21","Shrimp",0
+"A60_esbyr_6Jul21","Fish",0
+"A60_esbyr_6Jul21","Stichaeid",0
+"A39_yrwws_8Jul21","Herring (1+)",0
+"A39_yrwws_8Jul21","Capelin (1+)",0
+"A39_yrwws_8Jul21","Sand lance (1+)",1
+"A39_yrwws_8Jul21","Sablefish",0
+"A39_yrwws_8Jul21","Sand lance (0)",0
+"A39_yrwws_8Jul21","Eulachon",0
+"A39_yrwws_8Jul21","Myctophid",0
+"A39_yrwws_8Jul21","Salmon",0
+"A39_yrwws_8Jul21","Lingcod",0
+"A39_yrwws_8Jul21","Greenling",0
+"A39_yrwws_8Jul21","Gadid",0
+"A39_yrwws_8Jul21","Pollock",0
+"A39_yrwws_8Jul21","Herring (0)",0
+"A39_yrwws_8Jul21","Capelin (0)",0
+"A39_yrwws_8Jul21","Squid",0
+"A39_yrwws_8Jul21","Amphipod",0
+"A39_yrwws_8Jul21","Euphausiid",0
+"A39_yrwws_8Jul21","Polychaete",0
+"A39_yrwws_8Jul21","Shrimp",0
+"A39_yrwws_8Jul21","Fish",0
+"A39_yrwws_8Jul21","Stichaeid",0
+"A69_bgoys_14Jun21","Herring (1+)",1
+"A69_bgoys_14Jun21","Capelin (1+)",0
+"A69_bgoys_14Jun21","Sand lance (1+)",0
+"A69_bgoys_14Jun21","Sablefish",0
+"A69_bgoys_14Jun21","Sand lance (0)",0
+"A69_bgoys_14Jun21","Eulachon",0
+"A69_bgoys_14Jun21","Myctophid",0
+"A69_bgoys_14Jun21","Salmon",0
+"A69_bgoys_14Jun21","Lingcod",0
+"A69_bgoys_14Jun21","Greenling",0
+"A69_bgoys_14Jun21","Gadid",0
+"A69_bgoys_14Jun21","Pollock",0
+"A69_bgoys_14Jun21","Herring (0)",0
+"A69_bgoys_14Jun21","Capelin (0)",0
+"A69_bgoys_14Jun21","Squid",0
+"A69_bgoys_14Jun21","Amphipod",0
+"A69_bgoys_14Jun21","Euphausiid",0
+"A69_bgoys_14Jun21","Polychaete",0
+"A69_bgoys_14Jun21","Shrimp",0
+"A69_bgoys_14Jun21","Fish",0
+"A69_bgoys_14Jun21","Stichaeid",0
+"A78_ysbor_13Jun21","Herring (1+)",0
+"A78_ysbor_13Jun21","Capelin (1+)",0
+"A78_ysbor_13Jun21","Sand lance (1+)",1
+"A78_ysbor_13Jun21","Sablefish",0
+"A78_ysbor_13Jun21","Sand lance (0)",0
+"A78_ysbor_13Jun21","Eulachon",0
+"A78_ysbor_13Jun21","Myctophid",0
+"A78_ysbor_13Jun21","Salmon",0
+"A78_ysbor_13Jun21","Lingcod",0
+"A78_ysbor_13Jun21","Greenling",0
+"A78_ysbor_13Jun21","Gadid",0
+"A78_ysbor_13Jun21","Pollock",0
+"A78_ysbor_13Jun21","Herring (0)",0
+"A78_ysbor_13Jun21","Capelin (0)",0
+"A78_ysbor_13Jun21","Squid",0
+"A78_ysbor_13Jun21","Amphipod",0
+"A78_ysbor_13Jun21","Euphausiid",0
+"A78_ysbor_13Jun21","Polychaete",0
+"A78_ysbor_13Jun21","Shrimp",0
+"A78_ysbor_13Jun21","Fish",0
+"A78_ysbor_13Jun21","Stichaeid",0
+"A59_wksbow_14Jun21","Herring (1+)",0
+"A59_wksbow_14Jun21","Capelin (1+)",0
+"A59_wksbow_14Jun21","Sand lance (1+)",1
+"A59_wksbow_14Jun21","Sablefish",0
+"A59_wksbow_14Jun21","Sand lance (0)",0
+"A59_wksbow_14Jun21","Eulachon",0
+"A59_wksbow_14Jun21","Myctophid",0
+"A59_wksbow_14Jun21","Salmon",0
+"A59_wksbow_14Jun21","Lingcod",0
+"A59_wksbow_14Jun21","Greenling",0
+"A59_wksbow_14Jun21","Gadid",0
+"A59_wksbow_14Jun21","Pollock",0
+"A59_wksbow_14Jun21","Herring (0)",0
+"A59_wksbow_14Jun21","Capelin (0)",0
+"A59_wksbow_14Jun21","Squid",0
+"A59_wksbow_14Jun21","Amphipod",0
+"A59_wksbow_14Jun21","Euphausiid",0
+"A59_wksbow_14Jun21","Polychaete",0
+"A59_wksbow_14Jun21","Shrimp",0
+"A59_wksbow_14Jun21","Fish",0
+"A59_wksbow_14Jun21","Stichaeid",0
+"A59_wsrgb_20Jun21","Herring (1+)",1
+"A59_wsrgb_20Jun21","Capelin (1+)",0
+"A59_wsrgb_20Jun21","Sand lance (1+)",0
+"A59_wsrgb_20Jun21","Sablefish",0
+"A59_wsrgb_20Jun21","Sand lance (0)",0
+"A59_wsrgb_20Jun21","Eulachon",0
+"A59_wsrgb_20Jun21","Myctophid",0
+"A59_wsrgb_20Jun21","Salmon",0
+"A59_wsrgb_20Jun21","Lingcod",0
+"A59_wsrgb_20Jun21","Greenling",0
+"A59_wsrgb_20Jun21","Gadid",0
+"A59_wsrgb_20Jun21","Pollock",0
+"A59_wsrgb_20Jun21","Herring (0)",0
+"A59_wsrgb_20Jun21","Capelin (0)",0
+"A59_wsrgb_20Jun21","Squid",0
+"A59_wsrgb_20Jun21","Amphipod",0
+"A59_wsrgb_20Jun21","Euphausiid",0
+"A59_wsrgb_20Jun21","Polychaete",0
+"A59_wsrgb_20Jun21","Shrimp",0
+"A59_wsrgb_20Jun21","Fish",0
+"A59_wsrgb_20Jun21","Stichaeid",0
+"A71_esero_20Jun21","Herring (1+)",1
+"A71_esero_20Jun21","Capelin (1+)",0
+"A71_esero_20Jun21","Sand lance (1+)",0
+"A71_esero_20Jun21","Sablefish",0
+"A71_esero_20Jun21","Sand lance (0)",0
+"A71_esero_20Jun21","Eulachon",0
+"A71_esero_20Jun21","Myctophid",0
+"A71_esero_20Jun21","Salmon",0
+"A71_esero_20Jun21","Lingcod",0
+"A71_esero_20Jun21","Greenling",0
+"A71_esero_20Jun21","Gadid",0
+"A71_esero_20Jun21","Pollock",0
+"A71_esero_20Jun21","Herring (0)",0
+"A71_esero_20Jun21","Capelin (0)",0
+"A71_esero_20Jun21","Squid",0
+"A71_esero_20Jun21","Amphipod",0
+"A71_esero_20Jun21","Euphausiid",0
+"A71_esero_20Jun21","Polychaete",0
+"A71_esero_20Jun21","Shrimp",0
+"A71_esero_20Jun21","Fish",0
+"A71_esero_20Jun21","Stichaeid",0
+"A59_yrews_29Apr2021","Herring (1+)",0
+"A59_yrews_29Apr2021","Capelin (1+)",0
+"A59_yrews_29Apr2021","Sand lance (1+)",1
+"A59_yrews_29Apr2021","Sablefish",0
+"A59_yrews_29Apr2021","Sand lance (0)",0
+"A59_yrews_29Apr2021","Eulachon",0
+"A59_yrews_29Apr2021","Myctophid",0
+"A59_yrews_29Apr2021","Salmon",0
+"A59_yrews_29Apr2021","Lingcod",0
+"A59_yrews_29Apr2021","Greenling",0
+"A59_yrews_29Apr2021","Gadid",0
+"A59_yrews_29Apr2021","Pollock",0
+"A59_yrews_29Apr2021","Herring (0)",0
+"A59_yrews_29Apr2021","Capelin (0)",0
+"A59_yrews_29Apr2021","Squid",0
+"A59_yrews_29Apr2021","Amphipod",0
+"A59_yrews_29Apr2021","Euphausiid",0
+"A59_yrews_29Apr2021","Polychaete",0
+"A59_yrews_29Apr2021","Shrimp",0
+"A59_yrews_29Apr2021","Fish",0
+"A59_yrews_29Apr2021","Stichaeid",0
+"A53_wsgob_29Apr2021","Herring (1+)",0
+"A53_wsgob_29Apr2021","Capelin (1+)",0
+"A53_wsgob_29Apr2021","Sand lance (1+)",0.373134328358209
+"A53_wsgob_29Apr2021","Sablefish",0
+"A53_wsgob_29Apr2021","Sand lance (0)",0
+"A53_wsgob_29Apr2021","Eulachon",0.626865671641791
+"A53_wsgob_29Apr2021","Myctophid",0
+"A53_wsgob_29Apr2021","Salmon",0
+"A53_wsgob_29Apr2021","Lingcod",0
+"A53_wsgob_29Apr2021","Greenling",0
+"A53_wsgob_29Apr2021","Gadid",0
+"A53_wsgob_29Apr2021","Pollock",0
+"A53_wsgob_29Apr2021","Herring (0)",0
+"A53_wsgob_29Apr2021","Capelin (0)",0
+"A53_wsgob_29Apr2021","Squid",0
+"A53_wsgob_29Apr2021","Amphipod",0
+"A53_wsgob_29Apr2021","Euphausiid",0
+"A53_wsgob_29Apr2021","Polychaete",0
+"A53_wsgob_29Apr2021","Shrimp",0
+"A53_wsgob_29Apr2021","Fish",0
+"A53_wsgob_29Apr2021","Stichaeid",0
+"A35_wswew_9May21","Herring (1+)",0
+"A35_wswew_9May21","Capelin (1+)",0.625
+"A35_wswew_9May21","Sand lance (1+)",0.375
+"A35_wswew_9May21","Sablefish",0
+"A35_wswew_9May21","Sand lance (0)",0
+"A35_wswew_9May21","Eulachon",0
+"A35_wswew_9May21","Myctophid",0
+"A35_wswew_9May21","Salmon",0
+"A35_wswew_9May21","Lingcod",0
+"A35_wswew_9May21","Greenling",0
+"A35_wswew_9May21","Gadid",0
+"A35_wswew_9May21","Pollock",0
+"A35_wswew_9May21","Herring (0)",0
+"A35_wswew_9May21","Capelin (0)",0
+"A35_wswew_9May21","Squid",0
+"A35_wswew_9May21","Amphipod",0
+"A35_wswew_9May21","Euphausiid",0
+"A35_wswew_9May21","Polychaete",0
+"A35_wswew_9May21","Shrimp",0
+"A35_wswew_9May21","Fish",0
+"A35_wswew_9May21","Stichaeid",0
+"A34_wbges_9May2021","Herring (1+)",1
+"A34_wbges_9May2021","Capelin (1+)",0
+"A34_wbges_9May2021","Sand lance (1+)",0
+"A34_wbges_9May2021","Sablefish",0
+"A34_wbges_9May2021","Sand lance (0)",0
+"A34_wbges_9May2021","Eulachon",0
+"A34_wbges_9May2021","Myctophid",0
+"A34_wbges_9May2021","Salmon",0
+"A34_wbges_9May2021","Lingcod",0
+"A34_wbges_9May2021","Greenling",0
+"A34_wbges_9May2021","Gadid",0
+"A34_wbges_9May2021","Pollock",0
+"A34_wbges_9May2021","Herring (0)",0
+"A34_wbges_9May2021","Capelin (0)",0
+"A34_wbges_9May2021","Squid",0
+"A34_wbges_9May2021","Amphipod",0
+"A34_wbges_9May2021","Euphausiid",0
+"A34_wbges_9May2021","Polychaete",0
+"A34_wbges_9May2021","Shrimp",0
+"A34_wbges_9May2021","Fish",0
+"A34_wbges_9May2021","Stichaeid",0
+"A44_wwwbs_15May21","Herring (1+)",0
+"A44_wwwbs_15May21","Capelin (1+)",1
+"A44_wwwbs_15May21","Sand lance (1+)",0
+"A44_wwwbs_15May21","Sablefish",0
+"A44_wwwbs_15May21","Sand lance (0)",0
+"A44_wwwbs_15May21","Eulachon",0
+"A44_wwwbs_15May21","Myctophid",0
+"A44_wwwbs_15May21","Salmon",0
+"A44_wwwbs_15May21","Lingcod",0
+"A44_wwwbs_15May21","Greenling",0
+"A44_wwwbs_15May21","Gadid",0
+"A44_wwwbs_15May21","Pollock",0
+"A44_wwwbs_15May21","Herring (0)",0
+"A44_wwwbs_15May21","Capelin (0)",0
+"A44_wwwbs_15May21","Squid",0
+"A44_wwwbs_15May21","Amphipod",0
+"A44_wwwbs_15May21","Euphausiid",0
+"A44_wwwbs_15May21","Polychaete",0
+"A44_wwwbs_15May21","Shrimp",0
+"A44_wwwbs_15May21","Fish",0
+"A44_wwwbs_15May21","Stichaeid",0
+"A74_ywswkb_23May21","Herring (1+)",1
+"A74_ywswkb_23May21","Capelin (1+)",0
+"A74_ywswkb_23May21","Sand lance (1+)",0
+"A74_ywswkb_23May21","Sablefish",0
+"A74_ywswkb_23May21","Sand lance (0)",0
+"A74_ywswkb_23May21","Eulachon",0
+"A74_ywswkb_23May21","Myctophid",0
+"A74_ywswkb_23May21","Salmon",0
+"A74_ywswkb_23May21","Lingcod",0
+"A74_ywswkb_23May21","Greenling",0
+"A74_ywswkb_23May21","Gadid",0
+"A74_ywswkb_23May21","Pollock",0
+"A74_ywswkb_23May21","Herring (0)",0
+"A74_ywswkb_23May21","Capelin (0)",0
+"A74_ywswkb_23May21","Squid",0
+"A74_ywswkb_23May21","Amphipod",0
+"A74_ywswkb_23May21","Euphausiid",0
+"A74_ywswkb_23May21","Polychaete",0
+"A74_ywswkb_23May21","Shrimp",0
+"A74_ywswkb_23May21","Fish",0
+"A74_ywswkb_23May21","Stichaeid",0
+"A62_esgyb_23May21","Herring (1+)",0
+"A62_esgyb_23May21","Capelin (1+)",0
+"A62_esgyb_23May21","Sand lance (1+)",1
+"A62_esgyb_23May21","Sablefish",0
+"A62_esgyb_23May21","Sand lance (0)",0
+"A62_esgyb_23May21","Eulachon",0
+"A62_esgyb_23May21","Myctophid",0
+"A62_esgyb_23May21","Salmon",0
+"A62_esgyb_23May21","Lingcod",0
+"A62_esgyb_23May21","Greenling",0
+"A62_esgyb_23May21","Gadid",0
+"A62_esgyb_23May21","Pollock",0
+"A62_esgyb_23May21","Herring (0)",0
+"A62_esgyb_23May21","Capelin (0)",0
+"A62_esgyb_23May21","Squid",0
+"A62_esgyb_23May21","Amphipod",0
+"A62_esgyb_23May21","Euphausiid",0
+"A62_esgyb_23May21","Polychaete",0
+"A62_esgyb_23May21","Shrimp",0
+"A62_esgyb_23May21","Fish",0
+"A62_esgyb_23May21","Stichaeid",0
+"A59_wswww_26May2021","Herring (1+)",1
+"A59_wswww_26May2021","Capelin (1+)",0
+"A59_wswww_26May2021","Sand lance (1+)",0
+"A59_wswww_26May2021","Sablefish",0
+"A59_wswww_26May2021","Sand lance (0)",0
+"A59_wswww_26May2021","Eulachon",0
+"A59_wswww_26May2021","Myctophid",0
+"A59_wswww_26May2021","Salmon",0
+"A59_wswww_26May2021","Lingcod",0
+"A59_wswww_26May2021","Greenling",0
+"A59_wswww_26May2021","Gadid",0
+"A59_wswww_26May2021","Pollock",0
+"A59_wswww_26May2021","Herring (0)",0
+"A59_wswww_26May2021","Capelin (0)",0
+"A59_wswww_26May2021","Squid",0
+"A59_wswww_26May2021","Amphipod",0
+"A59_wswww_26May2021","Euphausiid",0
+"A59_wswww_26May2021","Polychaete",0
+"A59_wswww_26May2021","Shrimp",0
+"A59_wswww_26May2021","Fish",0
+"A59_wswww_26May2021","Stichaeid",0
+"A88_brgrs_3Jul2022","Herring (1+)",0
+"A88_brgrs_3Jul2022","Capelin (1+)",0
+"A88_brgrs_3Jul2022","Sand lance (1+)",0
+"A88_brgrs_3Jul2022","Sablefish",0
+"A88_brgrs_3Jul2022","Sand lance (0)",1
+"A88_brgrs_3Jul2022","Eulachon",0
+"A88_brgrs_3Jul2022","Myctophid",0
+"A88_brgrs_3Jul2022","Salmon",0
+"A88_brgrs_3Jul2022","Lingcod",0
+"A88_brgrs_3Jul2022","Greenling",0
+"A88_brgrs_3Jul2022","Gadid",0
+"A88_brgrs_3Jul2022","Pollock",0
+"A88_brgrs_3Jul2022","Herring (0)",0
+"A88_brgrs_3Jul2022","Capelin (0)",0
+"A88_brgrs_3Jul2022","Squid",0
+"A88_brgrs_3Jul2022","Amphipod",0
+"A88_brgrs_3Jul2022","Euphausiid",0
+"A88_brgrs_3Jul2022","Polychaete",0
+"A88_brgrs_3Jul2022","Shrimp",0
+"A88_brgrs_3Jul2022","Fish",0
+"A88_brgrs_3Jul2022","Stichaeid",0
+"A94_gswee_2Jul2022","Herring (1+)",0
+"A94_gswee_2Jul2022","Capelin (1+)",0
+"A94_gswee_2Jul2022","Sand lance (1+)",0
+"A94_gswee_2Jul2022","Sablefish",0
+"A94_gswee_2Jul2022","Sand lance (0)",0
+"A94_gswee_2Jul2022","Eulachon",0
+"A94_gswee_2Jul2022","Myctophid",0.989583333333333
+"A94_gswee_2Jul2022","Salmon",0
+"A94_gswee_2Jul2022","Lingcod",0
+"A94_gswee_2Jul2022","Greenling",0
+"A94_gswee_2Jul2022","Gadid",0
+"A94_gswee_2Jul2022","Pollock",0
+"A94_gswee_2Jul2022","Herring (0)",0
+"A94_gswee_2Jul2022","Capelin (0)",0
+"A94_gswee_2Jul2022","Squid",0
+"A94_gswee_2Jul2022","Amphipod",0.0104166666666667
+"A94_gswee_2Jul2022","Euphausiid",0
+"A94_gswee_2Jul2022","Polychaete",0
+"A94_gswee_2Jul2022","Shrimp",0
+"A94_gswee_2Jul2022","Fish",0
+"A94_gswee_2Jul2022","Stichaeid",0
+"A83_ysbor_7Jul2022","Herring (1+)",1
+"A83_ysbor_7Jul2022","Capelin (1+)",0
+"A83_ysbor_7Jul2022","Sand lance (1+)",0
+"A83_ysbor_7Jul2022","Sablefish",0
+"A83_ysbor_7Jul2022","Sand lance (0)",0
+"A83_ysbor_7Jul2022","Eulachon",0
+"A83_ysbor_7Jul2022","Myctophid",0
+"A83_ysbor_7Jul2022","Salmon",0
+"A83_ysbor_7Jul2022","Lingcod",0
+"A83_ysbor_7Jul2022","Greenling",0
+"A83_ysbor_7Jul2022","Gadid",0
+"A83_ysbor_7Jul2022","Pollock",0
+"A83_ysbor_7Jul2022","Herring (0)",0
+"A83_ysbor_7Jul2022","Capelin (0)",0
+"A83_ysbor_7Jul2022","Squid",0
+"A83_ysbor_7Jul2022","Amphipod",0
+"A83_ysbor_7Jul2022","Euphausiid",0
+"A83_ysbor_7Jul2022","Polychaete",0
+"A83_ysbor_7Jul2022","Shrimp",0
+"A83_ysbor_7Jul2022","Fish",0
+"A83_ysbor_7Jul2022","Stichaeid",0
+"A84_bgoys_11Jul2022","Herring (1+)",1
+"A84_bgoys_11Jul2022","Capelin (1+)",0
+"A84_bgoys_11Jul2022","Sand lance (1+)",0
+"A84_bgoys_11Jul2022","Sablefish",0
+"A84_bgoys_11Jul2022","Sand lance (0)",0
+"A84_bgoys_11Jul2022","Eulachon",0
+"A84_bgoys_11Jul2022","Myctophid",0
+"A84_bgoys_11Jul2022","Salmon",0
+"A84_bgoys_11Jul2022","Lingcod",0
+"A84_bgoys_11Jul2022","Greenling",0
+"A84_bgoys_11Jul2022","Gadid",0
+"A84_bgoys_11Jul2022","Pollock",0
+"A84_bgoys_11Jul2022","Herring (0)",0
+"A84_bgoys_11Jul2022","Capelin (0)",0
+"A84_bgoys_11Jul2022","Squid",0
+"A84_bgoys_11Jul2022","Amphipod",0
+"A84_bgoys_11Jul2022","Euphausiid",0
+"A84_bgoys_11Jul2022","Polychaete",0
+"A84_bgoys_11Jul2022","Shrimp",0
+"A84_bgoys_11Jul2022","Fish",0
+"A84_bgoys_11Jul2022","Stichaeid",0
+"A94_royrs_11Jul2022","Herring (1+)",0.929824561403509
+"A94_royrs_11Jul2022","Capelin (1+)",0.0701754385964912
+"A94_royrs_11Jul2022","Sand lance (1+)",0
+"A94_royrs_11Jul2022","Sablefish",0
+"A94_royrs_11Jul2022","Sand lance (0)",0
+"A94_royrs_11Jul2022","Eulachon",0
+"A94_royrs_11Jul2022","Myctophid",0
+"A94_royrs_11Jul2022","Salmon",0
+"A94_royrs_11Jul2022","Lingcod",0
+"A94_royrs_11Jul2022","Greenling",0
+"A94_royrs_11Jul2022","Gadid",0
+"A94_royrs_11Jul2022","Pollock",0
+"A94_royrs_11Jul2022","Herring (0)",0
+"A94_royrs_11Jul2022","Capelin (0)",0
+"A94_royrs_11Jul2022","Squid",0
+"A94_royrs_11Jul2022","Amphipod",0
+"A94_royrs_11Jul2022","Euphausiid",0
+"A94_royrs_11Jul2022","Polychaete",0
+"A94_royrs_11Jul2022","Shrimp",0
+"A94_royrs_11Jul2022","Fish",0
+"A94_royrs_11Jul2022","Stichaeid",0
+"A93_bksgyw_12Jul2022","Herring (1+)",0
+"A93_bksgyw_12Jul2022","Capelin (1+)",0
+"A93_bksgyw_12Jul2022","Sand lance (1+)",0
+"A93_bksgyw_12Jul2022","Sablefish",1
+"A93_bksgyw_12Jul2022","Sand lance (0)",0
+"A93_bksgyw_12Jul2022","Eulachon",0
+"A93_bksgyw_12Jul2022","Myctophid",0
+"A93_bksgyw_12Jul2022","Salmon",0
+"A93_bksgyw_12Jul2022","Lingcod",0
+"A93_bksgyw_12Jul2022","Greenling",0
+"A93_bksgyw_12Jul2022","Gadid",0
+"A93_bksgyw_12Jul2022","Pollock",0
+"A93_bksgyw_12Jul2022","Herring (0)",0
+"A93_bksgyw_12Jul2022","Capelin (0)",0
+"A93_bksgyw_12Jul2022","Squid",0
+"A93_bksgyw_12Jul2022","Amphipod",0
+"A93_bksgyw_12Jul2022","Euphausiid",0
+"A93_bksgyw_12Jul2022","Polychaete",0
+"A93_bksgyw_12Jul2022","Shrimp",0
+"A93_bksgyw_12Jul2022","Fish",0
+"A93_bksgyw_12Jul2022","Stichaeid",0
+"A80_wbgrs_12Jul2022","Herring (1+)",0
+"A80_wbgrs_12Jul2022","Capelin (1+)",0
+"A80_wbgrs_12Jul2022","Sand lance (1+)",0
+"A80_wbgrs_12Jul2022","Sablefish",0.833333333333333
+"A80_wbgrs_12Jul2022","Sand lance (0)",0
+"A80_wbgrs_12Jul2022","Eulachon",0
+"A80_wbgrs_12Jul2022","Myctophid",0
+"A80_wbgrs_12Jul2022","Salmon",0.166666666666667
+"A80_wbgrs_12Jul2022","Lingcod",0
+"A80_wbgrs_12Jul2022","Greenling",0
+"A80_wbgrs_12Jul2022","Gadid",0
+"A80_wbgrs_12Jul2022","Pollock",0
+"A80_wbgrs_12Jul2022","Herring (0)",0
+"A80_wbgrs_12Jul2022","Capelin (0)",0
+"A80_wbgrs_12Jul2022","Squid",0
+"A80_wbgrs_12Jul2022","Amphipod",0
+"A80_wbgrs_12Jul2022","Euphausiid",0
+"A80_wbgrs_12Jul2022","Polychaete",0
+"A80_wbgrs_12Jul2022","Shrimp",0
+"A80_wbgrs_12Jul2022","Fish",0
+"A80_wbgrs_12Jul2022","Stichaeid",0
+"A87_bywbs_16Jul2022","Herring (1+)",0
+"A87_bywbs_16Jul2022","Capelin (1+)",0
+"A87_bywbs_16Jul2022","Sand lance (1+)",0
+"A87_bywbs_16Jul2022","Sablefish",1
+"A87_bywbs_16Jul2022","Sand lance (0)",0
+"A87_bywbs_16Jul2022","Eulachon",0
+"A87_bywbs_16Jul2022","Myctophid",0
+"A87_bywbs_16Jul2022","Salmon",0
+"A87_bywbs_16Jul2022","Lingcod",0
+"A87_bywbs_16Jul2022","Greenling",0
+"A87_bywbs_16Jul2022","Gadid",0
+"A87_bywbs_16Jul2022","Pollock",0
+"A87_bywbs_16Jul2022","Herring (0)",0
+"A87_bywbs_16Jul2022","Capelin (0)",0
+"A87_bywbs_16Jul2022","Squid",0
+"A87_bywbs_16Jul2022","Amphipod",0
+"A87_bywbs_16Jul2022","Euphausiid",0
+"A87_bywbs_16Jul2022","Polychaete",0
+"A87_bywbs_16Jul2022","Shrimp",0
+"A87_bywbs_16Jul2022","Fish",0
+"A87_bywbs_16Jul2022","Stichaeid",0
+"A84_ywswyr_16Jul2022","Herring (1+)",0
+"A84_ywswyr_16Jul2022","Capelin (1+)",0
+"A84_ywswyr_16Jul2022","Sand lance (1+)",0
+"A84_ywswyr_16Jul2022","Sablefish",0
+"A84_ywswyr_16Jul2022","Sand lance (0)",0
+"A84_ywswyr_16Jul2022","Eulachon",0
+"A84_ywswyr_16Jul2022","Myctophid",0
+"A84_ywswyr_16Jul2022","Salmon",1
+"A84_ywswyr_16Jul2022","Lingcod",0
+"A84_ywswyr_16Jul2022","Greenling",0
+"A84_ywswyr_16Jul2022","Gadid",0
+"A84_ywswyr_16Jul2022","Pollock",0
+"A84_ywswyr_16Jul2022","Herring (0)",0
+"A84_ywswyr_16Jul2022","Capelin (0)",0
+"A84_ywswyr_16Jul2022","Squid",0
+"A84_ywswyr_16Jul2022","Amphipod",0
+"A84_ywswyr_16Jul2022","Euphausiid",0
+"A84_ywswyr_16Jul2022","Polychaete",0
+"A84_ywswyr_16Jul2022","Shrimp",0
+"A84_ywswyr_16Jul2022","Fish",0
+"A84_ywswyr_16Jul2022","Stichaeid",0
+"A91_gksgow_17Jul2022","Herring (1+)",0
+"A91_gksgow_17Jul2022","Capelin (1+)",0
+"A91_gksgow_17Jul2022","Sand lance (1+)",0
+"A91_gksgow_17Jul2022","Sablefish",0
+"A91_gksgow_17Jul2022","Sand lance (0)",0
+"A91_gksgow_17Jul2022","Eulachon",0
+"A91_gksgow_17Jul2022","Myctophid",1
+"A91_gksgow_17Jul2022","Salmon",0
+"A91_gksgow_17Jul2022","Lingcod",0
+"A91_gksgow_17Jul2022","Greenling",0
+"A91_gksgow_17Jul2022","Gadid",0
+"A91_gksgow_17Jul2022","Pollock",0
+"A91_gksgow_17Jul2022","Herring (0)",0
+"A91_gksgow_17Jul2022","Capelin (0)",0
+"A91_gksgow_17Jul2022","Squid",0
+"A91_gksgow_17Jul2022","Amphipod",0
+"A91_gksgow_17Jul2022","Euphausiid",0
+"A91_gksgow_17Jul2022","Polychaete",0
+"A91_gksgow_17Jul2022","Shrimp",0
+"A91_gksgow_17Jul2022","Fish",0
+"A91_gksgow_17Jul2022","Stichaeid",0
+"A79_gwsyrw_21Jul2022","Herring (1+)",0
+"A79_gwsyrw_21Jul2022","Capelin (1+)",1
+"A79_gwsyrw_21Jul2022","Sand lance (1+)",0
+"A79_gwsyrw_21Jul2022","Sablefish",0
+"A79_gwsyrw_21Jul2022","Sand lance (0)",0
+"A79_gwsyrw_21Jul2022","Eulachon",0
+"A79_gwsyrw_21Jul2022","Myctophid",0
+"A79_gwsyrw_21Jul2022","Salmon",0
+"A79_gwsyrw_21Jul2022","Lingcod",0
+"A79_gwsyrw_21Jul2022","Greenling",0
+"A79_gwsyrw_21Jul2022","Gadid",0
+"A79_gwsyrw_21Jul2022","Pollock",0
+"A79_gwsyrw_21Jul2022","Herring (0)",0
+"A79_gwsyrw_21Jul2022","Capelin (0)",0
+"A79_gwsyrw_21Jul2022","Squid",0
+"A79_gwsyrw_21Jul2022","Amphipod",0
+"A79_gwsyrw_21Jul2022","Euphausiid",0
+"A79_gwsyrw_21Jul2022","Polychaete",0
+"A79_gwsyrw_21Jul2022","Shrimp",0
+"A79_gwsyrw_21Jul2022","Fish",0
+"A79_gwsyrw_21Jul2022","Stichaeid",0
+"A88_bsweb_21Jul2022","Herring (1+)",0
+"A88_bsweb_21Jul2022","Capelin (1+)",0
+"A88_bsweb_21Jul2022","Sand lance (1+)",0
+"A88_bsweb_21Jul2022","Sablefish",0.995652173913043
+"A88_bsweb_21Jul2022","Sand lance (0)",0
+"A88_bsweb_21Jul2022","Eulachon",0
+"A88_bsweb_21Jul2022","Myctophid",0
+"A88_bsweb_21Jul2022","Salmon",0
+"A88_bsweb_21Jul2022","Lingcod",0
+"A88_bsweb_21Jul2022","Greenling",0
+"A88_bsweb_21Jul2022","Gadid",0
+"A88_bsweb_21Jul2022","Pollock",0
+"A88_bsweb_21Jul2022","Herring (0)",0
+"A88_bsweb_21Jul2022","Capelin (0)",0
+"A88_bsweb_21Jul2022","Squid",0
+"A88_bsweb_21Jul2022","Amphipod",0.00434782608695652
+"A88_bsweb_21Jul2022","Euphausiid",0
+"A88_bsweb_21Jul2022","Polychaete",0
+"A88_bsweb_21Jul2022","Shrimp",0
+"A88_bsweb_21Jul2022","Fish",0
+"A88_bsweb_21Jul2022","Stichaeid",0
+"A95_esowg_22Jul2022","Herring (1+)",0
+"A95_esowg_22Jul2022","Capelin (1+)",0
+"A95_esowg_22Jul2022","Sand lance (1+)",0
+"A95_esowg_22Jul2022","Sablefish",1
+"A95_esowg_22Jul2022","Sand lance (0)",0
+"A95_esowg_22Jul2022","Eulachon",0
+"A95_esowg_22Jul2022","Myctophid",0
+"A95_esowg_22Jul2022","Salmon",0
+"A95_esowg_22Jul2022","Lingcod",0
+"A95_esowg_22Jul2022","Greenling",0
+"A95_esowg_22Jul2022","Gadid",0
+"A95_esowg_22Jul2022","Pollock",0
+"A95_esowg_22Jul2022","Herring (0)",0
+"A95_esowg_22Jul2022","Capelin (0)",0
+"A95_esowg_22Jul2022","Squid",0
+"A95_esowg_22Jul2022","Amphipod",0
+"A95_esowg_22Jul2022","Euphausiid",0
+"A95_esowg_22Jul2022","Polychaete",0
+"A95_esowg_22Jul2022","Shrimp",0
+"A95_esowg_22Jul2022","Fish",0
+"A95_esowg_22Jul2022","Stichaeid",0
+"A49_bsbbr_29Apr2022","Herring (1+)",0.408284023668639
+"A49_bsbbr_29Apr2022","Capelin (1+)",0
+"A49_bsbbr_29Apr2022","Sand lance (1+)",0
+"A49_bsbbr_29Apr2022","Sablefish",0
+"A49_bsbbr_29Apr2022","Sand lance (0)",0
+"A49_bsbbr_29Apr2022","Eulachon",0
+"A49_bsbbr_29Apr2022","Myctophid",0
+"A49_bsbbr_29Apr2022","Salmon",0
+"A49_bsbbr_29Apr2022","Lingcod",0
+"A49_bsbbr_29Apr2022","Greenling",0
+"A49_bsbbr_29Apr2022","Gadid",0
+"A49_bsbbr_29Apr2022","Pollock",0
+"A49_bsbbr_29Apr2022","Herring (0)",0
+"A49_bsbbr_29Apr2022","Capelin (0)",0
+"A49_bsbbr_29Apr2022","Squid",0.591715976331361
+"A49_bsbbr_29Apr2022","Amphipod",0
+"A49_bsbbr_29Apr2022","Euphausiid",0
+"A49_bsbbr_29Apr2022","Polychaete",0
+"A49_bsbbr_29Apr2022","Shrimp",0
+"A49_bsbbr_29Apr2022","Fish",0
+"A49_bsbbr_29Apr2022","Stichaeid",0
+"A71_ysbrb_29Apr2022","Herring (1+)",0
+"A71_ysbrb_29Apr2022","Capelin (1+)",0
+"A71_ysbrb_29Apr2022","Sand lance (1+)",0.104477611940299
+"A71_ysbrb_29Apr2022","Sablefish",0
+"A71_ysbrb_29Apr2022","Sand lance (0)",0
+"A71_ysbrb_29Apr2022","Eulachon",0
+"A71_ysbrb_29Apr2022","Myctophid",0
+"A71_ysbrb_29Apr2022","Salmon",0
+"A71_ysbrb_29Apr2022","Lingcod",0
+"A71_ysbrb_29Apr2022","Greenling",0
+"A71_ysbrb_29Apr2022","Gadid",0
+"A71_ysbrb_29Apr2022","Pollock",0
+"A71_ysbrb_29Apr2022","Herring (0)",0
+"A71_ysbrb_29Apr2022","Capelin (0)",0
+"A71_ysbrb_29Apr2022","Squid",0
+"A71_ysbrb_29Apr2022","Amphipod",0
+"A71_ysbrb_29Apr2022","Euphausiid",0.895522388059702
+"A71_ysbrb_29Apr2022","Polychaete",0
+"A71_ysbrb_29Apr2022","Shrimp",0
+"A71_ysbrb_29Apr2022","Fish",0
+"A71_ysbrb_29Apr2022","Stichaeid",0
+"A26_oybys_29Apr2022","Herring (1+)",0
+"A26_oybys_29Apr2022","Capelin (1+)",0
+"A26_oybys_29Apr2022","Sand lance (1+)",0
+"A26_oybys_29Apr2022","Sablefish",0
+"A26_oybys_29Apr2022","Sand lance (0)",0
+"A26_oybys_29Apr2022","Eulachon",0
+"A26_oybys_29Apr2022","Myctophid",0
+"A26_oybys_29Apr2022","Salmon",0
+"A26_oybys_29Apr2022","Lingcod",0
+"A26_oybys_29Apr2022","Greenling",0
+"A26_oybys_29Apr2022","Gadid",0
+"A26_oybys_29Apr2022","Pollock",0
+"A26_oybys_29Apr2022","Herring (0)",0
+"A26_oybys_29Apr2022","Capelin (0)",0
+"A26_oybys_29Apr2022","Squid",1
+"A26_oybys_29Apr2022","Amphipod",0
+"A26_oybys_29Apr2022","Euphausiid",0
+"A26_oybys_29Apr2022","Polychaete",0
+"A26_oybys_29Apr2022","Shrimp",0
+"A26_oybys_29Apr2022","Fish",0
+"A26_oybys_29Apr2022","Stichaeid",0
+"A62_wbggs_29Apr2022","Herring (1+)",0
+"A62_wbggs_29Apr2022","Capelin (1+)",0
+"A62_wbggs_29Apr2022","Sand lance (1+)",0
+"A62_wbggs_29Apr2022","Sablefish",0
+"A62_wbggs_29Apr2022","Sand lance (0)",0
+"A62_wbggs_29Apr2022","Eulachon",0
+"A62_wbggs_29Apr2022","Myctophid",0
+"A62_wbggs_29Apr2022","Salmon",0
+"A62_wbggs_29Apr2022","Lingcod",0
+"A62_wbggs_29Apr2022","Greenling",0
+"A62_wbggs_29Apr2022","Gadid",0
+"A62_wbggs_29Apr2022","Pollock",0
+"A62_wbggs_29Apr2022","Herring (0)",0
+"A62_wbggs_29Apr2022","Capelin (0)",0
+"A62_wbggs_29Apr2022","Squid",0
+"A62_wbggs_29Apr2022","Amphipod",0
+"A62_wbggs_29Apr2022","Euphausiid",1
+"A62_wbggs_29Apr2022","Polychaete",0
+"A62_wbggs_29Apr2022","Shrimp",0
+"A62_wbggs_29Apr2022","Fish",0
+"A62_wbggs_29Apr2022","Stichaeid",0
+"A61_wsyeb_29Apr2022","Herring (1+)",0
+"A61_wsyeb_29Apr2022","Capelin (1+)",0
+"A61_wsyeb_29Apr2022","Sand lance (1+)",0
+"A61_wsyeb_29Apr2022","Sablefish",0
+"A61_wsyeb_29Apr2022","Sand lance (0)",0
+"A61_wsyeb_29Apr2022","Eulachon",0
+"A61_wsyeb_29Apr2022","Myctophid",0
+"A61_wsyeb_29Apr2022","Salmon",0
+"A61_wsyeb_29Apr2022","Lingcod",0
+"A61_wsyeb_29Apr2022","Greenling",0
+"A61_wsyeb_29Apr2022","Gadid",0
+"A61_wsyeb_29Apr2022","Pollock",0
+"A61_wsyeb_29Apr2022","Herring (0)",0
+"A61_wsyeb_29Apr2022","Capelin (0)",0
+"A61_wsyeb_29Apr2022","Squid",1
+"A61_wsyeb_29Apr2022","Amphipod",0
+"A61_wsyeb_29Apr2022","Euphausiid",0
+"A61_wsyeb_29Apr2022","Polychaete",0
+"A61_wsyeb_29Apr2022","Shrimp",0
+"A61_wsyeb_29Apr2022","Fish",0
+"A61_wsyeb_29Apr2022","Stichaeid",0
+"A81_woswko_9May2022","Herring (1+)",0
+"A81_woswko_9May2022","Capelin (1+)",0
+"A81_woswko_9May2022","Sand lance (1+)",0.566037735849057
+"A81_woswko_9May2022","Sablefish",0
+"A81_woswko_9May2022","Sand lance (0)",0
+"A81_woswko_9May2022","Eulachon",0
+"A81_woswko_9May2022","Myctophid",0
+"A81_woswko_9May2022","Salmon",0
+"A81_woswko_9May2022","Lingcod",0
+"A81_woswko_9May2022","Greenling",0
+"A81_woswko_9May2022","Gadid",0
+"A81_woswko_9May2022","Pollock",0
+"A81_woswko_9May2022","Herring (0)",0
+"A81_woswko_9May2022","Capelin (0)",0
+"A81_woswko_9May2022","Squid",0
+"A81_woswko_9May2022","Amphipod",0
+"A81_woswko_9May2022","Euphausiid",0
+"A81_woswko_9May2022","Polychaete",0
+"A81_woswko_9May2022","Shrimp",0
+"A81_woswko_9May2022","Fish",0.433962264150943
+"A81_woswko_9May2022","Stichaeid",0
+"A82_rsoyw_9May2022","Herring (1+)",1
+"A82_rsoyw_9May2022","Capelin (1+)",0
+"A82_rsoyw_9May2022","Sand lance (1+)",0
+"A82_rsoyw_9May2022","Sablefish",0
+"A82_rsoyw_9May2022","Sand lance (0)",0
+"A82_rsoyw_9May2022","Eulachon",0
+"A82_rsoyw_9May2022","Myctophid",0
+"A82_rsoyw_9May2022","Salmon",0
+"A82_rsoyw_9May2022","Lingcod",0
+"A82_rsoyw_9May2022","Greenling",0
+"A82_rsoyw_9May2022","Gadid",0
+"A82_rsoyw_9May2022","Pollock",0
+"A82_rsoyw_9May2022","Herring (0)",0
+"A82_rsoyw_9May2022","Capelin (0)",0
+"A82_rsoyw_9May2022","Squid",0
+"A82_rsoyw_9May2022","Amphipod",0
+"A82_rsoyw_9May2022","Euphausiid",0
+"A82_rsoyw_9May2022","Polychaete",0
+"A82_rsoyw_9May2022","Shrimp",0
+"A82_rsoyw_9May2022","Fish",0
+"A82_rsoyw_9May2022","Stichaeid",0
+"A88_okobws_23May2022","Herring (1+)",1
+"A88_okobws_23May2022","Capelin (1+)",0
+"A88_okobws_23May2022","Sand lance (1+)",0
+"A88_okobws_23May2022","Sablefish",0
+"A88_okobws_23May2022","Sand lance (0)",0
+"A88_okobws_23May2022","Eulachon",0
+"A88_okobws_23May2022","Myctophid",0
+"A88_okobws_23May2022","Salmon",0
+"A88_okobws_23May2022","Lingcod",0
+"A88_okobws_23May2022","Greenling",0
+"A88_okobws_23May2022","Gadid",0
+"A88_okobws_23May2022","Pollock",0
+"A88_okobws_23May2022","Herring (0)",0
+"A88_okobws_23May2022","Capelin (0)",0
+"A88_okobws_23May2022","Squid",0
+"A88_okobws_23May2022","Amphipod",0
+"A88_okobws_23May2022","Euphausiid",0
+"A88_okobws_23May2022","Polychaete",0
+"A88_okobws_23May2022","Shrimp",0
+"A88_okobws_23May2022","Fish",0
+"A88_okobws_23May2022","Stichaeid",0
+"A79_yobys_23May2022","Herring (1+)",0
+"A79_yobys_23May2022","Capelin (1+)",0
+"A79_yobys_23May2022","Sand lance (1+)",0
+"A79_yobys_23May2022","Sablefish",0
+"A79_yobys_23May2022","Sand lance (0)",0
+"A79_yobys_23May2022","Eulachon",0
+"A79_yobys_23May2022","Myctophid",0
+"A79_yobys_23May2022","Salmon",0
+"A79_yobys_23May2022","Lingcod",0
+"A79_yobys_23May2022","Greenling",0
+"A79_yobys_23May2022","Gadid",0
+"A79_yobys_23May2022","Pollock",0
+"A79_yobys_23May2022","Herring (0)",0
+"A79_yobys_23May2022","Capelin (0)",0
+"A79_yobys_23May2022","Squid",0
+"A79_yobys_23May2022","Amphipod",0
+"A79_yobys_23May2022","Euphausiid",1
+"A79_yobys_23May2022","Polychaete",0
+"A79_yobys_23May2022","Shrimp",0
+"A79_yobys_23May2022","Fish",0
+"A79_yobys_23May2022","Stichaeid",0
+"A84_wgsryw_13May2023","Herring (1+)",0
+"A84_wgsryw_13May2023","Capelin (1+)",1
+"A84_wgsryw_13May2023","Sand lance (1+)",0
+"A84_wgsryw_13May2023","Sablefish",0
+"A84_wgsryw_13May2023","Sand lance (0)",0
+"A84_wgsryw_13May2023","Eulachon",0
+"A84_wgsryw_13May2023","Myctophid",0
+"A84_wgsryw_13May2023","Salmon",0
+"A84_wgsryw_13May2023","Lingcod",0
+"A84_wgsryw_13May2023","Greenling",0
+"A84_wgsryw_13May2023","Gadid",0
+"A84_wgsryw_13May2023","Pollock",0
+"A84_wgsryw_13May2023","Herring (0)",0
+"A84_wgsryw_13May2023","Capelin (0)",0
+"A84_wgsryw_13May2023","Squid",0
+"A84_wgsryw_13May2023","Amphipod",0
+"A84_wgsryw_13May2023","Euphausiid",0
+"A84_wgsryw_13May2023","Polychaete",0
+"A84_wgsryw_13May2023","Shrimp",0
+"A84_wgsryw_13May2023","Fish",0
+"A84_wgsryw_13May2023","Stichaeid",0
+"A93_wyobs_11May2023","Herring (1+)",0.935849056603774
+"A93_wyobs_11May2023","Capelin (1+)",0.0641509433962264
+"A93_wyobs_11May2023","Sand lance (1+)",0
+"A93_wyobs_11May2023","Sablefish",0
+"A93_wyobs_11May2023","Sand lance (0)",0
+"A93_wyobs_11May2023","Eulachon",0
+"A93_wyobs_11May2023","Myctophid",0
+"A93_wyobs_11May2023","Salmon",0
+"A93_wyobs_11May2023","Lingcod",0
+"A93_wyobs_11May2023","Greenling",0
+"A93_wyobs_11May2023","Gadid",0
+"A93_wyobs_11May2023","Pollock",0
+"A93_wyobs_11May2023","Herring (0)",0
+"A93_wyobs_11May2023","Capelin (0)",0
+"A93_wyobs_11May2023","Squid",0
+"A93_wyobs_11May2023","Amphipod",0
+"A93_wyobs_11May2023","Euphausiid",0
+"A93_wyobs_11May2023","Polychaete",0
+"A93_wyobs_11May2023","Shrimp",0
+"A93_wyobs_11May2023","Fish",0
+"A93_wyobs_11May2023","Stichaeid",0
+"A91_boers_11May2023","Herring (1+)",1
+"A91_boers_11May2023","Capelin (1+)",0
+"A91_boers_11May2023","Sand lance (1+)",0
+"A91_boers_11May2023","Sablefish",0
+"A91_boers_11May2023","Sand lance (0)",0
+"A91_boers_11May2023","Eulachon",0
+"A91_boers_11May2023","Myctophid",0
+"A91_boers_11May2023","Salmon",0
+"A91_boers_11May2023","Lingcod",0
+"A91_boers_11May2023","Greenling",0
+"A91_boers_11May2023","Gadid",0
+"A91_boers_11May2023","Pollock",0
+"A91_boers_11May2023","Herring (0)",0
+"A91_boers_11May2023","Capelin (0)",0
+"A91_boers_11May2023","Squid",0
+"A91_boers_11May2023","Amphipod",0
+"A91_boers_11May2023","Euphausiid",0
+"A91_boers_11May2023","Polychaete",0
+"A91_boers_11May2023","Shrimp",0
+"A91_boers_11May2023","Fish",0
+"A91_boers_11May2023","Stichaeid",0
+"A86_esbeg_18May2023","Herring (1+)",0
+"A86_esbeg_18May2023","Capelin (1+)",1
+"A86_esbeg_18May2023","Sand lance (1+)",0
+"A86_esbeg_18May2023","Sablefish",0
+"A86_esbeg_18May2023","Sand lance (0)",0
+"A86_esbeg_18May2023","Eulachon",0
+"A86_esbeg_18May2023","Myctophid",0
+"A86_esbeg_18May2023","Salmon",0
+"A86_esbeg_18May2023","Lingcod",0
+"A86_esbeg_18May2023","Greenling",0
+"A86_esbeg_18May2023","Gadid",0
+"A86_esbeg_18May2023","Pollock",0
+"A86_esbeg_18May2023","Herring (0)",0
+"A86_esbeg_18May2023","Capelin (0)",0
+"A86_esbeg_18May2023","Squid",0
+"A86_esbeg_18May2023","Amphipod",0
+"A86_esbeg_18May2023","Euphausiid",0
+"A86_esbeg_18May2023","Polychaete",0
+"A86_esbeg_18May2023","Shrimp",0
+"A86_esbeg_18May2023","Fish",0
+"A86_esbeg_18May2023","Stichaeid",0
+"Z20_gosggw_21Jul2023","Herring (1+)",1
+"Z20_gosggw_21Jul2023","Capelin (1+)",0
+"Z20_gosggw_21Jul2023","Sand lance (1+)",0
+"Z20_gosggw_21Jul2023","Sablefish",0
+"Z20_gosggw_21Jul2023","Sand lance (0)",0
+"Z20_gosggw_21Jul2023","Eulachon",0
+"Z20_gosggw_21Jul2023","Myctophid",0
+"Z20_gosggw_21Jul2023","Salmon",0
+"Z20_gosggw_21Jul2023","Lingcod",0
+"Z20_gosggw_21Jul2023","Greenling",0
+"Z20_gosggw_21Jul2023","Gadid",0
+"Z20_gosggw_21Jul2023","Pollock",0
+"Z20_gosggw_21Jul2023","Herring (0)",0
+"Z20_gosggw_21Jul2023","Capelin (0)",0
+"Z20_gosggw_21Jul2023","Squid",0
+"Z20_gosggw_21Jul2023","Amphipod",0
+"Z20_gosggw_21Jul2023","Euphausiid",0
+"Z20_gosggw_21Jul2023","Polychaete",0
+"Z20_gosggw_21Jul2023","Shrimp",0
+"Z20_gosggw_21Jul2023","Fish",0
+"Z20_gosggw_21Jul2023","Stichaeid",0
+"A99_bbbes_18July2023","Herring (1+)",1
+"A99_bbbes_18July2023","Capelin (1+)",0
+"A99_bbbes_18July2023","Sand lance (1+)",0
+"A99_bbbes_18July2023","Sablefish",0
+"A99_bbbes_18July2023","Sand lance (0)",0
+"A99_bbbes_18July2023","Eulachon",0
+"A99_bbbes_18July2023","Myctophid",0
+"A99_bbbes_18July2023","Salmon",0
+"A99_bbbes_18July2023","Lingcod",0
+"A99_bbbes_18July2023","Greenling",0
+"A99_bbbes_18July2023","Gadid",0
+"A99_bbbes_18July2023","Pollock",0
+"A99_bbbes_18July2023","Herring (0)",0
+"A99_bbbes_18July2023","Capelin (0)",0
+"A99_bbbes_18July2023","Squid",0
+"A99_bbbes_18July2023","Amphipod",0
+"A99_bbbes_18July2023","Euphausiid",0
+"A99_bbbes_18July2023","Polychaete",0
+"A99_bbbes_18July2023","Shrimp",0
+"A99_bbbes_18July2023","Fish",0
+"A99_bbbes_18July2023","Stichaeid",0
+"A98_erbgs_13July2023","Herring (1+)",0
+"A98_erbgs_13July2023","Capelin (1+)",0
+"A98_erbgs_13July2023","Sand lance (1+)",0
+"A98_erbgs_13July2023","Sablefish",0
+"A98_erbgs_13July2023","Sand lance (0)",0
+"A98_erbgs_13July2023","Eulachon",0
+"A98_erbgs_13July2023","Myctophid",1
+"A98_erbgs_13July2023","Salmon",0
+"A98_erbgs_13July2023","Lingcod",0
+"A98_erbgs_13July2023","Greenling",0
+"A98_erbgs_13July2023","Gadid",0
+"A98_erbgs_13July2023","Pollock",0
+"A98_erbgs_13July2023","Herring (0)",0
+"A98_erbgs_13July2023","Capelin (0)",0
+"A98_erbgs_13July2023","Squid",0
+"A98_erbgs_13July2023","Amphipod",0
+"A98_erbgs_13July2023","Euphausiid",0
+"A98_erbgs_13July2023","Polychaete",0
+"A98_erbgs_13July2023","Shrimp",0
+"A98_erbgs_13July2023","Fish",0
+"A98_erbgs_13July2023","Stichaeid",0
+"A104_eseey_15July2023","Herring (1+)",1
+"A104_eseey_15July2023","Capelin (1+)",0
+"A104_eseey_15July2023","Sand lance (1+)",0
+"A104_eseey_15July2023","Sablefish",0
+"A104_eseey_15July2023","Sand lance (0)",0
+"A104_eseey_15July2023","Eulachon",0
+"A104_eseey_15July2023","Myctophid",0
+"A104_eseey_15July2023","Salmon",0
+"A104_eseey_15July2023","Lingcod",0
+"A104_eseey_15July2023","Greenling",0
+"A104_eseey_15July2023","Gadid",0
+"A104_eseey_15July2023","Pollock",0
+"A104_eseey_15July2023","Herring (0)",0
+"A104_eseey_15July2023","Capelin (0)",0
+"A104_eseey_15July2023","Squid",0
+"A104_eseey_15July2023","Amphipod",0
+"A104_eseey_15July2023","Euphausiid",0
+"A104_eseey_15July2023","Polychaete",0
+"A104_eseey_15July2023","Shrimp",0
+"A104_eseey_15July2023","Fish",0
+"A104_eseey_15July2023","Stichaeid",0
+"A111_boyrs_15July2023","Herring (1+)",0
+"A111_boyrs_15July2023","Capelin (1+)",0
+"A111_boyrs_15July2023","Sand lance (1+)",0
+"A111_boyrs_15July2023","Sablefish",0
+"A111_boyrs_15July2023","Sand lance (0)",0
+"A111_boyrs_15July2023","Eulachon",0
+"A111_boyrs_15July2023","Myctophid",0
+"A111_boyrs_15July2023","Salmon",0
+"A111_boyrs_15July2023","Lingcod",0
+"A111_boyrs_15July2023","Greenling",0
+"A111_boyrs_15July2023","Gadid",0
+"A111_boyrs_15July2023","Pollock",0
+"A111_boyrs_15July2023","Herring (0)",0.0594059405940594
+"A111_boyrs_15July2023","Capelin (0)",0
+"A111_boyrs_15July2023","Squid",0
+"A111_boyrs_15July2023","Amphipod",0
+"A111_boyrs_15July2023","Euphausiid",0
+"A111_boyrs_15July2023","Polychaete",0
+"A111_boyrs_15July2023","Shrimp",0
+"A111_boyrs_15July2023","Fish",0.940594059405941
+"A111_boyrs_15July2023","Stichaeid",0
+"A87_esyeb_13July2023","Herring (1+)",0.251748251748252
+"A87_esyeb_13July2023","Capelin (1+)",0
+"A87_esyeb_13July2023","Sand lance (1+)",0.748251748251748
+"A87_esyeb_13July2023","Sablefish",0
+"A87_esyeb_13July2023","Sand lance (0)",0
+"A87_esyeb_13July2023","Eulachon",0
+"A87_esyeb_13July2023","Myctophid",0
+"A87_esyeb_13July2023","Salmon",0
+"A87_esyeb_13July2023","Lingcod",0
+"A87_esyeb_13July2023","Greenling",0
+"A87_esyeb_13July2023","Gadid",0
+"A87_esyeb_13July2023","Pollock",0
+"A87_esyeb_13July2023","Herring (0)",0
+"A87_esyeb_13July2023","Capelin (0)",0
+"A87_esyeb_13July2023","Squid",0
+"A87_esyeb_13July2023","Amphipod",0
+"A87_esyeb_13July2023","Euphausiid",0
+"A87_esyeb_13July2023","Polychaete",0
+"A87_esyeb_13July2023","Shrimp",0
+"A87_esyeb_13July2023","Fish",0
+"A87_esyeb_13July2023","Stichaeid",0
+"L36_owrgs_14Jul2023","Herring (1+)",0.997503121098627
+"L36_owrgs_14Jul2023","Capelin (1+)",0
+"L36_owrgs_14Jul2023","Sand lance (1+)",0
+"L36_owrgs_14Jul2023","Sablefish",0
+"L36_owrgs_14Jul2023","Sand lance (0)",0
+"L36_owrgs_14Jul2023","Eulachon",0
+"L36_owrgs_14Jul2023","Myctophid",0
+"L36_owrgs_14Jul2023","Salmon",0
+"L36_owrgs_14Jul2023","Lingcod",0
+"L36_owrgs_14Jul2023","Greenling",0
+"L36_owrgs_14Jul2023","Gadid",0
+"L36_owrgs_14Jul2023","Pollock",0
+"L36_owrgs_14Jul2023","Herring (0)",0
+"L36_owrgs_14Jul2023","Capelin (0)",0
+"L36_owrgs_14Jul2023","Squid",0
+"L36_owrgs_14Jul2023","Amphipod",0
+"L36_owrgs_14Jul2023","Euphausiid",0
+"L36_owrgs_14Jul2023","Polychaete",0
+"L36_owrgs_14Jul2023","Shrimp",0
+"L36_owrgs_14Jul2023","Fish",0.00249687890137328
+"L36_owrgs_14Jul2023","Stichaeid",0
+"A110_yksywg_8July2023","Herring (1+)",0
+"A110_yksywg_8July2023","Capelin (1+)",1
+"A110_yksywg_8July2023","Sand lance (1+)",0
+"A110_yksywg_8July2023","Sablefish",0
+"A110_yksywg_8July2023","Sand lance (0)",0
+"A110_yksywg_8July2023","Eulachon",0
+"A110_yksywg_8July2023","Myctophid",0
+"A110_yksywg_8July2023","Salmon",0
+"A110_yksywg_8July2023","Lingcod",0
+"A110_yksywg_8July2023","Greenling",0
+"A110_yksywg_8July2023","Gadid",0
+"A110_yksywg_8July2023","Pollock",0
+"A110_yksywg_8July2023","Herring (0)",0
+"A110_yksywg_8July2023","Capelin (0)",0
+"A110_yksywg_8July2023","Squid",0
+"A110_yksywg_8July2023","Amphipod",0
+"A110_yksywg_8July2023","Euphausiid",0
+"A110_yksywg_8July2023","Polychaete",0
+"A110_yksywg_8July2023","Shrimp",0
+"A110_yksywg_8July2023","Fish",0
+"A110_yksywg_8July2023","Stichaeid",0
+"A101_oygoks_7July2023","Herring (1+)",0
+"A101_oygoks_7July2023","Capelin (1+)",1
+"A101_oygoks_7July2023","Sand lance (1+)",0
+"A101_oygoks_7July2023","Sablefish",0
+"A101_oygoks_7July2023","Sand lance (0)",0
+"A101_oygoks_7July2023","Eulachon",0
+"A101_oygoks_7July2023","Myctophid",0
+"A101_oygoks_7July2023","Salmon",0
+"A101_oygoks_7July2023","Lingcod",0
+"A101_oygoks_7July2023","Greenling",0
+"A101_oygoks_7July2023","Gadid",0
+"A101_oygoks_7July2023","Pollock",0
+"A101_oygoks_7July2023","Herring (0)",0
+"A101_oygoks_7July2023","Capelin (0)",0
+"A101_oygoks_7July2023","Squid",0
+"A101_oygoks_7July2023","Amphipod",0
+"A101_oygoks_7July2023","Euphausiid",0
+"A101_oygoks_7July2023","Polychaete",0
+"A101_oygoks_7July2023","Shrimp",0
+"A101_oygoks_7July2023","Fish",0
+"A101_oygoks_7July2023","Stichaeid",0
+"L4_regws_14Jul2023","Herring (1+)",1
+"L4_regws_14Jul2023","Capelin (1+)",0
+"L4_regws_14Jul2023","Sand lance (1+)",0
+"L4_regws_14Jul2023","Sablefish",0
+"L4_regws_14Jul2023","Sand lance (0)",0
+"L4_regws_14Jul2023","Eulachon",0
+"L4_regws_14Jul2023","Myctophid",0
+"L4_regws_14Jul2023","Salmon",0
+"L4_regws_14Jul2023","Lingcod",0
+"L4_regws_14Jul2023","Greenling",0
+"L4_regws_14Jul2023","Gadid",0
+"L4_regws_14Jul2023","Pollock",0
+"L4_regws_14Jul2023","Herring (0)",0
+"L4_regws_14Jul2023","Capelin (0)",0
+"L4_regws_14Jul2023","Squid",0
+"L4_regws_14Jul2023","Amphipod",0
+"L4_regws_14Jul2023","Euphausiid",0
+"L4_regws_14Jul2023","Polychaete",0
+"L4_regws_14Jul2023","Shrimp",0
+"L4_regws_14Jul2023","Fish",0
+"L4_regws_14Jul2023","Stichaeid",0
+"A87_esgyb_8July2023","Herring (1+)",0
+"A87_esgyb_8July2023","Capelin (1+)",1
+"A87_esgyb_8July2023","Sand lance (1+)",0
+"A87_esgyb_8July2023","Sablefish",0
+"A87_esgyb_8July2023","Sand lance (0)",0
+"A87_esgyb_8July2023","Eulachon",0
+"A87_esgyb_8July2023","Myctophid",0
+"A87_esgyb_8July2023","Salmon",0
+"A87_esgyb_8July2023","Lingcod",0
+"A87_esgyb_8July2023","Greenling",0
+"A87_esgyb_8July2023","Gadid",0
+"A87_esgyb_8July2023","Pollock",0
+"A87_esgyb_8July2023","Herring (0)",0
+"A87_esgyb_8July2023","Capelin (0)",0
+"A87_esgyb_8July2023","Squid",0
+"A87_esgyb_8July2023","Amphipod",0
+"A87_esgyb_8July2023","Euphausiid",0
+"A87_esgyb_8July2023","Polychaete",0
+"A87_esgyb_8July2023","Shrimp",0
+"A87_esgyb_8July2023","Fish",0
+"A87_esgyb_8July2023","Stichaeid",0
+"A91_bwswkw_10July2023","Herring (1+)",0
+"A91_bwswkw_10July2023","Capelin (1+)",0
+"A91_bwswkw_10July2023","Sand lance (1+)",0
+"A91_bwswkw_10July2023","Sablefish",0
+"A91_bwswkw_10July2023","Sand lance (0)",0
+"A91_bwswkw_10July2023","Eulachon",0
+"A91_bwswkw_10July2023","Myctophid",0.492063492063492
+"A91_bwswkw_10July2023","Salmon",0
+"A91_bwswkw_10July2023","Lingcod",0
+"A91_bwswkw_10July2023","Greenling",0
+"A91_bwswkw_10July2023","Gadid",0
+"A91_bwswkw_10July2023","Pollock",0
+"A91_bwswkw_10July2023","Herring (0)",0
+"A91_bwswkw_10July2023","Capelin (0)",0
+"A91_bwswkw_10July2023","Squid",0.484126984126984
+"A91_bwswkw_10July2023","Amphipod",0.0238095238095238
+"A91_bwswkw_10July2023","Euphausiid",0
+"A91_bwswkw_10July2023","Polychaete",0
+"A91_bwswkw_10July2023","Shrimp",0
+"A91_bwswkw_10July2023","Fish",0
+"A91_bwswkw_10July2023","Stichaeid",0
+"A89_yoebs_8July2023","Herring (1+)",1
+"A89_yoebs_8July2023","Capelin (1+)",0
+"A89_yoebs_8July2023","Sand lance (1+)",0
+"A89_yoebs_8July2023","Sablefish",0
+"A89_yoebs_8July2023","Sand lance (0)",0
+"A89_yoebs_8July2023","Eulachon",0
+"A89_yoebs_8July2023","Myctophid",0
+"A89_yoebs_8July2023","Salmon",0
+"A89_yoebs_8July2023","Lingcod",0
+"A89_yoebs_8July2023","Greenling",0
+"A89_yoebs_8July2023","Gadid",0
+"A89_yoebs_8July2023","Pollock",0
+"A89_yoebs_8July2023","Herring (0)",0
+"A89_yoebs_8July2023","Capelin (0)",0
+"A89_yoebs_8July2023","Squid",0
+"A89_yoebs_8July2023","Amphipod",0
+"A89_yoebs_8July2023","Euphausiid",0
+"A89_yoebs_8July2023","Polychaete",0
+"A89_yoebs_8July2023","Shrimp",0
+"A89_yoebs_8July2023","Fish",0
+"A89_yoebs_8July2023","Stichaeid",0
+"A103_beows_7July2023","Herring (1+)",0.958677685950413
+"A103_beows_7July2023","Capelin (1+)",0
+"A103_beows_7July2023","Sand lance (1+)",0.0413223140495868
+"A103_beows_7July2023","Sablefish",0
+"A103_beows_7July2023","Sand lance (0)",0
+"A103_beows_7July2023","Eulachon",0
+"A103_beows_7July2023","Myctophid",0
+"A103_beows_7July2023","Salmon",0
+"A103_beows_7July2023","Lingcod",0
+"A103_beows_7July2023","Greenling",0
+"A103_beows_7July2023","Gadid",0
+"A103_beows_7July2023","Pollock",0
+"A103_beows_7July2023","Herring (0)",0
+"A103_beows_7July2023","Capelin (0)",0
+"A103_beows_7July2023","Squid",0
+"A103_beows_7July2023","Amphipod",0
+"A103_beows_7July2023","Euphausiid",0
+"A103_beows_7July2023","Polychaete",0
+"A103_beows_7July2023","Shrimp",0
+"A103_beows_7July2023","Fish",0
+"A103_beows_7July2023","Stichaeid",0
+"A99_bkbyws_3July2023","Herring (1+)",0
+"A99_bkbyws_3July2023","Capelin (1+)",0
+"A99_bkbyws_3July2023","Sand lance (1+)",0
+"A99_bkbyws_3July2023","Sablefish",0
+"A99_bkbyws_3July2023","Sand lance (0)",0
+"A99_bkbyws_3July2023","Eulachon",0
+"A99_bkbyws_3July2023","Myctophid",0.985754985754986
+"A99_bkbyws_3July2023","Salmon",0
+"A99_bkbyws_3July2023","Lingcod",0
+"A99_bkbyws_3July2023","Greenling",0
+"A99_bkbyws_3July2023","Gadid",0
+"A99_bkbyws_3July2023","Pollock",0
+"A99_bkbyws_3July2023","Herring (0)",0
+"A99_bkbyws_3July2023","Capelin (0)",0
+"A99_bkbyws_3July2023","Squid",0
+"A99_bkbyws_3July2023","Amphipod",0.0142450142450142
+"A99_bkbyws_3July2023","Euphausiid",0
+"A99_bkbyws_3July2023","Polychaete",0
+"A99_bkbyws_3July2023","Shrimp",0
+"A99_bkbyws_3July2023","Fish",0
+"A99_bkbyws_3July2023","Stichaeid",0
+"A111_okogys_16June2023","Herring (1+)",1
+"A111_okogys_16June2023","Capelin (1+)",0
+"A111_okogys_16June2023","Sand lance (1+)",0
+"A111_okogys_16June2023","Sablefish",0
+"A111_okogys_16June2023","Sand lance (0)",0
+"A111_okogys_16June2023","Eulachon",0
+"A111_okogys_16June2023","Myctophid",0
+"A111_okogys_16June2023","Salmon",0
+"A111_okogys_16June2023","Lingcod",0
+"A111_okogys_16June2023","Greenling",0
+"A111_okogys_16June2023","Gadid",0
+"A111_okogys_16June2023","Pollock",0
+"A111_okogys_16June2023","Herring (0)",0
+"A111_okogys_16June2023","Capelin (0)",0
+"A111_okogys_16June2023","Squid",0
+"A111_okogys_16June2023","Amphipod",0
+"A111_okogys_16June2023","Euphausiid",0
+"A111_okogys_16June2023","Polychaete",0
+"A111_okogys_16June2023","Shrimp",0
+"A111_okogys_16June2023","Fish",0
+"A111_okogys_16June2023","Stichaeid",0
+"A111_wgsoky_24June2023","Herring (1+)",1
+"A111_wgsoky_24June2023","Capelin (1+)",0
+"A111_wgsoky_24June2023","Sand lance (1+)",0
+"A111_wgsoky_24June2023","Sablefish",0
+"A111_wgsoky_24June2023","Sand lance (0)",0
+"A111_wgsoky_24June2023","Eulachon",0
+"A111_wgsoky_24June2023","Myctophid",0
+"A111_wgsoky_24June2023","Salmon",0
+"A111_wgsoky_24June2023","Lingcod",0
+"A111_wgsoky_24June2023","Greenling",0
+"A111_wgsoky_24June2023","Gadid",0
+"A111_wgsoky_24June2023","Pollock",0
+"A111_wgsoky_24June2023","Herring (0)",0
+"A111_wgsoky_24June2023","Capelin (0)",0
+"A111_wgsoky_24June2023","Squid",0
+"A111_wgsoky_24June2023","Amphipod",0
+"A111_wgsoky_24June2023","Euphausiid",0
+"A111_wgsoky_24June2023","Polychaete",0
+"A111_wgsoky_24June2023","Shrimp",0
+"A111_wgsoky_24June2023","Fish",0
+"A111_wgsoky_24June2023","Stichaeid",0
+"A98_rowys_14June2023","Herring (1+)",0
+"A98_rowys_14June2023","Capelin (1+)",1
+"A98_rowys_14June2023","Sand lance (1+)",0
+"A98_rowys_14June2023","Sablefish",0
+"A98_rowys_14June2023","Sand lance (0)",0
+"A98_rowys_14June2023","Eulachon",0
+"A98_rowys_14June2023","Myctophid",0
+"A98_rowys_14June2023","Salmon",0
+"A98_rowys_14June2023","Lingcod",0
+"A98_rowys_14June2023","Greenling",0
+"A98_rowys_14June2023","Gadid",0
+"A98_rowys_14June2023","Pollock",0
+"A98_rowys_14June2023","Herring (0)",0
+"A98_rowys_14June2023","Capelin (0)",0
+"A98_rowys_14June2023","Squid",0
+"A98_rowys_14June2023","Amphipod",0
+"A98_rowys_14June2023","Euphausiid",0
+"A98_rowys_14June2023","Polychaete",0
+"A98_rowys_14June2023","Shrimp",0
+"A98_rowys_14June2023","Fish",0
+"A98_rowys_14June2023","Stichaeid",0
+"A105_gkowrs_12June2023","Herring (1+)",0
+"A105_gkowrs_12June2023","Capelin (1+)",0
+"A105_gkowrs_12June2023","Sand lance (1+)",1
+"A105_gkowrs_12June2023","Sablefish",0
+"A105_gkowrs_12June2023","Sand lance (0)",0
+"A105_gkowrs_12June2023","Eulachon",0
+"A105_gkowrs_12June2023","Myctophid",0
+"A105_gkowrs_12June2023","Salmon",0
+"A105_gkowrs_12June2023","Lingcod",0
+"A105_gkowrs_12June2023","Greenling",0
+"A105_gkowrs_12June2023","Gadid",0
+"A105_gkowrs_12June2023","Pollock",0
+"A105_gkowrs_12June2023","Herring (0)",0
+"A105_gkowrs_12June2023","Capelin (0)",0
+"A105_gkowrs_12June2023","Squid",0
+"A105_gkowrs_12June2023","Amphipod",0
+"A105_gkowrs_12June2023","Euphausiid",0
+"A105_gkowrs_12June2023","Polychaete",0
+"A105_gkowrs_12June2023","Shrimp",0
+"A105_gkowrs_12June2023","Fish",0
+"A105_gkowrs_12June2023","Stichaeid",0
+"A108_bgoys_10July2023","Herring (1+)",0
+"A108_bgoys_10July2023","Capelin (1+)",1
+"A108_bgoys_10July2023","Sand lance (1+)",0
+"A108_bgoys_10July2023","Sablefish",0
+"A108_bgoys_10July2023","Sand lance (0)",0
+"A108_bgoys_10July2023","Eulachon",0
+"A108_bgoys_10July2023","Myctophid",0
+"A108_bgoys_10July2023","Salmon",0
+"A108_bgoys_10July2023","Lingcod",0
+"A108_bgoys_10July2023","Greenling",0
+"A108_bgoys_10July2023","Gadid",0
+"A108_bgoys_10July2023","Pollock",0
+"A108_bgoys_10July2023","Herring (0)",0
+"A108_bgoys_10July2023","Capelin (0)",0
+"A108_bgoys_10July2023","Squid",0
+"A108_bgoys_10July2023","Amphipod",0
+"A108_bgoys_10July2023","Euphausiid",0
+"A108_bgoys_10July2023","Polychaete",0
+"A108_bgoys_10July2023","Shrimp",0
+"A108_bgoys_10July2023","Fish",0
+"A108_bgoys_10July2023","Stichaeid",0
+"A108_ebors_1July2023","Herring (1+)",0
+"A108_ebors_1July2023","Capelin (1+)",0
+"A108_ebors_1July2023","Sand lance (1+)",0
+"A108_ebors_1July2023","Sablefish",0
+"A108_ebors_1July2023","Sand lance (0)",0
+"A108_ebors_1July2023","Eulachon",0
+"A108_ebors_1July2023","Myctophid",0
+"A108_ebors_1July2023","Salmon",0.995433789954338
+"A108_ebors_1July2023","Lingcod",0.0045662100456621
+"A108_ebors_1July2023","Greenling",0
+"A108_ebors_1July2023","Gadid",0
+"A108_ebors_1July2023","Pollock",0
+"A108_ebors_1July2023","Herring (0)",0
+"A108_ebors_1July2023","Capelin (0)",0
+"A108_ebors_1July2023","Squid",0
+"A108_ebors_1July2023","Amphipod",0
+"A108_ebors_1July2023","Euphausiid",0
+"A108_ebors_1July2023","Polychaete",0
+"A108_ebors_1July2023","Shrimp",0
+"A108_ebors_1July2023","Fish",0
+"A108_ebors_1July2023","Stichaeid",0
+"A92_yrwws_6July2023","Herring (1+)",1
+"A92_yrwws_6July2023","Capelin (1+)",0
+"A92_yrwws_6July2023","Sand lance (1+)",0
+"A92_yrwws_6July2023","Sablefish",0
+"A92_yrwws_6July2023","Sand lance (0)",0
+"A92_yrwws_6July2023","Eulachon",0
+"A92_yrwws_6July2023","Myctophid",0
+"A92_yrwws_6July2023","Salmon",0
+"A92_yrwws_6July2023","Lingcod",0
+"A92_yrwws_6July2023","Greenling",0
+"A92_yrwws_6July2023","Gadid",0
+"A92_yrwws_6July2023","Pollock",0
+"A92_yrwws_6July2023","Herring (0)",0
+"A92_yrwws_6July2023","Capelin (0)",0
+"A92_yrwws_6July2023","Squid",0
+"A92_yrwws_6July2023","Amphipod",0
+"A92_yrwws_6July2023","Euphausiid",0
+"A92_yrwws_6July2023","Polychaete",0
+"A92_yrwws_6July2023","Shrimp",0
+"A92_yrwws_6July2023","Fish",0
+"A92_yrwws_6July2023","Stichaeid",0
+"A101_bwgwrs_3July2023","Herring (1+)",0
+"A101_bwgwrs_3July2023","Capelin (1+)",1
+"A101_bwgwrs_3July2023","Sand lance (1+)",0
+"A101_bwgwrs_3July2023","Sablefish",0
+"A101_bwgwrs_3July2023","Sand lance (0)",0
+"A101_bwgwrs_3July2023","Eulachon",0
+"A101_bwgwrs_3July2023","Myctophid",0
+"A101_bwgwrs_3July2023","Salmon",0
+"A101_bwgwrs_3July2023","Lingcod",0
+"A101_bwgwrs_3July2023","Greenling",0
+"A101_bwgwrs_3July2023","Gadid",0
+"A101_bwgwrs_3July2023","Pollock",0
+"A101_bwgwrs_3July2023","Herring (0)",0
+"A101_bwgwrs_3July2023","Capelin (0)",0
+"A101_bwgwrs_3July2023","Squid",0
+"A101_bwgwrs_3July2023","Amphipod",0
+"A101_bwgwrs_3July2023","Euphausiid",0
+"A101_bwgwrs_3July2023","Polychaete",0
+"A101_bwgwrs_3July2023","Shrimp",0
+"A101_bwgwrs_3July2023","Fish",0
+"A101_bwgwrs_3July2023","Stichaeid",0
+"A108_esrrg_6July2023","Herring (1+)",1
+"A108_esrrg_6July2023","Capelin (1+)",0
+"A108_esrrg_6July2023","Sand lance (1+)",0
+"A108_esrrg_6July2023","Sablefish",0
+"A108_esrrg_6July2023","Sand lance (0)",0
+"A108_esrrg_6July2023","Eulachon",0
+"A108_esrrg_6July2023","Myctophid",0
+"A108_esrrg_6July2023","Salmon",0
+"A108_esrrg_6July2023","Lingcod",0
+"A108_esrrg_6July2023","Greenling",0
+"A108_esrrg_6July2023","Gadid",0
+"A108_esrrg_6July2023","Pollock",0
+"A108_esrrg_6July2023","Herring (0)",0
+"A108_esrrg_6July2023","Capelin (0)",0
+"A108_esrrg_6July2023","Squid",0
+"A108_esrrg_6July2023","Amphipod",0
+"A108_esrrg_6July2023","Euphausiid",0
+"A108_esrrg_6July2023","Polychaete",0
+"A108_esrrg_6July2023","Shrimp",0
+"A108_esrrg_6July2023","Fish",0
+"A108_esrrg_6July2023","Stichaeid",0
+"A107_wygys_4July2023","Herring (1+)",0
+"A107_wygys_4July2023","Capelin (1+)",1
+"A107_wygys_4July2023","Sand lance (1+)",0
+"A107_wygys_4July2023","Sablefish",0
+"A107_wygys_4July2023","Sand lance (0)",0
+"A107_wygys_4July2023","Eulachon",0
+"A107_wygys_4July2023","Myctophid",0
+"A107_wygys_4July2023","Salmon",0
+"A107_wygys_4July2023","Lingcod",0
+"A107_wygys_4July2023","Greenling",0
+"A107_wygys_4July2023","Gadid",0
+"A107_wygys_4July2023","Pollock",0
+"A107_wygys_4July2023","Herring (0)",0
+"A107_wygys_4July2023","Capelin (0)",0
+"A107_wygys_4July2023","Squid",0
+"A107_wygys_4July2023","Amphipod",0
+"A107_wygys_4July2023","Euphausiid",0
+"A107_wygys_4July2023","Polychaete",0
+"A107_wygys_4July2023","Shrimp",0
+"A107_wygys_4July2023","Fish",0
+"A107_wygys_4July2023","Stichaeid",0
+"A110_rsoyw_4July2023","Herring (1+)",1
+"A110_rsoyw_4July2023","Capelin (1+)",0
+"A110_rsoyw_4July2023","Sand lance (1+)",0
+"A110_rsoyw_4July2023","Sablefish",0
+"A110_rsoyw_4July2023","Sand lance (0)",0
+"A110_rsoyw_4July2023","Eulachon",0
+"A110_rsoyw_4July2023","Myctophid",0
+"A110_rsoyw_4July2023","Salmon",0
+"A110_rsoyw_4July2023","Lingcod",0
+"A110_rsoyw_4July2023","Greenling",0
+"A110_rsoyw_4July2023","Gadid",0
+"A110_rsoyw_4July2023","Pollock",0
+"A110_rsoyw_4July2023","Herring (0)",0
+"A110_rsoyw_4July2023","Capelin (0)",0
+"A110_rsoyw_4July2023","Squid",0
+"A110_rsoyw_4July2023","Amphipod",0
+"A110_rsoyw_4July2023","Euphausiid",0
+"A110_rsoyw_4July2023","Polychaete",0
+"A110_rsoyw_4July2023","Shrimp",0
+"A110_rsoyw_4July2023","Fish",0
+"A110_rsoyw_4July2023","Stichaeid",0
+"A102_rkwgos_4July2023","Herring (1+)",1
+"A102_rkwgos_4July2023","Capelin (1+)",0
+"A102_rkwgos_4July2023","Sand lance (1+)",0
+"A102_rkwgos_4July2023","Sablefish",0
+"A102_rkwgos_4July2023","Sand lance (0)",0
+"A102_rkwgos_4July2023","Eulachon",0
+"A102_rkwgos_4July2023","Myctophid",0
+"A102_rkwgos_4July2023","Salmon",0
+"A102_rkwgos_4July2023","Lingcod",0
+"A102_rkwgos_4July2023","Greenling",0
+"A102_rkwgos_4July2023","Gadid",0
+"A102_rkwgos_4July2023","Pollock",0
+"A102_rkwgos_4July2023","Herring (0)",0
+"A102_rkwgos_4July2023","Capelin (0)",0
+"A102_rkwgos_4July2023","Squid",0
+"A102_rkwgos_4July2023","Amphipod",0
+"A102_rkwgos_4July2023","Euphausiid",0
+"A102_rkwgos_4July2023","Polychaete",0
+"A102_rkwgos_4July2023","Shrimp",0
+"A102_rkwgos_4July2023","Fish",0
+"A102_rkwgos_4July2023","Stichaeid",0
+"A99_yrews_23June2023","Herring (1+)",0.811023622047244
+"A99_yrews_23June2023","Capelin (1+)",0
+"A99_yrews_23June2023","Sand lance (1+)",0
+"A99_yrews_23June2023","Sablefish",0
+"A99_yrews_23June2023","Sand lance (0)",0
+"A99_yrews_23June2023","Eulachon",0
+"A99_yrews_23June2023","Myctophid",0
+"A99_yrews_23June2023","Salmon",0
+"A99_yrews_23June2023","Lingcod",0
+"A99_yrews_23June2023","Greenling",0
+"A99_yrews_23June2023","Gadid",0
+"A99_yrews_23June2023","Pollock",0
+"A99_yrews_23June2023","Herring (0)",0
+"A99_yrews_23June2023","Capelin (0)",0
+"A99_yrews_23June2023","Squid",0
+"A99_yrews_23June2023","Amphipod",0
+"A99_yrews_23June2023","Euphausiid",0
+"A99_yrews_23June2023","Polychaete",0
+"A99_yrews_23June2023","Shrimp",0
+"A99_yrews_23June2023","Fish",0
+"A99_yrews_23June2023","Stichaeid",0.188976377952756
+"A105_wyobs_8May2024","Herring (1+)",0
+"A105_wyobs_8May2024","Capelin (1+)",0
+"A105_wyobs_8May2024","Sand lance (1+)",0
+"A105_wyobs_8May2024","Sablefish",0
+"A105_wyobs_8May2024","Sand lance (0)",0
+"A105_wyobs_8May2024","Eulachon",0
+"A105_wyobs_8May2024","Myctophid",0
+"A105_wyobs_8May2024","Salmon",0
+"A105_wyobs_8May2024","Lingcod",0
+"A105_wyobs_8May2024","Greenling",0
+"A105_wyobs_8May2024","Gadid",0
+"A105_wyobs_8May2024","Pollock",0
+"A105_wyobs_8May2024","Herring (0)",0
+"A105_wyobs_8May2024","Capelin (0)",0
+"A105_wyobs_8May2024","Squid",0
+"A105_wyobs_8May2024","Amphipod",0
+"A105_wyobs_8May2024","Euphausiid",1
+"A105_wyobs_8May2024","Polychaete",0
+"A105_wyobs_8May2024","Shrimp",0
+"A105_wyobs_8May2024","Fish",0
+"A105_wyobs_8May2024","Stichaeid",0
+"A99_bwobs_8May2024","Herring (1+)",1
+"A99_bwobs_8May2024","Capelin (1+)",0
+"A99_bwobs_8May2024","Sand lance (1+)",0
+"A99_bwobs_8May2024","Sablefish",0
+"A99_bwobs_8May2024","Sand lance (0)",0
+"A99_bwobs_8May2024","Eulachon",0
+"A99_bwobs_8May2024","Myctophid",0
+"A99_bwobs_8May2024","Salmon",0
+"A99_bwobs_8May2024","Lingcod",0
+"A99_bwobs_8May2024","Greenling",0
+"A99_bwobs_8May2024","Gadid",0
+"A99_bwobs_8May2024","Pollock",0
+"A99_bwobs_8May2024","Herring (0)",0
+"A99_bwobs_8May2024","Capelin (0)",0
+"A99_bwobs_8May2024","Squid",0
+"A99_bwobs_8May2024","Amphipod",0
+"A99_bwobs_8May2024","Euphausiid",0
+"A99_bwobs_8May2024","Polychaete",0
+"A99_bwobs_8May2024","Shrimp",0
+"A99_bwobs_8May2024","Fish",0
+"A99_bwobs_8May2024","Stichaeid",0
+"A104_eseey_10May2024","Herring (1+)",0
+"A104_eseey_10May2024","Capelin (1+)",0
+"A104_eseey_10May2024","Sand lance (1+)",0
+"A104_eseey_10May2024","Sablefish",0
+"A104_eseey_10May2024","Sand lance (0)",0
+"A104_eseey_10May2024","Eulachon",1
+"A104_eseey_10May2024","Myctophid",0
+"A104_eseey_10May2024","Salmon",0
+"A104_eseey_10May2024","Lingcod",0
+"A104_eseey_10May2024","Greenling",0
+"A104_eseey_10May2024","Gadid",0
+"A104_eseey_10May2024","Pollock",0
+"A104_eseey_10May2024","Herring (0)",0
+"A104_eseey_10May2024","Capelin (0)",0
+"A104_eseey_10May2024","Squid",0
+"A104_eseey_10May2024","Amphipod",0
+"A104_eseey_10May2024","Euphausiid",0
+"A104_eseey_10May2024","Polychaete",0
+"A104_eseey_10May2024","Shrimp",0
+"A104_eseey_10May2024","Fish",0
+"A104_eseey_10May2024","Stichaeid",0
+"A111_bsbbr_13May2024","Herring (1+)",0
+"A111_bsbbr_13May2024","Capelin (1+)",0
+"A111_bsbbr_13May2024","Sand lance (1+)",0
+"A111_bsbbr_13May2024","Sablefish",0
+"A111_bsbbr_13May2024","Sand lance (0)",0
+"A111_bsbbr_13May2024","Eulachon",0
+"A111_bsbbr_13May2024","Myctophid",1
+"A111_bsbbr_13May2024","Salmon",0
+"A111_bsbbr_13May2024","Lingcod",0
+"A111_bsbbr_13May2024","Greenling",0
+"A111_bsbbr_13May2024","Gadid",0
+"A111_bsbbr_13May2024","Pollock",0
+"A111_bsbbr_13May2024","Herring (0)",0
+"A111_bsbbr_13May2024","Capelin (0)",0
+"A111_bsbbr_13May2024","Squid",0
+"A111_bsbbr_13May2024","Amphipod",0
+"A111_bsbbr_13May2024","Euphausiid",0
+"A111_bsbbr_13May2024","Polychaete",0
+"A111_bsbbr_13May2024","Shrimp",0
+"A111_bsbbr_13May2024","Fish",0
+"A111_bsbbr_13May2024","Stichaeid",0
+"A115_wsyyg_13May2024","Herring (1+)",0
+"A115_wsyyg_13May2024","Capelin (1+)",0
+"A115_wsyyg_13May2024","Sand lance (1+)",0
+"A115_wsyyg_13May2024","Sablefish",0
+"A115_wsyyg_13May2024","Sand lance (0)",0
+"A115_wsyyg_13May2024","Eulachon",0
+"A115_wsyyg_13May2024","Myctophid",0.357142857142857
+"A115_wsyyg_13May2024","Salmon",0
+"A115_wsyyg_13May2024","Lingcod",0.178571428571429
+"A115_wsyyg_13May2024","Greenling",0
+"A115_wsyyg_13May2024","Gadid",0
+"A115_wsyyg_13May2024","Pollock",0
+"A115_wsyyg_13May2024","Herring (0)",0
+"A115_wsyyg_13May2024","Capelin (0)",0
+"A115_wsyyg_13May2024","Squid",0.00892857142857143
+"A115_wsyyg_13May2024","Amphipod",0.00892857142857143
+"A115_wsyyg_13May2024","Euphausiid",0
+"A115_wsyyg_13May2024","Polychaete",0
+"A115_wsyyg_13May2024","Shrimp",0
+"A115_wsyyg_13May2024","Fish",0.446428571428571
+"A115_wsyyg_13May2024","Stichaeid",0
+"A105_ywroks_13May2024","Herring (1+)",0
+"A105_ywroks_13May2024","Capelin (1+)",0
+"A105_ywroks_13May2024","Sand lance (1+)",0
+"A105_ywroks_13May2024","Sablefish",0
+"A105_ywroks_13May2024","Sand lance (0)",0
+"A105_ywroks_13May2024","Eulachon",1
+"A105_ywroks_13May2024","Myctophid",0
+"A105_ywroks_13May2024","Salmon",0
+"A105_ywroks_13May2024","Lingcod",0
+"A105_ywroks_13May2024","Greenling",0
+"A105_ywroks_13May2024","Gadid",0
+"A105_ywroks_13May2024","Pollock",0
+"A105_ywroks_13May2024","Herring (0)",0
+"A105_ywroks_13May2024","Capelin (0)",0
+"A105_ywroks_13May2024","Squid",0
+"A105_ywroks_13May2024","Amphipod",0
+"A105_ywroks_13May2024","Euphausiid",0
+"A105_ywroks_13May2024","Polychaete",0
+"A105_ywroks_13May2024","Shrimp",0
+"A105_ywroks_13May2024","Fish",0
+"A105_ywroks_13May2024","Stichaeid",0
+"A117_oksbrb_17May2024","Herring (1+)",0
+"A117_oksbrb_17May2024","Capelin (1+)",0.56
+"A117_oksbrb_17May2024","Sand lance (1+)",0
+"A117_oksbrb_17May2024","Sablefish",0
+"A117_oksbrb_17May2024","Sand lance (0)",0
+"A117_oksbrb_17May2024","Eulachon",0.44
+"A117_oksbrb_17May2024","Myctophid",0
+"A117_oksbrb_17May2024","Salmon",0
+"A117_oksbrb_17May2024","Lingcod",0
+"A117_oksbrb_17May2024","Greenling",0
+"A117_oksbrb_17May2024","Gadid",0
+"A117_oksbrb_17May2024","Pollock",0
+"A117_oksbrb_17May2024","Herring (0)",0
+"A117_oksbrb_17May2024","Capelin (0)",0
+"A117_oksbrb_17May2024","Squid",0
+"A117_oksbrb_17May2024","Amphipod",0
+"A117_oksbrb_17May2024","Euphausiid",0
+"A117_oksbrb_17May2024","Polychaete",0
+"A117_oksbrb_17May2024","Shrimp",0
+"A117_oksbrb_17May2024","Fish",0
+"A117_oksbrb_17May2024","Stichaeid",0
+"A122_eyges_7Jun2024","Herring (1+)",0
+"A122_eyges_7Jun2024","Capelin (1+)",0.348484848484848
+"A122_eyges_7Jun2024","Sand lance (1+)",0
+"A122_eyges_7Jun2024","Sablefish",0
+"A122_eyges_7Jun2024","Sand lance (0)",0
+"A122_eyges_7Jun2024","Eulachon",0
+"A122_eyges_7Jun2024","Myctophid",0
+"A122_eyges_7Jun2024","Salmon",0
+"A122_eyges_7Jun2024","Lingcod",0
+"A122_eyges_7Jun2024","Greenling",0
+"A122_eyges_7Jun2024","Gadid",0
+"A122_eyges_7Jun2024","Pollock",0
+"A122_eyges_7Jun2024","Herring (0)",0
+"A122_eyges_7Jun2024","Capelin (0)",0
+"A122_eyges_7Jun2024","Squid",0
+"A122_eyges_7Jun2024","Amphipod",0
+"A122_eyges_7Jun2024","Euphausiid",0.651515151515151
+"A122_eyges_7Jun2024","Polychaete",0
+"A122_eyges_7Jun2024","Shrimp",0
+"A122_eyges_7Jun2024","Fish",0
+"A122_eyges_7Jun2024","Stichaeid",0
+"A120_wsywo_8Jun2024","Herring (1+)",0
+"A120_wsywo_8Jun2024","Capelin (1+)",0
+"A120_wsywo_8Jun2024","Sand lance (1+)",0
+"A120_wsywo_8Jun2024","Sablefish",0
+"A120_wsywo_8Jun2024","Sand lance (0)",0
+"A120_wsywo_8Jun2024","Eulachon",0
+"A120_wsywo_8Jun2024","Myctophid",1
+"A120_wsywo_8Jun2024","Salmon",0
+"A120_wsywo_8Jun2024","Lingcod",0
+"A120_wsywo_8Jun2024","Greenling",0
+"A120_wsywo_8Jun2024","Gadid",0
+"A120_wsywo_8Jun2024","Pollock",0
+"A120_wsywo_8Jun2024","Herring (0)",0
+"A120_wsywo_8Jun2024","Capelin (0)",0
+"A120_wsywo_8Jun2024","Squid",0
+"A120_wsywo_8Jun2024","Amphipod",0
+"A120_wsywo_8Jun2024","Euphausiid",0
+"A120_wsywo_8Jun2024","Polychaete",0
+"A120_wsywo_8Jun2024","Shrimp",0
+"A120_wsywo_8Jun2024","Fish",0
+"A120_wsywo_8Jun2024","Stichaeid",0
+"A119_rbybs_10Jun2024","Herring (1+)",0
+"A119_rbybs_10Jun2024","Capelin (1+)",1
+"A119_rbybs_10Jun2024","Sand lance (1+)",0
+"A119_rbybs_10Jun2024","Sablefish",0
+"A119_rbybs_10Jun2024","Sand lance (0)",0
+"A119_rbybs_10Jun2024","Eulachon",0
+"A119_rbybs_10Jun2024","Myctophid",0
+"A119_rbybs_10Jun2024","Salmon",0
+"A119_rbybs_10Jun2024","Lingcod",0
+"A119_rbybs_10Jun2024","Greenling",0
+"A119_rbybs_10Jun2024","Gadid",0
+"A119_rbybs_10Jun2024","Pollock",0
+"A119_rbybs_10Jun2024","Herring (0)",0
+"A119_rbybs_10Jun2024","Capelin (0)",0
+"A119_rbybs_10Jun2024","Squid",0
+"A119_rbybs_10Jun2024","Amphipod",0
+"A119_rbybs_10Jun2024","Euphausiid",0
+"A119_rbybs_10Jun2024","Polychaete",0
+"A119_rbybs_10Jun2024","Shrimp",0
+"A119_rbybs_10Jun2024","Fish",0
+"A119_rbybs_10Jun2024","Stichaeid",0
+"A118_esyee_11Jun2024","Herring (1+)",1
+"A118_esyee_11Jun2024","Capelin (1+)",0
+"A118_esyee_11Jun2024","Sand lance (1+)",0
+"A118_esyee_11Jun2024","Sablefish",0
+"A118_esyee_11Jun2024","Sand lance (0)",0
+"A118_esyee_11Jun2024","Eulachon",0
+"A118_esyee_11Jun2024","Myctophid",0
+"A118_esyee_11Jun2024","Salmon",0
+"A118_esyee_11Jun2024","Lingcod",0
+"A118_esyee_11Jun2024","Greenling",0
+"A118_esyee_11Jun2024","Gadid",0
+"A118_esyee_11Jun2024","Pollock",0
+"A118_esyee_11Jun2024","Herring (0)",0
+"A118_esyee_11Jun2024","Capelin (0)",0
+"A118_esyee_11Jun2024","Squid",0
+"A118_esyee_11Jun2024","Amphipod",0
+"A118_esyee_11Jun2024","Euphausiid",0
+"A118_esyee_11Jun2024","Polychaete",0
+"A118_esyee_11Jun2024","Shrimp",0
+"A118_esyee_11Jun2024","Fish",0
+"A118_esyee_11Jun2024","Stichaeid",0
+"A123_wbsokb_12Jun2024","Herring (1+)",0
+"A123_wbsokb_12Jun2024","Capelin (1+)",0
+"A123_wbsokb_12Jun2024","Sand lance (1+)",0
+"A123_wbsokb_12Jun2024","Sablefish",0
+"A123_wbsokb_12Jun2024","Sand lance (0)",0
+"A123_wbsokb_12Jun2024","Eulachon",0
+"A123_wbsokb_12Jun2024","Myctophid",0.9
+"A123_wbsokb_12Jun2024","Salmon",0
+"A123_wbsokb_12Jun2024","Lingcod",0
+"A123_wbsokb_12Jun2024","Greenling",0
+"A123_wbsokb_12Jun2024","Gadid",0
+"A123_wbsokb_12Jun2024","Pollock",0
+"A123_wbsokb_12Jun2024","Herring (0)",0
+"A123_wbsokb_12Jun2024","Capelin (0)",0
+"A123_wbsokb_12Jun2024","Squid",0
+"A123_wbsokb_12Jun2024","Amphipod",0.1
+"A123_wbsokb_12Jun2024","Euphausiid",0
+"A123_wbsokb_12Jun2024","Polychaete",0
+"A123_wbsokb_12Jun2024","Shrimp",0
+"A123_wbsokb_12Jun2024","Fish",0
+"A123_wbsokb_12Jun2024","Stichaeid",0
+"A112_rbwes_14Jun2024","Herring (1+)",1
+"A112_rbwes_14Jun2024","Capelin (1+)",0
+"A112_rbwes_14Jun2024","Sand lance (1+)",0
+"A112_rbwes_14Jun2024","Sablefish",0
+"A112_rbwes_14Jun2024","Sand lance (0)",0
+"A112_rbwes_14Jun2024","Eulachon",0
+"A112_rbwes_14Jun2024","Myctophid",0
+"A112_rbwes_14Jun2024","Salmon",0
+"A112_rbwes_14Jun2024","Lingcod",0
+"A112_rbwes_14Jun2024","Greenling",0
+"A112_rbwes_14Jun2024","Gadid",0
+"A112_rbwes_14Jun2024","Pollock",0
+"A112_rbwes_14Jun2024","Herring (0)",0
+"A112_rbwes_14Jun2024","Capelin (0)",0
+"A112_rbwes_14Jun2024","Squid",0
+"A112_rbwes_14Jun2024","Amphipod",0
+"A112_rbwes_14Jun2024","Euphausiid",0
+"A112_rbwes_14Jun2024","Polychaete",0
+"A112_rbwes_14Jun2024","Shrimp",0
+"A112_rbwes_14Jun2024","Fish",0
+"A112_rbwes_14Jun2024","Stichaeid",0
+"A119_bgbrrs_17Jun2024","Herring (1+)",0
+"A119_bgbrrs_17Jun2024","Capelin (1+)",0
+"A119_bgbrrs_17Jun2024","Sand lance (1+)",0
+"A119_bgbrrs_17Jun2024","Sablefish",0
+"A119_bgbrrs_17Jun2024","Sand lance (0)",0
+"A119_bgbrrs_17Jun2024","Eulachon",0
+"A119_bgbrrs_17Jun2024","Myctophid",0
+"A119_bgbrrs_17Jun2024","Salmon",0
+"A119_bgbrrs_17Jun2024","Lingcod",0.6
+"A119_bgbrrs_17Jun2024","Greenling",0
+"A119_bgbrrs_17Jun2024","Gadid",0
+"A119_bgbrrs_17Jun2024","Pollock",0
+"A119_bgbrrs_17Jun2024","Herring (0)",0
+"A119_bgbrrs_17Jun2024","Capelin (0)",0
+"A119_bgbrrs_17Jun2024","Squid",0.0333333333333333
+"A119_bgbrrs_17Jun2024","Amphipod",0.0333333333333333
+"A119_bgbrrs_17Jun2024","Euphausiid",0
+"A119_bgbrrs_17Jun2024","Polychaete",0
+"A119_bgbrrs_17Jun2024","Shrimp",0.333333333333333
+"A119_bgbrrs_17Jun2024","Fish",0
+"A119_bgbrrs_17Jun2024","Stichaeid",0
+"A112_bowys_19Jun2024","Herring (1+)",1
+"A112_bowys_19Jun2024","Capelin (1+)",0
+"A112_bowys_19Jun2024","Sand lance (1+)",0
+"A112_bowys_19Jun2024","Sablefish",0
+"A112_bowys_19Jun2024","Sand lance (0)",0
+"A112_bowys_19Jun2024","Eulachon",0
+"A112_bowys_19Jun2024","Myctophid",0
+"A112_bowys_19Jun2024","Salmon",0
+"A112_bowys_19Jun2024","Lingcod",0
+"A112_bowys_19Jun2024","Greenling",0
+"A112_bowys_19Jun2024","Gadid",0
+"A112_bowys_19Jun2024","Pollock",0
+"A112_bowys_19Jun2024","Herring (0)",0
+"A112_bowys_19Jun2024","Capelin (0)",0
+"A112_bowys_19Jun2024","Squid",0
+"A112_bowys_19Jun2024","Amphipod",0
+"A112_bowys_19Jun2024","Euphausiid",0
+"A112_bowys_19Jun2024","Polychaete",0
+"A112_bowys_19Jun2024","Shrimp",0
+"A112_bowys_19Jun2024","Fish",0
+"A112_bowys_19Jun2024","Stichaeid",0
+"A116_gyors_19Jun2024","Herring (1+)",1
+"A116_gyors_19Jun2024","Capelin (1+)",0
+"A116_gyors_19Jun2024","Sand lance (1+)",0
+"A116_gyors_19Jun2024","Sablefish",0
+"A116_gyors_19Jun2024","Sand lance (0)",0
+"A116_gyors_19Jun2024","Eulachon",0
+"A116_gyors_19Jun2024","Myctophid",0
+"A116_gyors_19Jun2024","Salmon",0
+"A116_gyors_19Jun2024","Lingcod",0
+"A116_gyors_19Jun2024","Greenling",0
+"A116_gyors_19Jun2024","Gadid",0
+"A116_gyors_19Jun2024","Pollock",0
+"A116_gyors_19Jun2024","Herring (0)",0
+"A116_gyors_19Jun2024","Capelin (0)",0
+"A116_gyors_19Jun2024","Squid",0
+"A116_gyors_19Jun2024","Amphipod",0
+"A116_gyors_19Jun2024","Euphausiid",0
+"A116_gyors_19Jun2024","Polychaete",0
+"A116_gyors_19Jun2024","Shrimp",0
+"A116_gyors_19Jun2024","Fish",0
+"A116_gyors_19Jun2024","Stichaeid",0
+"A127_bswow_26Jun2024","Herring (1+)",0
+"A127_bswow_26Jun2024","Capelin (1+)",0
+"A127_bswow_26Jun2024","Sand lance (1+)",0
+"A127_bswow_26Jun2024","Sablefish",0
+"A127_bswow_26Jun2024","Sand lance (0)",0
+"A127_bswow_26Jun2024","Eulachon",0
+"A127_bswow_26Jun2024","Myctophid",1
+"A127_bswow_26Jun2024","Salmon",0
+"A127_bswow_26Jun2024","Lingcod",0
+"A127_bswow_26Jun2024","Greenling",0
+"A127_bswow_26Jun2024","Gadid",0
+"A127_bswow_26Jun2024","Pollock",0
+"A127_bswow_26Jun2024","Herring (0)",0
+"A127_bswow_26Jun2024","Capelin (0)",0
+"A127_bswow_26Jun2024","Squid",0
+"A127_bswow_26Jun2024","Amphipod",0
+"A127_bswow_26Jun2024","Euphausiid",0
+"A127_bswow_26Jun2024","Polychaete",0
+"A127_bswow_26Jun2024","Shrimp",0
+"A127_bswow_26Jun2024","Fish",0
+"A127_bswow_26Jun2024","Stichaeid",0
+"A116_eswoo_28Jun2024","Herring (1+)",0
+"A116_eswoo_28Jun2024","Capelin (1+)",0
+"A116_eswoo_28Jun2024","Sand lance (1+)",0
+"A116_eswoo_28Jun2024","Sablefish",0
+"A116_eswoo_28Jun2024","Sand lance (0)",0
+"A116_eswoo_28Jun2024","Eulachon",0
+"A116_eswoo_28Jun2024","Myctophid",0
+"A116_eswoo_28Jun2024","Salmon",0
+"A116_eswoo_28Jun2024","Lingcod",0
+"A116_eswoo_28Jun2024","Greenling",0
+"A116_eswoo_28Jun2024","Gadid",0
+"A116_eswoo_28Jun2024","Pollock",0
+"A116_eswoo_28Jun2024","Herring (0)",1
+"A116_eswoo_28Jun2024","Capelin (0)",0
+"A116_eswoo_28Jun2024","Squid",0
+"A116_eswoo_28Jun2024","Amphipod",0
+"A116_eswoo_28Jun2024","Euphausiid",0
+"A116_eswoo_28Jun2024","Polychaete",0
+"A116_eswoo_28Jun2024","Shrimp",0
+"A116_eswoo_28Jun2024","Fish",0
+"A116_eswoo_28Jun2024","Stichaeid",0
+"A114_ggwys_28Jun2024","Herring (1+)",0
+"A114_ggwys_28Jun2024","Capelin (1+)",0
+"A114_ggwys_28Jun2024","Sand lance (1+)",0
+"A114_ggwys_28Jun2024","Sablefish",0
+"A114_ggwys_28Jun2024","Sand lance (0)",0
+"A114_ggwys_28Jun2024","Eulachon",0
+"A114_ggwys_28Jun2024","Myctophid",0
+"A114_ggwys_28Jun2024","Salmon",0
+"A114_ggwys_28Jun2024","Lingcod",0
+"A114_ggwys_28Jun2024","Greenling",0
+"A114_ggwys_28Jun2024","Gadid",0
+"A114_ggwys_28Jun2024","Pollock",0
+"A114_ggwys_28Jun2024","Herring (0)",1
+"A114_ggwys_28Jun2024","Capelin (0)",0
+"A114_ggwys_28Jun2024","Squid",0
+"A114_ggwys_28Jun2024","Amphipod",0
+"A114_ggwys_28Jun2024","Euphausiid",0
+"A114_ggwys_28Jun2024","Polychaete",0
+"A114_ggwys_28Jun2024","Shrimp",0
+"A114_ggwys_28Jun2024","Fish",0
+"A114_ggwys_28Jun2024","Stichaeid",0
+"A120_wkbbbs_29Jun2024","Herring (1+)",0
+"A120_wkbbbs_29Jun2024","Capelin (1+)",0
+"A120_wkbbbs_29Jun2024","Sand lance (1+)",0
+"A120_wkbbbs_29Jun2024","Sablefish",0
+"A120_wkbbbs_29Jun2024","Sand lance (0)",0
+"A120_wkbbbs_29Jun2024","Eulachon",0
+"A120_wkbbbs_29Jun2024","Myctophid",1
+"A120_wkbbbs_29Jun2024","Salmon",0
+"A120_wkbbbs_29Jun2024","Lingcod",0
+"A120_wkbbbs_29Jun2024","Greenling",0
+"A120_wkbbbs_29Jun2024","Gadid",0
+"A120_wkbbbs_29Jun2024","Pollock",0
+"A120_wkbbbs_29Jun2024","Herring (0)",0
+"A120_wkbbbs_29Jun2024","Capelin (0)",0
+"A120_wkbbbs_29Jun2024","Squid",0
+"A120_wkbbbs_29Jun2024","Amphipod",0
+"A120_wkbbbs_29Jun2024","Euphausiid",0
+"A120_wkbbbs_29Jun2024","Polychaete",0
+"A120_wkbbbs_29Jun2024","Shrimp",0
+"A120_wkbbbs_29Jun2024","Fish",0
+"A120_wkbbbs_29Jun2024","Stichaeid",0
+"A122_wrrrys_1Jul2024","Herring (1+)",0
+"A122_wrrrys_1Jul2024","Capelin (1+)",0
+"A122_wrrrys_1Jul2024","Sand lance (1+)",0
+"A122_wrrrys_1Jul2024","Sablefish",0
+"A122_wrrrys_1Jul2024","Sand lance (0)",0
+"A122_wrrrys_1Jul2024","Eulachon",0
+"A122_wrrrys_1Jul2024","Myctophid",0
+"A122_wrrrys_1Jul2024","Salmon",0
+"A122_wrrrys_1Jul2024","Lingcod",0
+"A122_wrrrys_1Jul2024","Greenling",0
+"A122_wrrrys_1Jul2024","Gadid",0
+"A122_wrrrys_1Jul2024","Pollock",0.18716577540107
+"A122_wrrrys_1Jul2024","Herring (0)",0.802139037433155
+"A122_wrrrys_1Jul2024","Capelin (0)",0
+"A122_wrrrys_1Jul2024","Squid",0
+"A122_wrrrys_1Jul2024","Amphipod",0
+"A122_wrrrys_1Jul2024","Euphausiid",0.0106951871657754
+"A122_wrrrys_1Jul2024","Polychaete",0
+"A122_wrrrys_1Jul2024","Shrimp",0
+"A122_wrrrys_1Jul2024","Fish",0
+"A122_wrrrys_1Jul2024","Stichaeid",0
+"A126_wwsgbr_1Jul2024","Herring (1+)",0.2
+"A126_wwsgbr_1Jul2024","Capelin (1+)",0
+"A126_wwsgbr_1Jul2024","Sand lance (1+)",0
+"A126_wwsgbr_1Jul2024","Sablefish",0
+"A126_wwsgbr_1Jul2024","Sand lance (0)",0
+"A126_wwsgbr_1Jul2024","Eulachon",0
+"A126_wwsgbr_1Jul2024","Myctophid",0.8
+"A126_wwsgbr_1Jul2024","Salmon",0
+"A126_wwsgbr_1Jul2024","Lingcod",0
+"A126_wwsgbr_1Jul2024","Greenling",0
+"A126_wwsgbr_1Jul2024","Gadid",0
+"A126_wwsgbr_1Jul2024","Pollock",0
+"A126_wwsgbr_1Jul2024","Herring (0)",0
+"A126_wwsgbr_1Jul2024","Capelin (0)",0
+"A126_wwsgbr_1Jul2024","Squid",0
+"A126_wwsgbr_1Jul2024","Amphipod",0
+"A126_wwsgbr_1Jul2024","Euphausiid",0
+"A126_wwsgbr_1Jul2024","Polychaete",0
+"A126_wwsgbr_1Jul2024","Shrimp",0
+"A126_wwsgbr_1Jul2024","Fish",0
+"A126_wwsgbr_1Jul2024","Stichaeid",0
+"A125_gkbygs_1Jul2024","Herring (1+)",0
+"A125_gkbygs_1Jul2024","Capelin (1+)",0
+"A125_gkbygs_1Jul2024","Sand lance (1+)",0
+"A125_gkbygs_1Jul2024","Sablefish",0
+"A125_gkbygs_1Jul2024","Sand lance (0)",0
+"A125_gkbygs_1Jul2024","Eulachon",0
+"A125_gkbygs_1Jul2024","Myctophid",0
+"A125_gkbygs_1Jul2024","Salmon",0
+"A125_gkbygs_1Jul2024","Lingcod",0
+"A125_gkbygs_1Jul2024","Greenling",0
+"A125_gkbygs_1Jul2024","Gadid",0
+"A125_gkbygs_1Jul2024","Pollock",0
+"A125_gkbygs_1Jul2024","Herring (0)",0
+"A125_gkbygs_1Jul2024","Capelin (0)",0
+"A125_gkbygs_1Jul2024","Squid",0
+"A125_gkbygs_1Jul2024","Amphipod",0
+"A125_gkbygs_1Jul2024","Euphausiid",0
+"A125_gkbygs_1Jul2024","Polychaete",0
+"A125_gkbygs_1Jul2024","Shrimp",0
+"A125_gkbygs_1Jul2024","Fish",1
+"A125_gkbygs_1Jul2024","Stichaeid",0
+"A118_wbsgko_2Jul2024","Herring (1+)",0
+"A118_wbsgko_2Jul2024","Capelin (1+)",1
+"A118_wbsgko_2Jul2024","Sand lance (1+)",0
+"A118_wbsgko_2Jul2024","Sablefish",0
+"A118_wbsgko_2Jul2024","Sand lance (0)",0
+"A118_wbsgko_2Jul2024","Eulachon",0
+"A118_wbsgko_2Jul2024","Myctophid",0
+"A118_wbsgko_2Jul2024","Salmon",0
+"A118_wbsgko_2Jul2024","Lingcod",0
+"A118_wbsgko_2Jul2024","Greenling",0
+"A118_wbsgko_2Jul2024","Gadid",0
+"A118_wbsgko_2Jul2024","Pollock",0
+"A118_wbsgko_2Jul2024","Herring (0)",0
+"A118_wbsgko_2Jul2024","Capelin (0)",0
+"A118_wbsgko_2Jul2024","Squid",0
+"A118_wbsgko_2Jul2024","Amphipod",0
+"A118_wbsgko_2Jul2024","Euphausiid",0
+"A118_wbsgko_2Jul2024","Polychaete",0
+"A118_wbsgko_2Jul2024","Shrimp",0
+"A118_wbsgko_2Jul2024","Fish",0
+"A118_wbsgko_2Jul2024","Stichaeid",0
+"A116_wybrs_2Jul2024","Herring (1+)",1
+"A116_wybrs_2Jul2024","Capelin (1+)",0
+"A116_wybrs_2Jul2024","Sand lance (1+)",0
+"A116_wybrs_2Jul2024","Sablefish",0
+"A116_wybrs_2Jul2024","Sand lance (0)",0
+"A116_wybrs_2Jul2024","Eulachon",0
+"A116_wybrs_2Jul2024","Myctophid",0
+"A116_wybrs_2Jul2024","Salmon",0
+"A116_wybrs_2Jul2024","Lingcod",0
+"A116_wybrs_2Jul2024","Greenling",0
+"A116_wybrs_2Jul2024","Gadid",0
+"A116_wybrs_2Jul2024","Pollock",0
+"A116_wybrs_2Jul2024","Herring (0)",0
+"A116_wybrs_2Jul2024","Capelin (0)",0
+"A116_wybrs_2Jul2024","Squid",0
+"A116_wybrs_2Jul2024","Amphipod",0
+"A116_wybrs_2Jul2024","Euphausiid",0
+"A116_wybrs_2Jul2024","Polychaete",0
+"A116_wybrs_2Jul2024","Shrimp",0
+"A116_wybrs_2Jul2024","Fish",0
+"A116_wybrs_2Jul2024","Stichaeid",0
+"A120_ywswyr_3Jul2024","Herring (1+)",0.950549450549451
+"A120_ywswyr_3Jul2024","Capelin (1+)",0
+"A120_ywswyr_3Jul2024","Sand lance (1+)",0
+"A120_ywswyr_3Jul2024","Sablefish",0.0494505494505495
+"A120_ywswyr_3Jul2024","Sand lance (0)",0
+"A120_ywswyr_3Jul2024","Eulachon",0
+"A120_ywswyr_3Jul2024","Myctophid",0
+"A120_ywswyr_3Jul2024","Salmon",0
+"A120_ywswyr_3Jul2024","Lingcod",0
+"A120_ywswyr_3Jul2024","Greenling",0
+"A120_ywswyr_3Jul2024","Gadid",0
+"A120_ywswyr_3Jul2024","Pollock",0
+"A120_ywswyr_3Jul2024","Herring (0)",0
+"A120_ywswyr_3Jul2024","Capelin (0)",0
+"A120_ywswyr_3Jul2024","Squid",0
+"A120_ywswyr_3Jul2024","Amphipod",0
+"A120_ywswyr_3Jul2024","Euphausiid",0
+"A120_ywswyr_3Jul2024","Polychaete",0
+"A120_ywswyr_3Jul2024","Shrimp",0
+"A120_ywswyr_3Jul2024","Fish",0
+"A120_ywswyr_3Jul2024","Stichaeid",0
+"A123_gwsory_3Jul2024","Herring (1+)",1
+"A123_gwsory_3Jul2024","Capelin (1+)",0
+"A123_gwsory_3Jul2024","Sand lance (1+)",0
+"A123_gwsory_3Jul2024","Sablefish",0
+"A123_gwsory_3Jul2024","Sand lance (0)",0
+"A123_gwsory_3Jul2024","Eulachon",0
+"A123_gwsory_3Jul2024","Myctophid",0
+"A123_gwsory_3Jul2024","Salmon",0
+"A123_gwsory_3Jul2024","Lingcod",0
+"A123_gwsory_3Jul2024","Greenling",0
+"A123_gwsory_3Jul2024","Gadid",0
+"A123_gwsory_3Jul2024","Pollock",0
+"A123_gwsory_3Jul2024","Herring (0)",0
+"A123_gwsory_3Jul2024","Capelin (0)",0
+"A123_gwsory_3Jul2024","Squid",0
+"A123_gwsory_3Jul2024","Amphipod",0
+"A123_gwsory_3Jul2024","Euphausiid",0
+"A123_gwsory_3Jul2024","Polychaete",0
+"A123_gwsory_3Jul2024","Shrimp",0
+"A123_gwsory_3Jul2024","Fish",0
+"A123_gwsory_3Jul2024","Stichaeid",0
+"A121_oswwr_5Jul2024","Herring (1+)",0
+"A121_oswwr_5Jul2024","Capelin (1+)",0
+"A121_oswwr_5Jul2024","Sand lance (1+)",0
+"A121_oswwr_5Jul2024","Sablefish",0
+"A121_oswwr_5Jul2024","Sand lance (0)",0
+"A121_oswwr_5Jul2024","Eulachon",0
+"A121_oswwr_5Jul2024","Myctophid",0
+"A121_oswwr_5Jul2024","Salmon",1
+"A121_oswwr_5Jul2024","Lingcod",0
+"A121_oswwr_5Jul2024","Greenling",0
+"A121_oswwr_5Jul2024","Gadid",0
+"A121_oswwr_5Jul2024","Pollock",0
+"A121_oswwr_5Jul2024","Herring (0)",0
+"A121_oswwr_5Jul2024","Capelin (0)",0
+"A121_oswwr_5Jul2024","Squid",0
+"A121_oswwr_5Jul2024","Amphipod",0
+"A121_oswwr_5Jul2024","Euphausiid",0
+"A121_oswwr_5Jul2024","Polychaete",0
+"A121_oswwr_5Jul2024","Shrimp",0
+"A121_oswwr_5Jul2024","Fish",0
+"A121_oswwr_5Jul2024","Stichaeid",0
+"A105_rbwgks_8Jul2024","Herring (1+)",0
+"A105_rbwgks_8Jul2024","Capelin (1+)",1
+"A105_rbwgks_8Jul2024","Sand lance (1+)",0
+"A105_rbwgks_8Jul2024","Sablefish",0
+"A105_rbwgks_8Jul2024","Sand lance (0)",0
+"A105_rbwgks_8Jul2024","Eulachon",0
+"A105_rbwgks_8Jul2024","Myctophid",0
+"A105_rbwgks_8Jul2024","Salmon",0
+"A105_rbwgks_8Jul2024","Lingcod",0
+"A105_rbwgks_8Jul2024","Greenling",0
+"A105_rbwgks_8Jul2024","Gadid",0
+"A105_rbwgks_8Jul2024","Pollock",0
+"A105_rbwgks_8Jul2024","Herring (0)",0
+"A105_rbwgks_8Jul2024","Capelin (0)",0
+"A105_rbwgks_8Jul2024","Squid",0
+"A105_rbwgks_8Jul2024","Amphipod",0
+"A105_rbwgks_8Jul2024","Euphausiid",0
+"A105_rbwgks_8Jul2024","Polychaete",0
+"A105_rbwgks_8Jul2024","Shrimp",0
+"A105_rbwgks_8Jul2024","Fish",0
+"A105_rbwgks_8Jul2024","Stichaeid",0
+"A114_roggbs_8Jul2024","Herring (1+)",0
+"A114_roggbs_8Jul2024","Capelin (1+)",0
+"A114_roggbs_8Jul2024","Sand lance (1+)",0
+"A114_roggbs_8Jul2024","Sablefish",0
+"A114_roggbs_8Jul2024","Sand lance (0)",0
+"A114_roggbs_8Jul2024","Eulachon",0
+"A114_roggbs_8Jul2024","Myctophid",0
+"A114_roggbs_8Jul2024","Salmon",0
+"A114_roggbs_8Jul2024","Lingcod",0
+"A114_roggbs_8Jul2024","Greenling",0
+"A114_roggbs_8Jul2024","Gadid",0
+"A114_roggbs_8Jul2024","Pollock",0
+"A114_roggbs_8Jul2024","Herring (0)",0.927835051546392
+"A114_roggbs_8Jul2024","Capelin (0)",0
+"A114_roggbs_8Jul2024","Squid",0
+"A114_roggbs_8Jul2024","Amphipod",0
+"A114_roggbs_8Jul2024","Euphausiid",0
+"A114_roggbs_8Jul2024","Polychaete",0
+"A114_roggbs_8Jul2024","Shrimp",0
+"A114_roggbs_8Jul2024","Fish",0.0721649484536083
+"A114_roggbs_8Jul2024","Stichaeid",0
+"A110_rrswwb_8Jul2024","Herring (1+)",0
+"A110_rrswwb_8Jul2024","Capelin (1+)",0
+"A110_rrswwb_8Jul2024","Sand lance (1+)",0
+"A110_rrswwb_8Jul2024","Sablefish",0
+"A110_rrswwb_8Jul2024","Sand lance (0)",0
+"A110_rrswwb_8Jul2024","Eulachon",0
+"A110_rrswwb_8Jul2024","Myctophid",0.957446808510638
+"A110_rrswwb_8Jul2024","Salmon",0
+"A110_rrswwb_8Jul2024","Lingcod",0
+"A110_rrswwb_8Jul2024","Greenling",0
+"A110_rrswwb_8Jul2024","Gadid",0
+"A110_rrswwb_8Jul2024","Pollock",0
+"A110_rrswwb_8Jul2024","Herring (0)",0
+"A110_rrswwb_8Jul2024","Capelin (0)",0
+"A110_rrswwb_8Jul2024","Squid",0
+"A110_rrswwb_8Jul2024","Amphipod",0.0425531914893617
+"A110_rrswwb_8Jul2024","Euphausiid",0
+"A110_rrswwb_8Jul2024","Polychaete",0
+"A110_rrswwb_8Jul2024","Shrimp",0
+"A110_rrswwb_8Jul2024","Fish",0
+"A110_rrswwb_8Jul2024","Stichaeid",0
+"A116_orrwgs_8Jul2024","Herring (1+)",1
+"A116_orrwgs_8Jul2024","Capelin (1+)",0
+"A116_orrwgs_8Jul2024","Sand lance (1+)",0
+"A116_orrwgs_8Jul2024","Sablefish",0
+"A116_orrwgs_8Jul2024","Sand lance (0)",0
+"A116_orrwgs_8Jul2024","Eulachon",0
+"A116_orrwgs_8Jul2024","Myctophid",0
+"A116_orrwgs_8Jul2024","Salmon",0
+"A116_orrwgs_8Jul2024","Lingcod",0
+"A116_orrwgs_8Jul2024","Greenling",0
+"A116_orrwgs_8Jul2024","Gadid",0
+"A116_orrwgs_8Jul2024","Pollock",0
+"A116_orrwgs_8Jul2024","Herring (0)",0
+"A116_orrwgs_8Jul2024","Capelin (0)",0
+"A116_orrwgs_8Jul2024","Squid",0
+"A116_orrwgs_8Jul2024","Amphipod",0
+"A116_orrwgs_8Jul2024","Euphausiid",0
+"A116_orrwgs_8Jul2024","Polychaete",0
+"A116_orrwgs_8Jul2024","Shrimp",0
+"A116_orrwgs_8Jul2024","Fish",0
+"A116_orrwgs_8Jul2024","Stichaeid",0
+"A122_ykbyws_9Jul2024","Herring (1+)",0
+"A122_ykbyws_9Jul2024","Capelin (1+)",0
+"A122_ykbyws_9Jul2024","Sand lance (1+)",0
+"A122_ykbyws_9Jul2024","Sablefish",0
+"A122_ykbyws_9Jul2024","Sand lance (0)",0
+"A122_ykbyws_9Jul2024","Eulachon",0
+"A122_ykbyws_9Jul2024","Myctophid",0
+"A122_ykbyws_9Jul2024","Salmon",0
+"A122_ykbyws_9Jul2024","Lingcod",0
+"A122_ykbyws_9Jul2024","Greenling",0
+"A122_ykbyws_9Jul2024","Gadid",0
+"A122_ykbyws_9Jul2024","Pollock",0.0934579439252337
+"A122_ykbyws_9Jul2024","Herring (0)",0
+"A122_ykbyws_9Jul2024","Capelin (0)",0
+"A122_ykbyws_9Jul2024","Squid",0
+"A122_ykbyws_9Jul2024","Amphipod",0
+"A122_ykbyws_9Jul2024","Euphausiid",0
+"A122_ykbyws_9Jul2024","Polychaete",0
+"A122_ykbyws_9Jul2024","Shrimp",0
+"A122_ykbyws_9Jul2024","Fish",0.906542056074766
+"A122_ykbyws_9Jul2024","Stichaeid",0
+"A120_borrs_9Jul2024","Herring (1+)",0
+"A120_borrs_9Jul2024","Capelin (1+)",1
+"A120_borrs_9Jul2024","Sand lance (1+)",0
+"A120_borrs_9Jul2024","Sablefish",0
+"A120_borrs_9Jul2024","Sand lance (0)",0
+"A120_borrs_9Jul2024","Eulachon",0
+"A120_borrs_9Jul2024","Myctophid",0
+"A120_borrs_9Jul2024","Salmon",0
+"A120_borrs_9Jul2024","Lingcod",0
+"A120_borrs_9Jul2024","Greenling",0
+"A120_borrs_9Jul2024","Gadid",0
+"A120_borrs_9Jul2024","Pollock",0
+"A120_borrs_9Jul2024","Herring (0)",0
+"A120_borrs_9Jul2024","Capelin (0)",0
+"A120_borrs_9Jul2024","Squid",0
+"A120_borrs_9Jul2024","Amphipod",0
+"A120_borrs_9Jul2024","Euphausiid",0
+"A120_borrs_9Jul2024","Polychaete",0
+"A120_borrs_9Jul2024","Shrimp",0
+"A120_borrs_9Jul2024","Fish",0
+"A120_borrs_9Jul2024","Stichaeid",0
+"A119_wbggs_9Jul2024","Herring (1+)",0
+"A119_wbggs_9Jul2024","Capelin (1+)",1
+"A119_wbggs_9Jul2024","Sand lance (1+)",0
+"A119_wbggs_9Jul2024","Sablefish",0
+"A119_wbggs_9Jul2024","Sand lance (0)",0
+"A119_wbggs_9Jul2024","Eulachon",0
+"A119_wbggs_9Jul2024","Myctophid",0
+"A119_wbggs_9Jul2024","Salmon",0
+"A119_wbggs_9Jul2024","Lingcod",0
+"A119_wbggs_9Jul2024","Greenling",0
+"A119_wbggs_9Jul2024","Gadid",0
+"A119_wbggs_9Jul2024","Pollock",0
+"A119_wbggs_9Jul2024","Herring (0)",0
+"A119_wbggs_9Jul2024","Capelin (0)",0
+"A119_wbggs_9Jul2024","Squid",0
+"A119_wbggs_9Jul2024","Amphipod",0
+"A119_wbggs_9Jul2024","Euphausiid",0
+"A119_wbggs_9Jul2024","Polychaete",0
+"A119_wbggs_9Jul2024","Shrimp",0
+"A119_wbggs_9Jul2024","Fish",0
+"A119_wbggs_9Jul2024","Stichaeid",0
+"A123_bwsgbb_9Jul2024","Herring (1+)",0
+"A123_bwsgbb_9Jul2024","Capelin (1+)",1
+"A123_bwsgbb_9Jul2024","Sand lance (1+)",0
+"A123_bwsgbb_9Jul2024","Sablefish",0
+"A123_bwsgbb_9Jul2024","Sand lance (0)",0
+"A123_bwsgbb_9Jul2024","Eulachon",0
+"A123_bwsgbb_9Jul2024","Myctophid",0
+"A123_bwsgbb_9Jul2024","Salmon",0
+"A123_bwsgbb_9Jul2024","Lingcod",0
+"A123_bwsgbb_9Jul2024","Greenling",0
+"A123_bwsgbb_9Jul2024","Gadid",0
+"A123_bwsgbb_9Jul2024","Pollock",0
+"A123_bwsgbb_9Jul2024","Herring (0)",0
+"A123_bwsgbb_9Jul2024","Capelin (0)",0
+"A123_bwsgbb_9Jul2024","Squid",0
+"A123_bwsgbb_9Jul2024","Amphipod",0
+"A123_bwsgbb_9Jul2024","Euphausiid",0
+"A123_bwsgbb_9Jul2024","Polychaete",0
+"A123_bwsgbb_9Jul2024","Shrimp",0
+"A123_bwsgbb_9Jul2024","Fish",0
+"A123_bwsgbb_9Jul2024","Stichaeid",0
+"A124_obsoog_10Jul2024","Herring (1+)",1
+"A124_obsoog_10Jul2024","Capelin (1+)",0
+"A124_obsoog_10Jul2024","Sand lance (1+)",0
+"A124_obsoog_10Jul2024","Sablefish",0
+"A124_obsoog_10Jul2024","Sand lance (0)",0
+"A124_obsoog_10Jul2024","Eulachon",0
+"A124_obsoog_10Jul2024","Myctophid",0
+"A124_obsoog_10Jul2024","Salmon",0
+"A124_obsoog_10Jul2024","Lingcod",0
+"A124_obsoog_10Jul2024","Greenling",0
+"A124_obsoog_10Jul2024","Gadid",0
+"A124_obsoog_10Jul2024","Pollock",0
+"A124_obsoog_10Jul2024","Herring (0)",0
+"A124_obsoog_10Jul2024","Capelin (0)",0
+"A124_obsoog_10Jul2024","Squid",0
+"A124_obsoog_10Jul2024","Amphipod",0
+"A124_obsoog_10Jul2024","Euphausiid",0
+"A124_obsoog_10Jul2024","Polychaete",0
+"A124_obsoog_10Jul2024","Shrimp",0
+"A124_obsoog_10Jul2024","Fish",0
+"A124_obsoog_10Jul2024","Stichaeid",0
+"A112_osrow_12Jul2024","Herring (1+)",0
+"A112_osrow_12Jul2024","Capelin (1+)",0
+"A112_osrow_12Jul2024","Sand lance (1+)",0
+"A112_osrow_12Jul2024","Sablefish",0
+"A112_osrow_12Jul2024","Sand lance (0)",0
+"A112_osrow_12Jul2024","Eulachon",0
+"A112_osrow_12Jul2024","Myctophid",0.9875
+"A112_osrow_12Jul2024","Salmon",0
+"A112_osrow_12Jul2024","Lingcod",0
+"A112_osrow_12Jul2024","Greenling",0
+"A112_osrow_12Jul2024","Gadid",0
+"A112_osrow_12Jul2024","Pollock",0
+"A112_osrow_12Jul2024","Herring (0)",0
+"A112_osrow_12Jul2024","Capelin (0)",0
+"A112_osrow_12Jul2024","Squid",0
+"A112_osrow_12Jul2024","Amphipod",0.0125
+"A112_osrow_12Jul2024","Euphausiid",0
+"A112_osrow_12Jul2024","Polychaete",0
+"A112_osrow_12Jul2024","Shrimp",0
+"A112_osrow_12Jul2024","Fish",0
+"A112_osrow_12Jul2024","Stichaeid",0
+"A117_yysyky_12Jul2024","Herring (1+)",0
+"A117_yysyky_12Jul2024","Capelin (1+)",1
+"A117_yysyky_12Jul2024","Sand lance (1+)",0
+"A117_yysyky_12Jul2024","Sablefish",0
+"A117_yysyky_12Jul2024","Sand lance (0)",0
+"A117_yysyky_12Jul2024","Eulachon",0
+"A117_yysyky_12Jul2024","Myctophid",0
+"A117_yysyky_12Jul2024","Salmon",0
+"A117_yysyky_12Jul2024","Lingcod",0
+"A117_yysyky_12Jul2024","Greenling",0
+"A117_yysyky_12Jul2024","Gadid",0
+"A117_yysyky_12Jul2024","Pollock",0
+"A117_yysyky_12Jul2024","Herring (0)",0
+"A117_yysyky_12Jul2024","Capelin (0)",0
+"A117_yysyky_12Jul2024","Squid",0
+"A117_yysyky_12Jul2024","Amphipod",0
+"A117_yysyky_12Jul2024","Euphausiid",0
+"A117_yysyky_12Jul2024","Polychaete",0
+"A117_yysyky_12Jul2024","Shrimp",0
+"A117_yysyky_12Jul2024","Fish",0
+"A117_yysyky_12Jul2024","Stichaeid",0
+"A116_erbgs_12Jul2024","Herring (1+)",1
+"A116_erbgs_12Jul2024","Capelin (1+)",0
+"A116_erbgs_12Jul2024","Sand lance (1+)",0
+"A116_erbgs_12Jul2024","Sablefish",0
+"A116_erbgs_12Jul2024","Sand lance (0)",0
+"A116_erbgs_12Jul2024","Eulachon",0
+"A116_erbgs_12Jul2024","Myctophid",0
+"A116_erbgs_12Jul2024","Salmon",0
+"A116_erbgs_12Jul2024","Lingcod",0
+"A116_erbgs_12Jul2024","Greenling",0
+"A116_erbgs_12Jul2024","Gadid",0
+"A116_erbgs_12Jul2024","Pollock",0
+"A116_erbgs_12Jul2024","Herring (0)",0
+"A116_erbgs_12Jul2024","Capelin (0)",0
+"A116_erbgs_12Jul2024","Squid",0
+"A116_erbgs_12Jul2024","Amphipod",0
+"A116_erbgs_12Jul2024","Euphausiid",0
+"A116_erbgs_12Jul2024","Polychaete",0
+"A116_erbgs_12Jul2024","Shrimp",0
+"A116_erbgs_12Jul2024","Fish",0
+"A116_erbgs_12Jul2024","Stichaeid",0
+"A119_oygoks_13Jul2024","Herring (1+)",0
+"A119_oygoks_13Jul2024","Capelin (1+)",0
+"A119_oygoks_13Jul2024","Sand lance (1+)",0
+"A119_oygoks_13Jul2024","Sablefish",0
+"A119_oygoks_13Jul2024","Sand lance (0)",0
+"A119_oygoks_13Jul2024","Eulachon",0
+"A119_oygoks_13Jul2024","Myctophid",0
+"A119_oygoks_13Jul2024","Salmon",0
+"A119_oygoks_13Jul2024","Lingcod",0
+"A119_oygoks_13Jul2024","Greenling",1
+"A119_oygoks_13Jul2024","Gadid",0
+"A119_oygoks_13Jul2024","Pollock",0
+"A119_oygoks_13Jul2024","Herring (0)",0
+"A119_oygoks_13Jul2024","Capelin (0)",0
+"A119_oygoks_13Jul2024","Squid",0
+"A119_oygoks_13Jul2024","Amphipod",0
+"A119_oygoks_13Jul2024","Euphausiid",0
+"A119_oygoks_13Jul2024","Polychaete",0
+"A119_oygoks_13Jul2024","Shrimp",0
+"A119_oygoks_13Jul2024","Fish",0
+"A119_oygoks_13Jul2024","Stichaeid",0
+"A126_gbbrks_17Jul2024","Herring (1+)",0.84
+"A126_gbbrks_17Jul2024","Capelin (1+)",0.16
+"A126_gbbrks_17Jul2024","Sand lance (1+)",0
+"A126_gbbrks_17Jul2024","Sablefish",0
+"A126_gbbrks_17Jul2024","Sand lance (0)",0
+"A126_gbbrks_17Jul2024","Eulachon",0
+"A126_gbbrks_17Jul2024","Myctophid",0
+"A126_gbbrks_17Jul2024","Salmon",0
+"A126_gbbrks_17Jul2024","Lingcod",0
+"A126_gbbrks_17Jul2024","Greenling",0
+"A126_gbbrks_17Jul2024","Gadid",0
+"A126_gbbrks_17Jul2024","Pollock",0
+"A126_gbbrks_17Jul2024","Herring (0)",0
+"A126_gbbrks_17Jul2024","Capelin (0)",0
+"A126_gbbrks_17Jul2024","Squid",0
+"A126_gbbrks_17Jul2024","Amphipod",0
+"A126_gbbrks_17Jul2024","Euphausiid",0
+"A126_gbbrks_17Jul2024","Polychaete",0
+"A126_gbbrks_17Jul2024","Shrimp",0
+"A126_gbbrks_17Jul2024","Fish",0
+"A126_gbbrks_17Jul2024","Stichaeid",0
+"A118_ykygrs_4Aug2024","Herring (1+)",0
+"A118_ykygrs_4Aug2024","Capelin (1+)",0
+"A118_ykygrs_4Aug2024","Sand lance (1+)",0
+"A118_ykygrs_4Aug2024","Sablefish",0
+"A118_ykygrs_4Aug2024","Sand lance (0)",0
+"A118_ykygrs_4Aug2024","Eulachon",0
+"A118_ykygrs_4Aug2024","Myctophid",0
+"A118_ykygrs_4Aug2024","Salmon",0
+"A118_ykygrs_4Aug2024","Lingcod",0
+"A118_ykygrs_4Aug2024","Greenling",0
+"A118_ykygrs_4Aug2024","Gadid",0
+"A118_ykygrs_4Aug2024","Pollock",0
+"A118_ykygrs_4Aug2024","Herring (0)",0.98
+"A118_ykygrs_4Aug2024","Capelin (0)",0
+"A118_ykygrs_4Aug2024","Squid",0
+"A118_ykygrs_4Aug2024","Amphipod",0
+"A118_ykygrs_4Aug2024","Euphausiid",0
+"A118_ykygrs_4Aug2024","Polychaete",0
+"A118_ykygrs_4Aug2024","Shrimp",0
+"A118_ykygrs_4Aug2024","Fish",0.02
+"A118_ykygrs_4Aug2024","Stichaeid",0
+"A115_bsbrw_4Aug2024","Herring (1+)",0
+"A115_bsbrw_4Aug2024","Capelin (1+)",0
+"A115_bsbrw_4Aug2024","Sand lance (1+)",0
+"A115_bsbrw_4Aug2024","Sablefish",0
+"A115_bsbrw_4Aug2024","Sand lance (0)",0
+"A115_bsbrw_4Aug2024","Eulachon",0
+"A115_bsbrw_4Aug2024","Myctophid",0
+"A115_bsbrw_4Aug2024","Salmon",0
+"A115_bsbrw_4Aug2024","Lingcod",0
+"A115_bsbrw_4Aug2024","Greenling",0
+"A115_bsbrw_4Aug2024","Gadid",0
+"A115_bsbrw_4Aug2024","Pollock",0
+"A115_bsbrw_4Aug2024","Herring (0)",1
+"A115_bsbrw_4Aug2024","Capelin (0)",0
+"A115_bsbrw_4Aug2024","Squid",0
+"A115_bsbrw_4Aug2024","Amphipod",0
+"A115_bsbrw_4Aug2024","Euphausiid",0
+"A115_bsbrw_4Aug2024","Polychaete",0
+"A115_bsbrw_4Aug2024","Shrimp",0
+"A115_bsbrw_4Aug2024","Fish",0
+"A115_bsbrw_4Aug2024","Stichaeid",0
