@@ -43,8 +43,8 @@ ui <- fluidPage(
   p("These data are associated with the publication: ",
     em("Katelyn M. Depot, Shannon Whelan, Mayumi L. Arimitsu, 
     Gemma V. Clucas, and Kyle H. Elliott. 2026. Coupling diet and foraging 
-    behavior of a surface-feeding seabird to investigate the spatial 
-    distribution of prey. "), style = "font-size: 75%;")
+    behavior of a surface-feeding seabird to map prey spatial distribution."), 
+    style = "font-size: 75%;")
 )
 
 

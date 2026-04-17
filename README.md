@@ -4,7 +4,7 @@
 
 This repository contains data and code to produce the interactive Shiny app for viewing prey samples from GPS-tracked kittiwakes, associated with the manuscript:
 
-"Coupling diet and foraging behavior of a surface-feeding seabird to investigate the spatial distribution of prey" by Katelyn M. Depot, Shannon Whelan, Mayumi L. Arimitsu, Gemma V. Clucas, and Kyle H. Elliott.
+"Coupling diet and foraging behavior of a surface-feeding seabird to map prey spatial distribution" by Katelyn M. Depot, Shannon Whelan, Mayumi L. Arimitsu, Gemma V. Clucas, and Kyle H. Elliott.
 
 Detailed methodology can be found in the associated publication. The online app can be found at the following link at the time of publication: <https://kdepot.shinyapps.io/preymaps/>
 
